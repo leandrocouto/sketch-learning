@@ -1,0 +1,73 @@
+<rts.GameState time="237">
+  <rts.PhysicalGameState width="24" height="24">
+    <terrain>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</terrain>
+    <players>
+      <rts.Player ID="0" resources="7">
+      </rts.Player>
+      <rts.Player ID="1" resources="8">
+      </rts.Player>
+    </players>
+    <units>
+      <rts.units.Unit type="Resource" ID="16" player="-1" x="0" y="0" resources="23" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Resource" ID="17" player="-1" x="0" y="1" resources="18" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Resource" ID="18" player="-1" x="23" y="22" resources="21" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Resource" ID="19" player="-1" x="23" y="23" resources="25" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Base" ID="20" player="0" x="2" y="2" resources="0" hitpoints="10" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Base" ID="21" player="1" x="21" y="21" resources="0" hitpoints="10" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="22" player="0" x="2" y="1" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="26" player="1" x="21" y="22" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="20460" player="0" x="3" y="5" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="20461" player="1" x="22" y="22" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="21547" player="0" x="0" y="2" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="24153" player="0" x="2" y="4" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="26346" player="0" x="1" y="1" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+    </units>
+  </rts.PhysicalGameState>
+  <actions>
+    <unitAction ID="26" time="40">
+      <UnitAction type="4" parameter="2" unitType="Barracks">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="24153" time="160">
+      <UnitAction type="4" parameter="3" unitType="Barracks">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="20" time="200">
+      <UnitAction type="4" parameter="2" unitType="Worker">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="20460" time="230">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="22" time="230">
+      <UnitAction type="0" parameter="10">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="26346" time="230">
+      <UnitAction type="1" parameter="0">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="21547" time="230">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="20461" time="230">
+      <UnitAction type="2" parameter="1">
+      </UnitAction>
+    </unitAction>
+  </actions>
+</rts.GameState>

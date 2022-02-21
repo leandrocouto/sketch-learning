@@ -1,0 +1,26 @@
+<PlayerAction>
+  <action unitID="461750">
+    <UnitAction type="1" parameter="0">
+    </UnitAction>
+  </action>
+  <action unitID="470615">
+    <UnitAction type="1" parameter="3">
+    </UnitAction>
+  </action>
+  <action unitID="478014">
+    <UnitAction type="1" parameter="3">
+    </UnitAction>
+  </action>
+  <action unitID="487948">
+    <UnitAction type="1" parameter="3">
+    </UnitAction>
+  </action>
+  <action unitID="236">
+    <UnitAction type="1" parameter="2">
+    </UnitAction>
+  </action>
+  <action unitID="231">
+    <UnitAction type="0" parameter="10">
+    </UnitAction>
+  </action>
+</PlayerAction>

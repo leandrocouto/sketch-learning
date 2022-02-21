@@ -1,0 +1,135 @@
+<rts.GameState time="1186">
+  <rts.PhysicalGameState width="24" height="24">
+    <terrain>000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</terrain>
+    <players>
+      <rts.Player ID="0" resources="10">
+      </rts.Player>
+      <rts.Player ID="1" resources="9">
+      </rts.Player>
+    </players>
+    <units>
+      <rts.units.Unit type="Resource" ID="16" player="-1" x="0" y="0" resources="9" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Resource" ID="19" player="-1" x="23" y="23" resources="23" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Base" ID="20" player="0" x="2" y="2" resources="0" hitpoints="10" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Base" ID="21" player="1" x="21" y="21" resources="0" hitpoints="10" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="22" player="0" x="3" y="0" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="26" player="1" x="23" y="22" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="20461" player="1" x="22" y="20" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="21547" player="0" x="0" y="1" resources="1" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="26346" player="0" x="1" y="1" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Barracks" ID="27835" player="1" x="21" y="23" resources="0" hitpoints="4" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="28373" player="0" x="2" y="1" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Worker" ID="33184" player="0" x="2" y="3" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Barracks" ID="34769" player="0" x="1" y="4" resources="0" hitpoints="4" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Heavy" ID="34770" player="1" x="1" y="9" resources="0" hitpoints="4" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Heavy" ID="38415" player="1" x="4" y="4" resources="0" hitpoints="2" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Barracks" ID="40662" player="0" x="0" y="3" resources="0" hitpoints="4" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Heavy" ID="42168" player="1" x="2" y="5" resources="0" hitpoints="2" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Heavy" ID="46163" player="1" x="2" y="12" resources="0" hitpoints="2" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Ranged" ID="51150" player="1" x="2" y="8" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Ranged" ID="59320" player="1" x="1" y="18" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Ranged" ID="63892" player="1" x="5" y="22" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+      <rts.units.Unit type="Ranged" ID="67608" player="1" x="14" y="23" resources="0" hitpoints="1" >
+      </rts.units.Unit>
+    </units>
+  </rts.PhysicalGameState>
+  <actions>
+    <unitAction ID="34769" time="1120">
+      <UnitAction type="4" parameter="1" unitType="Heavy">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="27835" time="1120">
+      <UnitAction type="4" parameter="0" unitType="Ranged">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="20" time="1160">
+      <UnitAction type="4" parameter="1" unitType="Worker">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="26" time="1171">
+      <UnitAction type="2" parameter="2">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="42168" time="1176">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="46163" time="1177">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="28373" time="1180">
+      <UnitAction type="0" parameter="10">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="40662" time="1180">
+      <UnitAction type="4" parameter="0" unitType="Light">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="33184" time="1180">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="26346" time="1180">
+      <UnitAction type="1" parameter="0">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="22" time="1180">
+      <UnitAction type="0" parameter="10">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="59320" time="1180">
+      <UnitAction type="1" parameter="0">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="63892" time="1180">
+      <UnitAction type="1" parameter="3">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="67608" time="1180">
+      <UnitAction type="1" parameter="3">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="21547" time="1181">
+      <UnitAction type="0" parameter="10">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="20461" time="1181">
+      <UnitAction type="1" parameter="3">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="38415" time="1183">
+      <UnitAction type="1" parameter="1">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="34770" time="1185">
+      <UnitAction type="1" parameter="0">
+      </UnitAction>
+    </unitAction>
+    <unitAction ID="51150" time="1185">
+      <UnitAction type="1" parameter="0">
+      </UnitAction>
+    </unitAction>
+  </actions>
+</rts.GameState>

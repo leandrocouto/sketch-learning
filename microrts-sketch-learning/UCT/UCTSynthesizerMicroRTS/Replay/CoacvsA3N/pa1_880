@@ -1,0 +1,10 @@
+<PlayerAction>
+  <action unitID="108984">
+    <UnitAction type="4" parameter="1" unitType="Ranged">
+    </UnitAction>
+  </action>
+  <action unitID="132690">
+    <UnitAction type="1" parameter="1">
+    </UnitAction>
+  </action>
+</PlayerAction>

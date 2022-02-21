@@ -1,0 +1,6 @@
+<PlayerAction>
+  <action unitID="32501">
+    <UnitAction type="4" parameter="3" unitType="Barracks">
+    </UnitAction>
+  </action>
+</PlayerAction>

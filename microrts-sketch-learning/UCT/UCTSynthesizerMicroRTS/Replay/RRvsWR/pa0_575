@@ -1,0 +1,6 @@
+<PlayerAction>
+  <action unitID="243">
+    <UnitAction type="5" x="6" y="26">
+    </UnitAction>
+  </action>
+</PlayerAction>

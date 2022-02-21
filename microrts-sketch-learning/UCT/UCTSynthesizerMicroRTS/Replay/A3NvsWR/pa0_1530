@@ -1,0 +1,34 @@
+<PlayerAction>
+  <action unitID="812771">
+    <UnitAction type="5" x="5" y="4">
+    </UnitAction>
+  </action>
+  <action unitID="625181">
+    <UnitAction type="1" parameter="1">
+    </UnitAction>
+  </action>
+  <action unitID="771844">
+    <UnitAction type="0" parameter="10">
+    </UnitAction>
+  </action>
+  <action unitID="232">
+    <UnitAction type="0" parameter="10">
+    </UnitAction>
+  </action>
+  <action unitID="189224">
+    <UnitAction type="1" parameter="2">
+    </UnitAction>
+  </action>
+  <action unitID="362100">
+    <UnitAction type="2" parameter="3">
+    </UnitAction>
+  </action>
+  <action unitID="710994">
+    <UnitAction type="0" parameter="10">
+    </UnitAction>
+  </action>
+  <action unitID="823132">
+    <UnitAction type="0" parameter="10">
+    </UnitAction>
+  </action>
+</PlayerAction>

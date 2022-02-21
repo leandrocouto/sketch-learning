@@ -1,0 +1,14 @@
+<PlayerAction>
+  <action unitID="231">
+    <UnitAction type="4" parameter="0" unitType="Worker">
+    </UnitAction>
+  </action>
+  <action unitID="82805">
+    <UnitAction type="4" parameter="2" unitType="Base">
+    </UnitAction>
+  </action>
+  <action unitID="236">
+    <UnitAction type="1" parameter="1">
+    </UnitAction>
+  </action>
+</PlayerAction>
