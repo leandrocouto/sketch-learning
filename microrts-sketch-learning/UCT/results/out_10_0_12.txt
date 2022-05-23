@@ -1,0 +1,9 @@
+6.032	0.0	0.3605450931627251	1	S;For_S;S;Empty
+36.628	0.0	0.3757069926532901	6	S;Empty
+48.901	0.0	0.42453801497759946	8	S;For_S;S;S_S;S;C;Train;Worker;Down;9;S;S_S;S;For_S;S;C;MoveToUnit;Ally;Closest;S;Empty
+115.899	0.0	0.4641890663839163	19	S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;15;S;For_S;S;C;Build;Base;EnemyDir;8;S;For_S;S;For_S;S;C;Train;Worker;Left;2;S;Empty
+16414.313	0.0	0.46953523127626184	2686	S;S_S;S;If_B_then_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;0;S;S_S;S;C;Build;Light;EnemyDir;0;S;C;Attack;Closest;S;For_S;S;C;Harvest;15;B;is_Type;Heavy;S;If_B_then_S_else_S;S;S_S;S;For_S;S;C;Harvest;5;S;For_S;S;C;Train;Worker;Down;15;B;CanHarvest;S;For_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Attack;Strongest
+23121.539	0.0	0.4813316200275835	3786	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;MoveAway;S;C;Attack;Random;B;IsBuilder;S;For_S;S;S_S;S;C;Train;Barracks;Right;3;S;For_S;S;C;Train;Worker;EnemyDir;5
+32349.243	0.0	0.4846688963539451	5299	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Worker;EnemyDir;50;S;For_S;S;S_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Attack;Farthest;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;100;S;S_S;S;C;Build;Worker;Left;5;S;C;MoveToUnit;Enemy;Closest
+112193.158	0.0	0.4953768922689241	18374	S;For_S;S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Attack;Closest;S;C;Train;Worker;Right;3;S;S_S;S;S_S;S;C;Build;Light;Right;4;S;C;Attack;Weakest;S;For_S;S;C;MoveAway
+172800	0.0	0.4953768922689241	18374	S;For_S;S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Attack;Closest;S;C;Train;Worker;Right;3;S;S_S;S;S_S;S;C;Build;Light;Right;4;S;C;Attack;Weakest;S;For_S;S;C;MoveAway

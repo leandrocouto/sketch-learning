@@ -1,0 +1,2 @@
+1.288	0.0	0.0	S;S_S;S;Empty;S;C;Attack;Strongest	
+172800	0.0	0.0	S;S_S;S;Empty;S;C;Attack;Strongest	

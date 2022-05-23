@@ -1,0 +1,4 @@
+6.138	0.0	0.044863731656184486	1	S;For_S;S;S_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;MoveAway;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Train;Barracks;Right;9;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;7;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;20;S;C;Attack;Random;S;S_S;S;C;MoveAway;S;C;Build;Ranged;Up;10
+36.978	0.0	0.8716681641209948	6	S;Empty
+632.525	0.0	0.877915377192107	53	S;For_S;S;C;Idle
+172800	0.0	0.877915377192107	53	S;For_S;S;C;Idle

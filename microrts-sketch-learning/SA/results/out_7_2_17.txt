@@ -1,0 +1,2 @@
+1.141	0.0	0.0	S;S_S;S;Empty;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;2;S;S_S;S;C;MoveAway;S;C;Build;Worker;Up;5	
+172800	0.0	0.0	S;S_S;S;Empty;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;2;S;S_S;S;C;MoveAway;S;C;Build;Worker;Up;5	

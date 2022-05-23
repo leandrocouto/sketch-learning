@@ -1,0 +1,2 @@
+2.276	0.0	0.0	S;S_S;S;Empty;S;For_S;S;S_S;S;C;MoveToUnit;Ally;LessHealthy;S;C;MoveToUnit;Ally;LessHealthy	
+172800	0.0	0.0	S;S_S;S;Empty;S;For_S;S;S_S;S;C;MoveToUnit;Ally;LessHealthy;S;C;MoveToUnit;Ally;LessHealthy	

@@ -1,0 +1,8 @@
+12.683	0.0	0.17914053466693736	1	S;For_S;S;C;MoveAway
+19.596	0.0	0.21494425066020897	2	S;For_S;S;S_S;S;Empty;S;C;MoveToUnit;Enemy;Closest
+34.714	0.0	0.21667313399442265	4	S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;S_S;S;Empty;S;Empty;S;C;Attack;LessHealthy
+40.855	0.0	0.2180820155032448	5	S;For_S;S;C;Attack;Closest
+2692.471	0.0	0.22214948754788288	98	S;S_S;S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;1;S;C;Idle;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;8;S;C;MoveToUnit;Enemy;Closest;S;C;Harvest;6;S;C;MoveToUnit;Enemy;Closest;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;0;S;C;MoveAway
+26465.514	0.0	0.22634003011140874	477	S;S_S;S;For_S;S;C;Train;Worker;EnemyDir;7;S;For_S;S;S_S;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;10;S;C;MoveAway;S;S_S;S;C;Harvest;5;S;C;Attack;LessHealthy
+72297.412	0.0	0.2283600535138469	965	S;For_S;S;S_S;S;S_S;S;C;Harvest;4;S;C;Attack;LessHealthy;S;S_S;S;C;Build;Ranged;EnemyDir;7;S;C;MoveAway
+172800	0.0	0.2283600535138469	965	S;For_S;S;S_S;S;S_S;S;C;Harvest;4;S;C;Attack;LessHealthy;S;S_S;S;C;Build;Ranged;EnemyDir;7;S;C;MoveAway

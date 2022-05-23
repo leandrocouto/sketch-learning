@@ -1,0 +1,7 @@
+6.059	0.0	0.9790317876932048	1	S;For_S;S;S_S;S;For_S;S;Empty;S;C;Harvest;7
+12.285	0.0	0.9795348498104406	2	S;For_S;S;C;Attack;Closest
+48.997	0.0	0.9830344123651208	8	S;S_S;S;For_S;S;S_S;S;C;Idle;S;S_S;S;Empty;S;Empty;S;For_S;S;For_S;S;C;Harvest;15
+110.701	0.0	0.9905730533683289	18	S;S_S;S;S_S;S;For_S;S;C;Build;Light;Right;100;S;For_S;S;C;Harvest;9;S;For_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Build;Heavy;Down;4;S;S_S;S;C;Attack;LessHealthy;S;C;Build;Light;Up;10
+1261.135	0.0	0.9938466025080197	205	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Random
+1673.596	0.0	0.9955526392534265	272	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Strongest
+172800	0.0	0.9955526392534265	272	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Strongest

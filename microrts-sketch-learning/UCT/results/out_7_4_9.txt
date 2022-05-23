@@ -1,0 +1,5 @@
+6.031	0.0	0.972667398463227	1	S;For_S;S;For_S;S;S_S;S;C;Attack;Strongest;S;Empty
+24.079	0.0	0.9813574826198317	4	S;For_S;S;C;Attack;Closest
+139.616	0.0	0.9963959019392608	23	S;For_S;S;S_S;S;S_S;S;C;Harvest;5;S;C;Attack;Closest;S;For_S;S;C;Idle
+290.115	0.0	0.9975850713501646	47	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;25;S;C;Attack;Closest;B;OpponentHasUnitInPlayerRange;S;Empty
+172800	0.0	0.9975850713501646	47	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;25;S;C;Attack;Closest;B;OpponentHasUnitInPlayerRange;S;Empty

@@ -1,0 +1,2 @@
+7.014	0.0	0.04187192118226601	1	S;For_S;S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;3;S;C;MoveToUnit;Enemy;Strongest
+172800	0.0	0.04187192118226601	1	S;For_S;S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;3;S;C;MoveToUnit;Enemy;Strongest

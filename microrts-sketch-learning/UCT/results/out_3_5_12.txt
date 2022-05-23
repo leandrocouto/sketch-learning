@@ -1,0 +1,11 @@
+6.101	0.0	0.3192239999771118	1	S;For_S;S;S_S;S;C;Train;Worker;Down;8;S;C;Harvest;100
+12.128	0.0	0.3827160596847534	2	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;6;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;C;Train;Ranged;Right;1;S;C;Train;Light;Down;4;S;S_S;S;C;Harvest;7;S;C;Train;Light;Right;20;S;Empty
+138.67	0.0	0.42222222685813904	23	S;For_S;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;8;S;C;MoveToUnit;Ally;Closest;S;C;Train;Worker;Up;4
+1023.892	0.0	0.4296296238899231	170	S;For_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;Left;4
+12924.069	0.0	0.4407407343387604	2135	S;S_S;S;For_S;S;C;Train;Worker;Right;3;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;C;Build;Barracks;Up;50;S;Empty
+14038.89	0.0	0.46358025074005127	2320	S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;S_S;S;S_S;S;C;Harvest;4;S;C;Train;Heavy;EnemyDir;15;S;C;MoveToUnit;Enemy;MostHealthy;S;C;MoveToUnit;Ally;MostHealthy;S;For_S;S;C;Build;Barracks;Up;4
+14611.266	0.0	0.4938271641731262	2415	S;For_S;S;S_S;S;S_S;S;For_S;S;S_S;S;For_S;S;C;Harvest;8;S;C;Train;Worker;Down;3;S;For_S;S;Empty;S;C;Build;Barracks;Left;1
+16031.912	0.0	0.510493814945221	2650	S;For_S;S;S_S;S;C;Build;Barracks;Down;10;S;For_S;S;S_S;S;S_S;S;C;Harvest;6;S;C;Attack;Farthest;S;For_S;S;C;Train;Worker;Down;4
+82203.42	0.0	0.5129629373550415	13065	S;For_S;S;S_S;S;For_S;S;For_S;S;C;Train;Worker;EnemyDir;4;S;For_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Build;Barracks;Down;1
+127993.263	0.0	0.5537037253379822	20617	S;For_S;S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;Empty;S;S_S;S;If_B_then_S;B;HasUnitInOpponentRange;S;S_S;S;C;MoveToUnit;Enemy;MostHealthy;S;C;Attack;Random;S;S_S;S;S_S;S;C;Train;Heavy;Down;25;S;C;Harvest;7;S;S_S;S;C;Attack;Farthest;S;S_S;S;S_S;S;C;Build;Base;Up;100;S;S_S;S;C;Harvest;0;S;C;MoveAway;S;For_S;S;S_S;S;C;Train;Base;Up;1;S;C;Build;Barracks;Down;2;S;C;Train;Worker;Left;3;S;For_S;S;For_S;S;Empty
+172800	0.0	0.5537037253379822	20617	S;For_S;S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;Empty;S;S_S;S;If_B_then_S;B;HasUnitInOpponentRange;S;S_S;S;C;MoveToUnit;Enemy;MostHealthy;S;C;Attack;Random;S;S_S;S;S_S;S;C;Train;Heavy;Down;25;S;C;Harvest;7;S;S_S;S;C;Attack;Farthest;S;S_S;S;S_S;S;C;Build;Base;Up;100;S;S_S;S;C;Harvest;0;S;C;MoveAway;S;For_S;S;S_S;S;C;Train;Base;Up;1;S;C;Build;Barracks;Down;2;S;C;Train;Worker;Left;3;S;For_S;S;For_S;S;Empty

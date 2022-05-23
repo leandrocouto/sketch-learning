@@ -1,0 +1,3 @@
+2.18	0.0	0.0	S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Build;Worker;Right;8	
+153.696	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;EnemyDir;1;S;If_B_then_S;B;CanAttack;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;For_S;S;S_S;S;C;Train;Ranged;Up;9;S;C;MoveToUnit;Enemy;MostHealthy	
+86400	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;EnemyDir;1;S;If_B_then_S;B;CanAttack;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;For_S;S;S_S;S;C;Train;Ranged;Up;9;S;C;MoveToUnit;Enemy;MostHealthy	

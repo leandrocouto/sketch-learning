@@ -1,0 +1,11 @@
+9.952	0.0	0.9023249327764747	1	S;For_S;S;S_S;S;Empty;S;For_S;S;C;Attack;Closest
+22.882	0.0	0.9101241065998781	2	S;For_S;S;S_S;S;C;MoveAway;S;C;Harvest;3
+34.915	0.0	0.9300461612135624	4	S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;For_S;S;C;Idle;S;For_S;S;C;Harvest;50
+144.555	0.0	0.9326418686550847	18	S;If_B_then_S_else_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;2;S;C;Harvest;50;S;Empty;S;C;Idle;S;For_S;S;C;MoveToUnit;Enemy;Farthest
+374.469	0.0	0.9366596529592126	38	S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;C;Attack;Closest;S;C;MoveAway
+1962.484	0.0	0.9367330743982727	213	S;For_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;Idle;S;C;Attack;Random
+9670.226	0.0	0.9375284733214251	1045	S;S_S;S;For_S;S;C;Harvest;25;S;For_S;S;If_B_then_S_else_S;B;Idle;S;For_S;S;Empty;S;C;MoveToUnit;Enemy;Random
+22524.736	0.0	0.9376508423865253	2397	S;S_S;S;For_S;S;C;Harvest;8;S;For_S;S;C;Attack;Random
+22563.804	0.0	0.9391682187937694	2402	S;S_S;S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Random;S;Empty
+45207.406	0.0	0.9397923010257812	4904	S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Idle;S;C;MoveToUnit;Enemy;Random;S;For_S;S;For_S;S;C;Harvest;10;S;Empty
+172800	0.0	0.9397923010257812	4904	S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Idle;S;C;MoveToUnit;Enemy;Random;S;For_S;S;For_S;S;C;Harvest;10;S;Empty

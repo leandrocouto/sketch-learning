@@ -1,0 +1,6 @@
+6.237	0.0	0.9054145397757732	1	S;For_S;S;C;MoveToUnit;Ally;LessHealthy
+18.3	0.0	0.9277823335092059	3	S;For_S;S;C;Harvest;8
+25.155	0.0	0.9341102974362888	4	S;S_S;S;Empty;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;9;S;C;Idle;S;For_S;S;S_S;S;C;Attack;Random;S;C;Build;Worker;Left;25
+122.206	0.0	0.9389969021026292	10	S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Harvest;10;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;S_S;S;Empty;S;Empty;S;C;Attack;Random
+6921.975	0.0	0.9410649393028249	801	S;S_S;S;S_S;S;For_S;S;C;Harvest;10;S;Empty;S;S_S;S;Empty;S;For_S;S;For_S;S;C;Attack;Random
+172800	0.0	0.9410649393028249	801	S;S_S;S;S_S;S;For_S;S;C;Harvest;10;S;Empty;S;S_S;S;Empty;S;For_S;S;For_S;S;C;Attack;Random

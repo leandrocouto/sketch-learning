@@ -1,0 +1,5 @@
+6.02	0.0	0.9529454811562377	1	S;For_S;S;C;Attack;MostHealthy
+25.014	0.0	0.9801683132089278	4	S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Attack;Closest;S;C;Attack;Closest
+37.122	0.0	0.9813574826198317	6	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;Empty;S;Empty;S;C;Attack;Closest;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;1;S;C;MoveAway
+215.583	0.0	0.9975850713501646	35	S;For_S;S;S_S;S;C;Harvest;7;S;S_S;S;C;Train;Light;Up;50;S;C;Attack;Closest
+172800	0.0	0.9975850713501646	35	S;For_S;S;S_S;S;C;Harvest;7;S;S_S;S;C;Train;Light;Up;50;S;C;Attack;Closest

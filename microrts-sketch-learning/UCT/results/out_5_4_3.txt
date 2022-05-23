@@ -1,0 +1,2 @@
+6.019	0.0	0.04187192118226601	1	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;25;S;S_S;S;S_S;S;C;MoveToUnit;Ally;Closest;S;C;MoveAway;S;For_S;S;C;MoveAway
+172800	0.0	0.04187192118226601	1	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;25;S;S_S;S;S_S;S;C;MoveToUnit;Ally;Closest;S;C;MoveAway;S;For_S;S;C;MoveAway

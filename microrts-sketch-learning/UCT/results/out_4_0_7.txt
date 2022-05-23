@@ -1,0 +1,10 @@
+6.035	0.0	0.2878302878036192	1	S;For_S;S;If_B_then_S;B;CanHarvest;S;If_B_then_S;B;IsBuilder;S;C;Harvest;4
+12.064	0.0	0.31498739640253465	2	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;8;S;C;MoveToUnit;Enemy;Strongest;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Build;Barracks;Down;3
+36.128	0.0	0.3176186869488436	6	S;For_S;S;For_S;S;C;Build;Barracks;Left;1
+78.295	0.0	0.3409074315499637	13	S;For_S;S;S_S;S;S_S;S;C;Train;Heavy;Right;6;S;C;Attack;Weakest;S;C;Train;Worker;Down;1
+156.539	0.0	0.35585919194100735	26	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;3;S;S_S;S;C;Harvest;25;S;C;Train;Heavy;Down;6
+1141.498	0.0	0.4456271743280377	189	S;For_S;S;S_S;S;S_S;S;C;Build;Barracks;Right;100;S;C;Harvest;1;S;S_S;S;If_B_then_S;B;IsBuilder;S;C;Attack;Random;S;For_S;S;C;Train;Ranged;Down;9
+2898.567	0.0	0.4520794490805426	481	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Build;Barracks;Right;20;S;S_S;S;C;Harvest;3;S;C;Train;Ranged;EnemyDir;100;S;S_S;S;For_S;S;C;Idle;S;For_S;S;C;Harvest;0
+10845.804	0.0	0.7266556034272026	1801	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;S_S;S;C;Harvest;50;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;3;S;If_B_then_S;B;CanHarvest;S;C;Build;Worker;Down;20;S;S_S;S;C;Train;Ranged;Down;25;S;S_S;S;C;Harvest;15;S;C;MoveToUnit;Ally;Farthest
+16986.043	0.0	0.728346671380177	2820	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;S_S;S;C;Build;Barracks;Up;10;S;C;Train;Ranged;Up;9;S;For_S;S;For_S;S;C;Train;Barracks;Down;25;S;S_S;S;For_S;S;C;Harvest;8;S;If_B_then_S_else_S;B;HasNumberOfUnits;Heavy;8;S;S_S;S;C;Idle;S;C;Harvest;3;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Train;Ranged;EnemyDir;4;S;C;Attack;Weakest
+172800	0.0	0.728346671380177	2820	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;S_S;S;C;Build;Barracks;Up;10;S;C;Train;Ranged;Up;9;S;For_S;S;For_S;S;C;Train;Barracks;Down;25;S;S_S;S;For_S;S;C;Harvest;8;S;If_B_then_S_else_S;B;HasNumberOfUnits;Heavy;8;S;S_S;S;C;Idle;S;C;Harvest;3;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Train;Ranged;EnemyDir;4;S;C;Attack;Weakest

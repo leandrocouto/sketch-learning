@@ -1,0 +1,2 @@
+6.046	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Build;Barracks;Up;9
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Build;Barracks;Up;9

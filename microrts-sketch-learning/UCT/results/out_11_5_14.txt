@@ -1,0 +1,7 @@
+6.052	0.0	0.2222222238779068	1	S;For_S;S;S_S;S;C;MoveToUnit;Ally;Random;S;C;Idle
+67.127	0.0	0.2777777910232544	11	S;For_S;S;C;Train;Worker;Right;1
+651.356	0.0	0.3740740716457367	107	S;S_S;S;Empty;S;For_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Ranged;0;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;S_S;S;C;Harvest;20;S;C;MoveAway;S;S_S;S;For_S;S;C;Train;Worker;Right;3;S;C;Harvest;7
+5383.809	0.0	0.3861111104488373	883	S;For_S;S;S_S;S;C;Train;Worker;Left;2;S;C;Harvest;3
+46699.431	0.0	0.40833333134651184	7666	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;4;S;S_S;S;C;Train;Worker;EnemyDir;4;S;C;Build;Barracks;Left;6
+73394.279	0.0	0.4416666626930237	12047	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Worker;Up;2;S;C;Harvest;3;S;S_S;S;C;Build;Barracks;Down;7;S;C;Idle;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Harvest;4;S;C;Attack;Random
+172800	0.0	0.4416666626930237	12047	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Worker;Up;2;S;C;Harvest;3;S;S_S;S;C;Build;Barracks;Down;7;S;C;Idle;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Harvest;4;S;C;Attack;Random

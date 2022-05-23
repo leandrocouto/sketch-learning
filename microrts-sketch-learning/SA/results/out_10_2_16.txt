@@ -1,0 +1,2 @@
+1.54	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;C;Build;Barracks;Up;4;S;Empty	
+172800	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;C;Build;Barracks;Up;4;S;Empty	

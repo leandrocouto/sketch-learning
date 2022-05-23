@@ -1,0 +1,6 @@
+6.086	0.0	0.0032876712328767125	1	S;For_S;S;Empty
+38.013	0.0	0.8528581905157252	6	S;Empty
+618.281	0.0	0.8691713020617132	53	S;For_S;S;C;Idle
+20408.96	0.5	0.0032876712328767125	2915	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Build;Light;Down;9;S;C;Attack;LessHealthy;S;S_S;S;C;Idle;S;C;Train;Light;Up;2;S;For_S;S;Empty
+28693.552	1.0	0.0032876712328767125	4072	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Train;Ranged;Up;15;S;If_B_then_S_else_S;B;IsBuilder;S;C;Train;Light;Right;7;S;C;Harvest;50;S;For_S;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Harvest;15;S;For_S;S;C;Idle
+172800	1.0	0.0032876712328767125	4072	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Train;Ranged;Up;15;S;If_B_then_S_else_S;B;IsBuilder;S;C;Train;Light;Right;7;S;C;Harvest;50;S;For_S;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Harvest;15;S;For_S;S;C;Idle

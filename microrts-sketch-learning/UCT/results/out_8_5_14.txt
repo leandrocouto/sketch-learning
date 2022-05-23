@@ -1,0 +1,11 @@
+6.04	0.0	0.25670498609542847	1	S;For_S;S;S_S;S;Empty;S;C;Harvest;3
+133.654	0.0	0.3333333432674408	22	S;For_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Train;Worker;EnemyDir;6;S;For_S;S;C;Train;Base;Up;8
+473.822	0.0	0.3472222089767456	78	S;For_S;S;If_B_then_S;S;S_S;S;C;Train;Heavy;Right;3;S;C;Build;Barracks;EnemyDir;2;B;HasNumberOfWorkersHarvesting;5
+619.172	0.0	0.36781609058380127	102	S;For_S;S;S_S;S;C;Harvest;8;S;C;Build;Barracks;Right;4
+3214.82	0.0	0.3822903335094452	527	S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Harvest;6;S;C;MoveToUnit;Enemy;Random;S;For_S;S;C;Train;Worker;EnemyDir;9
+62943.927	0.0	0.3888888955116272	10365	S;S_S;S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;For_S;S;For_S;S;Empty;S;C;Train;Barracks;Up;50;S;S_S;S;S_S;S;S_S;S;Empty;S;Empty;S;C;MoveToUnit;Ally;Weakest;S;For_S;S;S_S;S;Empty;S;Empty;B;HaveQtdUnitsAttacking;10;S;For_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;7;S;C;Train;Heavy;Down;6
+84523.665	0.0	0.39025723934173584	13924	S;S_S;S;For_S;S;S_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;4;S;C;MoveToUnit;Enemy;Strongest;S;C;Train;Worker;EnemyDir;15;S;For_S;S;For_S;S;For_S;S;Empty
+99565.465	0.0	0.3903788924217224	16402	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;7;S;S_S;S;C;Harvest;25;S;C;Train;Light;Left;15;S;C;Build;Barracks;Up;2
+131561.376	0.0	0.3976159989833832	21563	S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;Up;8;S;S_S;S;C;MoveToUnit;Enemy;Closest;S;C;Build;Barracks;Up;5
+141608.281	0.0	0.42592594027519226	23218	S;For_S;S;S_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;1;S;C;MoveToUnit;Ally;Random;S;S_S;S;S_S;S;C;Train;Barracks;Left;15;S;C;Train;Worker;Up;15;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;MoveToUnit;Ally;Weakest;S;C;Build;Barracks;Down;25;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Attack;Farthest
+172800	0.0	0.42592594027519226	23218	S;For_S;S;S_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;1;S;C;MoveToUnit;Ally;Random;S;S_S;S;S_S;S;C;Train;Barracks;Left;15;S;C;Train;Worker;Up;15;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;MoveToUnit;Ally;Weakest;S;C;Build;Barracks;Down;25;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Attack;Farthest

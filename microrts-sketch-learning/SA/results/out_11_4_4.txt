@@ -1,0 +1,4 @@
+13.978	0.0	0.021634062140391253	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Left;25;S;C;Idle;S;Empty	
+86400	0.0	0.021634062140391253	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Left;25;S;C;Idle;S;Empty	
+86409.946	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Train;Light;EnemyDir;0;S;Empty	
+172800	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Train;Light;EnemyDir;0;S;Empty	

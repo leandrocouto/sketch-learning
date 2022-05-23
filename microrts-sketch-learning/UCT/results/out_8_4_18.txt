@@ -1,0 +1,9 @@
+32.729	0.0	0.21415200834555884	1	S;For_S;S;For_S;S;C;MoveToUnit;Enemy;LessHealthy
+284.829	0.0	0.21667313399442265	13	S;For_S;S;C;Attack;Weakest
+336.878	0.0	0.21735539075231786	18	S;S_S;S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;For_S;S;For_S;S;Empty
+589.818	0.0	0.2180820155032448	33	S;For_S;S;For_S;S;C;Attack;Closest
+701.928	0.0	0.21810812568855628	42	S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Closest;S;S_S;S;C;Attack;Closest;S;C;Harvest;3
+31198.579	0.0	0.22273247966712056	627	S;S_S;S;If_B_then_S;S;Empty;B;OpponentHasNumberOfUnits;Worker;50;S;For_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;MoveToUnit;Enemy;Closest;S;C;Attack;Random
+61149.51	0.0	0.22339048414960092	785	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;S_S;S;C;Harvest;2;S;C;MoveToUnit;Enemy;MostHealthy;S;S_S;S;C;Harvest;4;S;C;MoveToUnit;Enemy;Random
+80166.518	0.0	0.22752389706405096	955	S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Strongest
+172800	0.0	0.22752389706405096	955	S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Strongest

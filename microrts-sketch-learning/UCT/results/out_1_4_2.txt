@@ -1,0 +1,4 @@
+6.039	0.0	0.9962931701484139	1	S;For_S;S;S_S;S;For_S;S;C;Harvest;100;S;C;Attack;Strongest
+235.412	1.0	0.9722269114440458	39	S;S_S;S;Empty;S;For_S;S;S_S;S;If_B_then_S_else_S;B;IsBuilder;S;For_S;S;C;MoveToUnit;Enemy;Farthest;S;S_S;S;S_S;S;C;Harvest;6;S;C;Harvest;4;S;For_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;C;Train;Ranged;Left;100
+164993.785	1.0	0.9919357107687979	27435	S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;3;S;If_B_then_S_else_S;S;For_S;S;C;Harvest;50;B;HaveQtdUnitsAttacking;8;S;For_S;S;C;Attack;Weakest
+172800	1.0	0.9919357107687979	27435	S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;3;S;If_B_then_S_else_S;S;For_S;S;C;Harvest;50;B;HaveQtdUnitsAttacking;8;S;For_S;S;C;Attack;Weakest

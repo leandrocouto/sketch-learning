@@ -1,0 +1,2 @@
+6.022	0.0	0.0	1	S;For_S;S;C;Attack;Closest
+172800	0.0	0.0	1	S;For_S;S;C;Attack;Closest

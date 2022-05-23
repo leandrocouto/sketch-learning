@@ -1,0 +1,3 @@
+2.132	0.0	0.0	S;S_S;S;If_B_then_S;B;IsBuilder;S;C;MoveToUnit;Ally;MostHealthy;S;Empty	
+9716.505	1.0	0.0	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;100;S;For_S;S;C;Idle;S;For_S;S;C;Harvest;8;S;If_B_then_S;B;HaveQtdUnitsAttacking;8;S;C;MoveToUnit;Enemy;Farthest	
+86400	1.0	0.0	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;100;S;For_S;S;C;Idle;S;For_S;S;C;Harvest;8;S;If_B_then_S;B;HaveQtdUnitsAttacking;8;S;C;MoveToUnit;Enemy;Farthest	

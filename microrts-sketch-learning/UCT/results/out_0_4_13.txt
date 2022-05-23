@@ -1,0 +1,5 @@
+9.696	0.0	0.0032876712328767125	1	S;For_S;S;For_S;S;For_S;S;Empty
+39.881	0.0	0.8528581905157252	6	S;Empty
+616.307	0.0	0.8691713020617132	53	S;For_S;S;C;Idle
+122048.856	1.0	0.0032876712328767125	17205	S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Right;5;S;S_S;S;C;Harvest;8;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;Left;25
+172800	1.0	0.0032876712328767125	17205	S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Right;5;S;S_S;S;C;Harvest;8;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;Left;25

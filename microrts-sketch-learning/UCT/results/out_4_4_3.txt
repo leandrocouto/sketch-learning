@@ -1,0 +1,4 @@
+6.084	0.0	0.9796389726716009	1	S;For_S;S;C;Attack;Closest
+24.252	0.0	0.9943268439813544	4	S;S_S;S;For_S;S;S_S;S;C;Harvest;20;S;C;Train;Heavy;Right;8;S;For_S;S;C;Attack;Strongest
+90.457	0.0	0.9975514121195503	12	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;For_S;S;Empty;S;For_S;S;C;Harvest;10
+172800	0.0	0.9975514121195503	12	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;For_S;S;Empty;S;For_S;S;C;Harvest;10

@@ -1,0 +1,5 @@
+6.008	0.0	0.4305555522441864	1	S;For_S;S;For_S;S;S_S;S;C;Train;Worker;Left;3;S;C;Harvest;15
+584.457	0.0	0.43703705072402954	97	S;S_S;S;For_S;S;C;Harvest;5;S;S_S;S;Empty;S;S_S;S;For_S;S;C;Train;Worker;Up;3;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;If_B_then_S;B;IsBuilder;S;C;Build;Barracks;Left;7;S;C;Harvest;1
+777.064	1.0	0.3333333432674408	129	S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;50;B;HasUnitThatKillsInOneAttack;S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Train;Heavy;Left;0;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;25;S;C;Attack;Random
+51052.792	1.0	0.3611111044883728	8490	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Ranged;Right;1;S;S_S;S;C;Train;Worker;Down;6;S;C;MoveAway
+172800	1.0	0.3611111044883728	8490	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Ranged;Right;1;S;S_S;S;C;Train;Worker;Down;6;S;C;MoveAway

@@ -1,0 +1,5 @@
+6.165	0.0	0.9795348498104406	1	S;For_S;S;S_S;S;C;Attack;Closest;S;C;Attack;LessHealthy
+85.586	0.0	0.9905730533683289	14	S;For_S;S;S_S;S;If_B_then_S_else_S;B;IsBuilder;S;If_B_then_S;B;IsBuilder;S;C;Idle;S;For_S;S;C;Harvest;3;S;For_S;S;For_S;S;C;Attack;Weakest
+507.748	0.0	0.9955526392534265	83	S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;9;S;If_B_then_S;B;CanAttack;S;C;Train;Barracks;Right;5;S;S_S;S;C;MoveAway;S;C;Harvest;0;S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Strongest
+7986.875	0.0	0.995771361913094	1283	S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest;S;For_S;S;C;Build;Barracks;Down;4
+172800	0.0	0.995771361913094	1283	S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest;S;For_S;S;C;Build;Barracks;Down;4

@@ -1,0 +1,2 @@
+0.92	0.0	0.0	S;S_S;S;C;Build;Light;Up;9;S;Empty	
+172800	0.0	0.0	S;S_S;S;C;Build;Light;Up;9;S;Empty	

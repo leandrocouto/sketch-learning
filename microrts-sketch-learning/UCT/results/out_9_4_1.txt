@@ -1,0 +1,6 @@
+10.959	0.0	0.8706767237478847	1	S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Closest;S;C;Idle;S;S_S;S;C;Idle;S;C;MoveAway
+128.404	0.0	0.8811707400658716	8	S;For_S;S;C;Attack;MostHealthy
+183.783	0.0	0.9064764566824516	12	S;For_S;S;If_B_then_S_else_S;B;is_Type;Worker;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Train;Heavy;Right;20;S;C;Harvest;100
+190.454	0.0	0.9332921385730388	13	S;For_S;S;For_S;S;S_S;S;C;Harvest;10;S;C;Attack;Weakest
+2942.846	0.0	0.9392629980644981	129	S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;C;Attack;Closest;S;C;Build;Light;Left;10
+172800	0.0	0.9392629980644981	129	S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;C;Attack;Closest;S;C;Build;Light;Left;10

@@ -1,0 +1,2 @@
+6.005	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;25;S;C;MoveToUnit;Enemy;Random
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;25;S;C;MoveToUnit;Enemy;Random

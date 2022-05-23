@@ -1,0 +1,2 @@
+0.868	0.0	0.0	S;S_S;S;Empty;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Heavy;EnemyDir;50	
+86400	0.0	0.0	S;S_S;S;Empty;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Heavy;EnemyDir;50	

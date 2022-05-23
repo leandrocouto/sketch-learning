@@ -1,0 +1,7 @@
+6.043	0.0	0.17299610980621088	1	S;For_S;S;C;Train;Heavy;Down;5
+12.066	0.0	0.1939713269009938	2	S;For_S;S;C;Train;Worker;Left;4
+24.11	0.0	0.27668977174041326	4	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Build;Worker;Left;50;S;For_S;S;C;Attack;Strongest;S;C;Train;Heavy;Down;100;S;For_S;S;Empty
+349.525	0.0	0.28859853237816	58	S;S_S;S;For_S;S;S_S;S;C;Idle;S;For_S;S;C;Train;Ranged;Up;2;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;Attack;Random;S;C;Attack;Random;S;If_B_then_S;B;OpponentHasNumberOfUnits;Heavy;15;S;If_B_then_S;B;CanHarvest;S;C;MoveToUnit;Enemy;Farthest
+487.934	0.0	0.34884065759380545	81	S;For_S;S;S_S;S;C;Train;Worker;Up;10;S;S_S;S;For_S;S;C;Harvest;3;S;For_S;S;C;Attack;LessHealthy
+957.531	1.0	0.18134077397452764	159	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;7;S;C;MoveToUnit;Ally;Weakest;S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;For_S;S;Empty;S;C;Idle;S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;50;S;For_S;S;Empty;S;C;Attack;Strongest;S;S_S;S;C;Train;Worker;Down;3;S;S_S;S;C;Train;Ranged;EnemyDir;3;S;C;Idle
+172800	1.0	0.18134077397452764	159	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;7;S;C;MoveToUnit;Ally;Weakest;S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;For_S;S;Empty;S;C;Idle;S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;50;S;For_S;S;Empty;S;C;Attack;Strongest;S;S_S;S;C;Train;Worker;Down;3;S;S_S;S;C;Train;Ranged;EnemyDir;3;S;C;Idle

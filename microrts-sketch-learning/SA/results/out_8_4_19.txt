@@ -1,0 +1,4 @@
+18.415	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Weakest;S;Empty	
+86400	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Weakest;S;Empty	
+86700.476	0.0	0.0779816513761468	S;For_S;S;C;Attack;LessHealthy	
+172800	0.0	0.0779816513761468	S;For_S;S;C;Attack;LessHealthy	

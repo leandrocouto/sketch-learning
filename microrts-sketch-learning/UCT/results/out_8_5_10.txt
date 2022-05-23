@@ -1,0 +1,4 @@
+6.102	0.0	0.35672515630722046	1	S;For_S;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;For_S;S;C;Build;Base;Left;2;S;S_S;S;C;Build;Barracks;Right;1;S;C;Train;Ranged;Up;100
+940.238	0.0	0.36781609058380127	155	S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;7;B;HasUnitThatKillsInOneAttack;S;S_S;S;For_S;S;For_S;S;S_S;S;C;Harvest;100;S;C;Build;Barracks;EnemyDir;10;S;S_S;S;Empty;S;Empty
+6747.526	0.0	0.43209877610206604	1113	S;For_S;S;S_S;S;S_S;S;Empty;S;If_B_then_S_else_S;B;is_Type;Heavy;S;For_S;S;C;MoveAway;S;For_S;S;S_S;S;C;Train;Heavy;EnemyDir;20;S;C;MoveAway;S;C;Build;Barracks;Right;2
+172800	0.0	0.43209877610206604	1113	S;For_S;S;S_S;S;S_S;S;Empty;S;If_B_then_S_else_S;B;is_Type;Heavy;S;For_S;S;C;MoveAway;S;For_S;S;S_S;S;C;Train;Heavy;EnemyDir;20;S;C;MoveAway;S;C;Build;Barracks;Right;2

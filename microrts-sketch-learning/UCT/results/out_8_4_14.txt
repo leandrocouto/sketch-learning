@@ -1,0 +1,4 @@
+7.344	0.0	0.17670494377247495	1	S;For_S;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;5;S;C;Idle;S;For_S;S;C;Harvest;50
+20.502	0.0	0.21667313399442265	2	S;For_S;S;C;Attack;Weakest
+200.045	0.0	0.2283600535138469	17	S;For_S;S;For_S;S;S_S;S;C;Harvest;4;S;C;Attack;LessHealthy
+172800	0.0	0.2283600535138469	17	S;For_S;S;For_S;S;S_S;S;C;Harvest;4;S;C;Attack;LessHealthy

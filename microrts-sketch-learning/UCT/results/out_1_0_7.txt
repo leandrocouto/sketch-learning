@@ -1,0 +1,6 @@
+6.02	0.0	0.7117803045782016	1	S;For_S;S;S_S;S;C;Train;Ranged;Left;1;S;C;Idle
+42.083	0.0	0.7206419543267	7	S;For_S;S;S_S;S;C;Attack;LessHealthy;S;S_S;S;C;Train;Ranged;Down;2;S;C;Train;Worker;Up;7
+276.777	0.0	0.730480642137626	46	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;Train;Worker;EnemyDir;2;B;HasUnitInOpponentRange;B;HasNumberOfWorkersHarvesting;50
+445.298	0.0	0.7428733065592504	74	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Right;20;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;100;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;S_S;S;C;Build;Barracks;EnemyDir;10;S;C;Attack;Weakest;S;For_S;S;C;Harvest;4
+595.694	1.0	0.40456750505441763	99	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;C;Build;Worker;Right;20;S;If_B_then_S_else_S;B;Idle;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;C;Idle;S;For_S;S;C;Train;Ranged;Left;6;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Weakest
+172800	1.0	0.40456750505441763	99	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;C;Build;Worker;Right;20;S;If_B_then_S_else_S;B;Idle;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;C;Idle;S;For_S;S;C;Train;Ranged;Left;6;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Weakest

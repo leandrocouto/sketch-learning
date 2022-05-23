@@ -1,0 +1,2 @@
+1.938	0.0	0.0	S;S_S;S;For_S;S;C;Harvest;6;S;Empty	
+172800	0.0	0.0	S;S_S;S;For_S;S;C;Harvest;6;S;Empty	

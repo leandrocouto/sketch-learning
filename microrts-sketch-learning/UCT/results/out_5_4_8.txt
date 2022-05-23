@@ -1,0 +1,2 @@
+6.031	0.0	0.04187192118226601	1	S;For_S;S;If_B_then_S_else_S;B;is_Type;Ranged;S;For_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Harvest;7;S;For_S;S;Empty
+172800	0.0	0.04187192118226601	1	S;For_S;S;If_B_then_S_else_S;B;is_Type;Ranged;S;For_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Harvest;7;S;For_S;S;Empty

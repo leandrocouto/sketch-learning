@@ -1,0 +1,6 @@
+6.06	0.0	0.28282827138900757	1	S;For_S;S;C;Harvest;2
+12.112	0.0	0.34706035256385803	2	S;For_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Light;10;S;For_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;5;S;C;Train;Worker;Down;6;S;S_S;S;S_S;S;C;Train;Barracks;EnemyDir;25;S;C;Train;Worker;Up;3;S;C;Harvest;20
+279.503	0.0	0.39393940567970276	46	S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;C;Build;Barracks;Up;1
+14690.429	0.0	0.4069884419441223	2410	S;For_S;S;S_S;S;If_B_then_S;B;CanAttack;S;S_S;S;C;Train;Base;Left;15;S;C;Train;Ranged;EnemyDir;25;S;S_S;S;S_S;S;C;Idle;S;C;Train;Worker;EnemyDir;7;S;C;Harvest;10
+17229.604	0.0	0.5180995464324951	2829	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;50;S;C;Build;Barracks;EnemyDir;25;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Worker;EnemyDir;7
+172800	0.0	0.5180995464324951	2829	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;50;S;C;Build;Barracks;EnemyDir;25;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Worker;EnemyDir;7

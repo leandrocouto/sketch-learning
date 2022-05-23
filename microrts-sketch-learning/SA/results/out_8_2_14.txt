@@ -1,0 +1,2 @@
+1.296	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;For_S;S;C;Build;Barracks;EnemyDir;3;S;Empty	
+172800	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;For_S;S;C;Build;Barracks;EnemyDir;3;S;Empty	

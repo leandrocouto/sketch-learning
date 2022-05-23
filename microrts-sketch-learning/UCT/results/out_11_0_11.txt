@@ -1,0 +1,6 @@
+6.143	0.0	0.31620678973538063	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;MoveToUnit;Ally;LessHealthy;S;C;Train;Worker;Right;3
+73.283	0.0	0.33408545640293374	12	S;For_S;S;For_S;S;C;Train;Worker;EnemyDir;2
+2848.738	0.0	0.34629701451324285	468	S;S_S;S;Empty;S;For_S;S;S_S;S;For_S;S;C;MoveAway;S;S_S;S;C;Train;Worker;EnemyDir;4;S;C;Harvest;7
+12670.858	0.0	0.3488445131496466	2082	S;S_S;S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;Harvest;8;S;C;MoveToUnit;Enemy;Farthest;S;If_B_then_S;S;For_S;S;C;Train;Worker;EnemyDir;15;B;CanHarvest
+16236.011	0.0	0.47829213377055735	2668	S;For_S;S;S_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;2;S;C;Train;Ranged;Right;100;S;C;Train;Worker;Left;5;S;C;Harvest;15;S;C;Attack;LessHealthy
+172800	0.0	0.47829213377055735	2668	S;For_S;S;S_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;2;S;C;Train;Ranged;Right;100;S;C;Train;Worker;Left;5;S;C;Harvest;15;S;C;Attack;LessHealthy

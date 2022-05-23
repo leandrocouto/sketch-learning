@@ -1,0 +1,4 @@
+6.337	0.0	0.1588983705824144	1	S;For_S;S;If_B_then_S_else_S;B;IsBuilder;S;If_B_then_S_else_S;B;CanAttack;S;C;Harvest;20;S;S_S;S;Empty;S;Empty;S;C;MoveToUnit;Ally;LessHealthy
+16.431	0.0	0.2140171138346975	2	S;For_S;S;C;Attack;Random
+63.332	0.0	0.2180820155032448	7	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;For_S;S;Empty;S;C;Attack;Closest
+172800	0.0	0.2180820155032448	7	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;For_S;S;Empty;S;C;Attack;Closest

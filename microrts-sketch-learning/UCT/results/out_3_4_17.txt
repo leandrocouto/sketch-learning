@@ -1,0 +1,4 @@
+6.015	0.0	0.044863731656184486	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;S_S;S;C;Attack;Random;S;C;Train;Ranged;Right;2;S;For_S;S;C;Build;Heavy;Up;6;S;S_S;S;C;Idle;S;C;Build;Base;Up;15
+37.113	0.0	0.8716681641209948	6	S;Empty
+620.754	0.0	0.877915377192107	53	S;For_S;S;C;Idle
+172800	0.0	0.877915377192107	53	S;For_S;S;C;Idle

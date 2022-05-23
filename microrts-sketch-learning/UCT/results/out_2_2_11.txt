@@ -1,0 +1,3 @@
+6.015	0.0	0.0	1	S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;If_B_then_S;B;HasLessNumberOfUnits;Light;8;S;C;Idle
+716.414	1.0	0.0	119	S;For_S;S;S_S;S;If_B_then_S;B;CanAttack;S;C;Build;Worker;EnemyDir;20;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;9;S;For_S;S;C;Idle
+172800	1.0	0.0	119	S;For_S;S;S_S;S;If_B_then_S;B;CanAttack;S;C;Build;Worker;EnemyDir;20;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;9;S;For_S;S;C;Idle

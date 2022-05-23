@@ -1,0 +1,10 @@
+6.085	0.0	0.3033791745841295	1	S;For_S;S;S_S;S;If_B_then_S;B;CanAttack;S;C;Build;Light;Up;25;S;C;Train;Base;Down;10
+24.362	0.0	0.325317854933065	4	S;S_S;S;Empty;S;For_S;S;C;Train;Worker;EnemyDir;8
+66.855	0.0	0.3265927284509613	11	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Down;6;S;For_S;S;Empty;S;For_S;S;For_S;S;Empty
+1397.749	0.0	0.32677365939913544	229	S;S_S;S;For_S;S;S_S;S;C;Train;Light;EnemyDir;25;S;C;Harvest;10;S;S_S;S;For_S;S;C;MoveAway;S;For_S;S;For_S;S;C;Train;Worker;Down;4
+1697.669	0.0	0.35544913932792677	278	S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;7;B;HasNumberOfWorkersHarvesting;25;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Left;20;S;For_S;S;For_S;S;C;Harvest;8;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty
+2419.394	0.0	0.3807062965836813	394	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;25;S;If_B_then_S;B;Idle;S;C;Harvest;4;S;S_S;S;C;Train;Worker;Up;8;S;C;Harvest;100
+2845.911	0.0	0.4457660813890751	464	S;For_S;S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Left;15;S;C;Harvest;5;S;C;Attack;Random;B;HasUnitThatKillsInOneAttack
+4812.924	0.0	0.4496929633784044	786	S;For_S;S;If_B_then_S;S;S_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Worker;EnemyDir;100;S;C;Harvest;100;S;Empty;B;HasNumberOfUnits;Light;3
+10823.104	0.0	0.5265779495090469	1700	S;For_S;S;For_S;S;S_S;S;C;Harvest;20;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Worker;Left;25;S;C;Harvest;1
+172800	0.0	0.5265779495090469	1700	S;For_S;S;For_S;S;S_S;S;C;Harvest;20;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Train;Worker;Left;25;S;C;Harvest;1

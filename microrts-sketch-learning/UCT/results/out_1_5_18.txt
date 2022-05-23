@@ -1,0 +1,10 @@
+6.011	0.0	0.3888888955116272	1	S;For_S;S;C;Train;Ranged;Right;6
+24.051	0.0	0.46296295523643494	4	S;For_S;S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Build;Ranged;Down;3;S;S_S;S;C;Train;Worker;Down;5;S;C;Train;Ranged;Down;20
+180.591	0.0	0.4691357910633087	30	S;S_S;S;For_S;S;Empty;S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Attack;Random;S;S_S;S;C;Train;Ranged;Up;10;S;C;Train;Worker;Right;2
+186.621	0.0	0.4938271641731262	31	S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Down;2;S;C;Train;Ranged;Up;50;S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;2;S;C;Train;Base;Down;50
+264.983	0.0	0.5132275223731995	44	S;S_S;S;For_S;S;S_S;S;For_S;S;For_S;S;Empty;S;S_S;S;S_S;S;C;Train;Worker;Down;100;S;C;Harvest;1;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Down;2;S;Empty;S;C;MoveToUnit;Enemy;MostHealthy
+535.829	0.0	0.5220458507537842	89	S;For_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;4;S;C;MoveToUnit;Enemy;Closest;S;C;Train;Worker;Left;9;S;If_B_then_S_else_S;B;is_Type;Worker;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Harvest;2;S;C;Train;Ranged;Right;100
+1143.832	0.5	0.46296295523643494	190	S;For_S;S;If_B_then_S_else_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Ranged;EnemyDir;50;S;C;Attack;Strongest;S;C;Train;Worker;Left;25
+65186.488	1.0	0.46296295523643494	10835	S;For_S;S;If_B_then_S_else_S;S;C;Build;Base;Down;9;B;HaveQtdUnitsAttacking;5;S;S_S;S;C;Train;Ranged;Right;3;S;If_B_then_S_else_S;B;is_Type;Barracks;S;For_S;S;C;Train;Heavy;Down;1;S;S_S;S;C;Train;Worker;Up;20;S;C;Attack;Closest
+69824.412	1.0	0.5370370149612427	11606	S;For_S;S;If_B_then_S_else_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Idle;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;C;Harvest;3;S;C;Train;Worker;Down;6;S;C;Train;Ranged;Left;9;B;HaveQtdUnitsAttacking;9;B;HasUnitWithinDistanceFromOpponent;25
+172800	1.0	0.5370370149612427	11606	S;For_S;S;If_B_then_S_else_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Idle;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;C;Harvest;3;S;C;Train;Worker;Down;6;S;C;Train;Ranged;Left;9;B;HaveQtdUnitsAttacking;9;B;HasUnitWithinDistanceFromOpponent;25

@@ -1,0 +1,10 @@
+6.012	0.0	0.3888888955116272	1	S;For_S;S;C;Train;Ranged;Down;8
+12.036	0.0	0.39947089552879333	2	S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;15;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;MoveToUnit;Ally;Random;S;C;Harvest;7;S;For_S;S;C;MoveToUnit;Enemy;Farthest;S;For_S;S;S_S;S;S_S;S;C;Harvest;100;S;C;Train;Worker;Down;15;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;5;S;C;Harvest;3
+36.143	0.0	0.46296295523643494	6	S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;For_S;S;Empty;S;S_S;S;C;Train;Ranged;EnemyDir;25;S;S_S;S;C;Train;Worker;EnemyDir;3;S;Empty
+144.466	0.0	0.46878308057785034	24	S;S_S;S;For_S;S;S_S;S;C;Harvest;2;S;C;Train;Worker;Down;15;S;For_S;S;C;Attack;Closest
+234.699	0.0	0.47883597016334534	39	S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Right;2;S;C;Harvest;7;S;S_S;S;For_S;S;C;Train;Worker;Left;6;S;For_S;S;If_B_then_S;B;Idle;S;C;Attack;Strongest;S;C;Attack;Weakest
+306.901	0.0	0.531264066696167	51	S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Train;Heavy;Down;6;S;S_S;S;C;Train;Worker;Up;6;S;C;Harvest;8;S;For_S;S;C;Attack;Closest
+337.007	1.0	0.46296295523643494	56	S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Right;9;S;C;Train;Worker;Up;3;S;For_S;S;C;Attack;Closest
+13433.662	1.0	0.46384480595588684	2233	S;S_S;S;For_S;S;If_B_then_S_else_S;S;C;Idle;S;C;MoveToUnit;Enemy;Closest;S;C;Harvest;2;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Worker;Left;10;S;For_S;S;C;Train;Ranged;Left;10
+25474.896	1.0	0.4719576835632324	4236	S;S_S;S;For_S;S;If_B_then_S_else_S;S;Empty;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Harvest;20;S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Harvest;5;S;C;MoveToUnit;Enemy;Closest;S;S_S;S;C;Train;Ranged;Left;25;S;S_S;S;C;Attack;MostHealthy;S;C;Train;Worker;Up;8
+172800	1.0	0.4719576835632324	4236	S;S_S;S;For_S;S;If_B_then_S_else_S;S;Empty;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Harvest;20;S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Harvest;5;S;C;MoveToUnit;Enemy;Closest;S;S_S;S;C;Train;Ranged;Left;25;S;S_S;S;C;Attack;MostHealthy;S;C;Train;Worker;Up;8

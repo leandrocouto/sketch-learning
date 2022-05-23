@@ -1,0 +1,5 @@
+6.033	0.0	0.26773321631994146	1	S;For_S;S;S_S;S;C;Train;Worker;Up;1;S;For_S;S;S_S;S;C;Attack;Random;S;C;Harvest;2
+66.192	0.0	0.29447361974110897	11	S;For_S;S;For_S;S;S_S;S;C;Attack;Random;S;S_S;S;C;Train;Worker;EnemyDir;3;S;S_S;S;C;Idle;S;C;Build;Light;Up;3
+138.409	0.5	0.4998579000105192	23	S;S_S;S;For_S;S;S_S;S;C;Train;Light;Left;1;S;C;Harvest;50;S;For_S;S;C;Attack;LessHealthy
+49139.417	1.0	0.18134077397452764	8174	S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Left;1;S;S_S;S;C;Train;Worker;Down;4;S;C;Attack;Strongest
+172800	1.0	0.18134077397452764	8174	S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Left;1;S;S_S;S;C;Train;Worker;Down;4;S;C;Attack;Strongest

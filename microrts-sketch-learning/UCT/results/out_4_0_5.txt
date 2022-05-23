@@ -1,0 +1,10 @@
+6.025	0.0	0.31498739640253465	1	S;For_S;S;C;Build;Barracks;EnemyDir;10
+18.072	0.0	0.3176186869488436	3	S;For_S;S;C;Build;Barracks;Left;5
+66.238	0.0	0.32353909038070156	11	S;For_S;S;S_S;S;C;Build;Barracks;Down;20;S;S_S;S;C;MoveToUnit;Ally;Weakest;S;C;MoveToUnit;Enemy;Random
+114.361	0.0	0.3530588773117098	19	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Right;2;S;S_S;S;Empty;S;Empty;S;For_S;S;For_S;S;For_S;S;S_S;S;C;Harvest;2;S;C;Train;Heavy;EnemyDir;20
+1655.668	0.0	0.5659924030178158	275	S;For_S;S;S_S;S;S_S;S;C;Train;Heavy;EnemyDir;6;S;S_S;S;C;Harvest;1;S;C;Attack;Strongest;S;For_S;S;C;Build;Barracks;Right;10
+12770.131	0.0	0.8706282202271617	2120	S;For_S;S;S_S;S;Empty;S;S_S;S;C;Harvest;100;S;S_S;S;For_S;S;C;Build;Barracks;Up;2;S;S_S;S;S_S;S;S_S;S;C;Harvest;0;S;C;Train;Ranged;Left;15;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;S_S;S;C;Idle;S;C;MoveToUnit;Ally;Farthest;S;S_S;S;C;Idle;S;C;Attack;MostHealthy
+20225.931	0.0	0.9087362477437222	3357	S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Build;Barracks;Left;5;S;S_S;S;C;Harvest;100;S;C;Idle;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Random;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;10
+40015.828	0.0	0.9577257553385664	6630	S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;For_S;S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;7;S;C;Idle;S;For_S;S;Empty;S;S_S;S;S_S;S;C;Harvest;9;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;Empty;S;Empty;S;For_S;S;For_S;S;C;Train;Ranged;Up;4;S;S_S;S;S_S;S;C;Attack;Random;S;C;MoveToUnit;Ally;Weakest;S;If_B_then_S;B;IsBuilder;S;For_S;S;Empty
+43724.962	0.0	0.997368709728156	7244	S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;C;Build;Barracks;Up;6;S;S_S;S;C;Train;Ranged;Left;15;S;C;Harvest;4;S;S_S;S;S_S;S;C;Train;Heavy;Left;100;S;C;Attack;Closest;S;S_S;S;C;MoveAway;S;C;MoveAway
+172800	0.0	0.997368709728156	7244	S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;C;Build;Barracks;Up;6;S;S_S;S;C;Train;Ranged;Left;15;S;C;Harvest;4;S;S_S;S;S_S;S;C;Train;Heavy;Left;100;S;C;Attack;Closest;S;S_S;S;C;MoveAway;S;C;MoveAway

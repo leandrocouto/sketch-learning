@@ -1,0 +1,6 @@
+6.101	0.0	0.5158730149269104	1	S;For_S;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Build;Light;EnemyDir;20;S;C;Harvest;2
+85.148	0.0	0.5324074029922485	14	S;S_S;S;For_S;S;C;Build;Barracks;EnemyDir;3;S;For_S;S;C;Train;Ranged;Down;4
+133.548	0.0	0.5714285969734192	22	S;If_B_then_S_else_S;S;For_S;S;Empty;S;For_S;S;Empty;S;S_S;S;For_S;S;C;Harvest;8;S;For_S;S;C;Build;Barracks;Right;4
+2176.65	0.0	0.6071428656578064	359	S;S_S;S;For_S;S;Empty;S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Up;1;S;S_S;S;C;Harvest;5;S;C;MoveToUnit;Ally;Closest;S;Empty
+140617.612	0.0	0.6696428656578064	23016	S;For_S;S;S_S;S;C;Train;Ranged;Right;25;S;S_S;S;C;Build;Barracks;Down;1;S;C;Harvest;4
+172800	0.0	0.6696428656578064	23016	S;For_S;S;S_S;S;C;Train;Ranged;Right;25;S;S_S;S;C;Build;Barracks;Down;1;S;C;Harvest;4

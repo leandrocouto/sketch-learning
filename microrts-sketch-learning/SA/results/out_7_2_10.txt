@@ -1,0 +1,2 @@
+1.557	0.0	0.0	S;S_S;S;S_S;S;C;Train;Barracks;Down;0;S;C;Build;Light;Up;4;S;For_S;S;C;Train;Base;Up;8	
+172800	0.0	0.0	S;S_S;S;S_S;S;C;Train;Barracks;Down;0;S;C;Build;Light;Up;4;S;For_S;S;C;Train;Base;Up;8	

@@ -1,0 +1,6 @@
+6.032	0.0	0.0	1	S;For_S;S;C;Train;Heavy;Down;15
+36.162	0.0	0.009770114942528735	6	S;Empty
+2052.278	0.0	0.01700716110198868	255	S;For_S;S;C;Idle
+2124.926	0.0	0.02167510490786353	267	S;For_S;S;C;MoveAway
+2855.648	1.0	0.0	383	S;For_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;4;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;9;S;S_S;S;C;MoveAway;S;C;Attack;Random;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;If_B_then_S_else_S;B;Idle;S;C;Harvest;3;S;C;Train;Ranged;Left;25
+172800	1.0	0.0	383	S;For_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;4;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;9;S;S_S;S;C;MoveAway;S;C;Attack;Random;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;If_B_then_S_else_S;B;Idle;S;C;Harvest;3;S;C;Train;Ranged;Left;25

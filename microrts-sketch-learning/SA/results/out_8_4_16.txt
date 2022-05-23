@@ -1,0 +1,4 @@
+171.974	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveToUnit;Ally;Weakest	
+86400	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveToUnit;Ally;Weakest	
+86421.921	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Weakest;S;Empty	
+172800	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Weakest;S;Empty	

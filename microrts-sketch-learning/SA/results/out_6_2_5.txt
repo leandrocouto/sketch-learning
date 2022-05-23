@@ -1,0 +1,2 @@
+1.439	0.0	0.0	S;S_S;S;S_S;S;For_S;S;C;Build;Heavy;EnemyDir;9;S;C;Idle;S;Empty	
+172800	0.0	0.0	S;S_S;S;S_S;S;For_S;S;C;Build;Heavy;EnemyDir;9;S;C;Idle;S;Empty	

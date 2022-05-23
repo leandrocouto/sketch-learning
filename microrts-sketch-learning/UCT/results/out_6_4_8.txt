@@ -1,0 +1,7 @@
+6.213	0.0	0.882510781430721	1	S;For_S;S;C;Harvest;50
+36.779	0.0	0.9058211929057852	6	S;S_S;S;For_S;S;S_S;S;For_S;S;C;Harvest;25;S;C;Build;Barracks;Up;0;S;For_S;S;C;Attack;Weakest
+4747.072	0.0	0.9076510473413798	483	S;If_B_then_S_else_S;S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Build;Base;Down;3;S;C;Harvest;10;S;If_B_then_S_else_S;B;CanHarvest;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;9;S;C;Idle;S;S_S;S;C;Idle;S;C;MoveAway;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Ranged;50;S;C;MoveToUnit;Ally;MostHealthy;S;For_S;S;C;Attack;LessHealthy
+5267.997	0.0	0.9082552769486306	548	S;For_S;S;S_S;S;If_B_then_S;B;Idle;S;C;MoveToUnit;Enemy;Strongest;S;S_S;S;C;Harvest;50;S;C;Attack;Closest
+10171.512	0.0	0.9085402261384137	1082	S;For_S;S;S_S;S;C;Harvest;6;S;C;Attack;Closest
+12676.262	0.0	0.9085951561027091	1385	S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;B;IsBuilder;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;9;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;0;S;C;Train;Worker;EnemyDir;15;S;S_S;S;C;Harvest;7;S;C;Attack;Closest
+172800	0.0	0.9085951561027091	1385	S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;B;IsBuilder;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;9;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;0;S;C;Train;Worker;EnemyDir;15;S;S_S;S;C;Harvest;7;S;C;Attack;Closest

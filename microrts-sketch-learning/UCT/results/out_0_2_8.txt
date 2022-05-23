@@ -1,0 +1,3 @@
+6.007	0.0	0.0	1	S;For_S;S;C;Idle
+20863.533	1.0	0.0	3463	S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;If_B_then_S;B;Idle;S;C;Train;Heavy;Right;0;S;C;Train;Ranged;Left;7;S;C;MoveToUnit;Enemy;Weakest;S;For_S;S;For_S;S;Empty
+172800	1.0	0.0	3463	S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;If_B_then_S;B;Idle;S;C;Train;Heavy;Right;0;S;C;Train;Ranged;Left;7;S;C;MoveToUnit;Enemy;Weakest;S;For_S;S;For_S;S;Empty

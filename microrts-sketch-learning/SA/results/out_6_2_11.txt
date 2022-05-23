@@ -1,0 +1,2 @@
+1.413	0.0	0.0	S;S_S;S;For_S;S;C;MoveAway;S;Empty	
+172800	0.0	0.0	S;S_S;S;For_S;S;C;MoveAway;S;Empty	

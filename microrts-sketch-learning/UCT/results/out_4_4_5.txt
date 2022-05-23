@@ -1,0 +1,3 @@
+6.16	0.0	0.9796389726716009	1	S;For_S;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Closest
+24.258	0.0	0.9975514121195503	4	S;For_S;S;S_S;S;C;Harvest;2;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	4	S;For_S;S;S_S;S;C;Harvest;2;S;C;Attack;Closest

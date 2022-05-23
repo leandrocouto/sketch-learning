@@ -1,0 +1,7 @@
+6.103	0.0	0.2222222238779068	1	S;For_S;S;C;MoveAway
+73.258	0.0	0.2666666805744171	12	S;For_S;S;C;Train;Worker;Right;5
+97.72	0.0	0.2777777910232544	16	S;For_S;S;C;Train;Worker;EnemyDir;4
+354.376	0.0	0.29629629850387573	58	S;For_S;S;S_S;S;For_S;S;Empty;S;C;Train;Worker;Right;2
+1740.227	0.0	0.3333333432674408	286	S;For_S;S;C;Train;Worker;Up;1
+5822.94	0.0	0.4592592716217041	957	S;For_S;S;S_S;S;C;Train;Worker;Up;2;S;S_S;S;C;Build;Barracks;Up;50;S;For_S;S;C;Harvest;25
+172800	0.0	0.4592592716217041	957	S;For_S;S;S_S;S;C;Train;Worker;Up;2;S;S_S;S;C;Build;Barracks;Up;50;S;For_S;S;C;Harvest;25

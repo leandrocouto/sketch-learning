@@ -1,0 +1,2 @@
+6.087	0.0	0.0	1	S;For_S;S;C;Attack;Random
+172800	0.0	0.0	1	S;For_S;S;C;Attack;Random

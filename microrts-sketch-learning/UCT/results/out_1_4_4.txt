@@ -1,0 +1,4 @@
+6.051	0.0	0.9884258282338048	1	S;For_S;S;S_S;S;For_S;S;C;Harvest;10;S;For_S;S;For_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Ally;MostHealthy
+24.078	0.0	0.9962931701484139	4	S;For_S;S;S_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;For_S;S;If_B_then_S;B;CanAttack;S;C;Idle;S;S_S;S;S_S;S;C;Harvest;50;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;2;S;S_S;S;Empty;S;Empty;S;C;Attack;Closest;S;For_S;S;Empty;S;C;Idle
+1207.755	1.0	0.9722269114440458	200	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Ranged;8;S;C;MoveAway;S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;50;S;C;Attack;Weakest
+172800	1.0	0.9722269114440458	200	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Ranged;8;S;C;MoveAway;S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;50;S;C;Attack;Weakest

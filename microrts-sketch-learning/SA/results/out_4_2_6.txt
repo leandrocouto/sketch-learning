@@ -1,0 +1,2 @@
+0.524	0.0	0.0	S;C;Attack;Farthest	
+86400	0.0	0.0	S;C;Attack;Farthest	

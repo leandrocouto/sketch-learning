@@ -1,0 +1,6 @@
+6.019	0.0	0.3224566788252058	1	S;For_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;C;Attack;MostHealthy;S;C;MoveAway;S;S_S;S;C;Train;Heavy;Left;10;S;C;Idle
+18.059	0.0	0.3679572081450245	3	S;S_S;S;For_S;S;For_S;S;C;Train;Worker;Right;25;S;For_S;S;For_S;S;C;Attack;Strongest
+24.085	0.0	0.49940498773779335	4	S;S_S;S;For_S;S;C;Attack;Closest;S;For_S;S;C;Train;Ranged;EnemyDir;8
+48.23	0.0	0.5465671189193582	8	S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Train;Ranged;Right;10;S;C;Train;Worker;Right;2
+331.385	1.0	0.29622442304188834	55	S;For_S;S;S_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;Train;Ranged;Left;3;S;C;MoveToUnit;Enemy;Weakest;S;C;MoveAway
+172800	1.0	0.29622442304188834	55	S;For_S;S;S_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;Train;Ranged;Left;3;S;C;MoveToUnit;Enemy;Weakest;S;C;MoveAway

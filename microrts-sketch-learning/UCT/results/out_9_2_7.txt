@@ -1,0 +1,2 @@
+6.03	0.0	0.0	1	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;9;S;C;Train;Light;EnemyDir;2;S;C;Attack;Farthest
+172800	0.0	0.0	1	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;9;S;C;Train;Light;EnemyDir;2;S;C;Attack;Farthest

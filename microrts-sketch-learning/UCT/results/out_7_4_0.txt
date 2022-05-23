@@ -1,0 +1,3 @@
+6.074	0.0	0.98889498719356	1	S;For_S;S;S_S;S;C;Harvest;4;S;S_S;S;Empty;S;C;Attack;Strongest
+116.936	0.0	0.9975850713501646	19	S;S_S;S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Closest;S;Empty
+172800	0.0	0.9975850713501646	19	S;S_S;S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Closest;S;Empty

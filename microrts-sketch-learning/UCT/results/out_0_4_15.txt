@@ -1,0 +1,5 @@
+6.146	0.0	0.0032876712328767125	1	S;For_S;S;C;MoveAway
+36.635	0.0	0.8528581905157252	6	S;Empty
+671.133	0.0	0.8691713020617132	53	S;For_S;S;C;Idle
+109348.549	1.0	0.0032876712328767125	15238	S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Barracks;1;S;For_S;S;C;Idle;S;For_S;S;C;Train;Ranged;Left;25;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;8;S;C;Idle;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;For_S;S;C;MoveAway;S;S_S;S;C;Attack;Weakest;S;C;MoveAway
+172800	1.0	0.0032876712328767125	15238	S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Barracks;1;S;For_S;S;C;Idle;S;For_S;S;C;Train;Ranged;Left;25;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;8;S;C;Idle;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;For_S;S;C;MoveAway;S;S_S;S;C;Attack;Weakest;S;C;MoveAway

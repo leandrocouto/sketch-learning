@@ -1,0 +1,7 @@
+15.891	0.0	0.20878682090437733	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Build;Barracks;Down;2;S;S_S;S;C;Attack;Farthest;S;C;Build;Barracks;Down;1	
+201.552	0.0	0.21265956395453825	S;For_S;S;For_S;S;For_S;S;C;Attack;Strongest	
+7900.375	0.0	0.21667313399442265	S;S_S;S;For_S;S;C;Attack;LessHealthy;S;Empty	
+8223.082	0.0	0.23101404353811333	S;S_S;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;3;S;C;Build;Light;Down;10;S;C;Attack;LessHealthy;S;Empty	
+86400	0.0	0.23101404353811333	S;S_S;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;3;S;C;Build;Light;Down;10;S;C;Attack;LessHealthy;S;Empty	
+87752.963	0.0	0.23101404353811333	S;S_S;S;Empty;S;For_S;S;C;Attack;Farthest	
+172800	0.0	0.23101404353811333	S;S_S;S;Empty;S;For_S;S;C;Attack;Farthest	

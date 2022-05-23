@@ -1,0 +1,10 @@
+6.073	0.0	0.26477542519569397	1	S;For_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;Harvest;10;S;If_B_then_S;B;OpponentHasNumberOfUnits;Light;15;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Attack;MostHealthy
+72.915	0.0	0.3758865296840668	12	S;For_S;S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Attack;Strongest;S;S_S;S;C;Harvest;1;S;S_S;S;C;Build;Barracks;Right;2;S;C;Harvest;25
+1080.843	0.0	0.3894799053668976	178	S;For_S;S;For_S;S;If_B_then_S_else_S;S;For_S;S;C;Train;Heavy;Right;6;B;Idle;S;S_S;S;C;Build;Barracks;Left;6;S;C;Harvest;25
+1445.08	0.0	0.40635672211647034	238	S;For_S;S;If_B_then_S_else_S;S;S_S;S;S_S;S;C;Harvest;50;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Build;Barracks;Down;0;S;S_S;S;S_S;S;C;Harvest;7;S;C;Train;Worker;Up;25;S;C;Build;Barracks;Down;25;S;For_S;S;Empty;S;Empty
+1639.052	0.0	0.40740740299224854	270	S;For_S;S;If_B_then_S_else_S;S;S_S;S;C;MoveToUnit;Ally;Weakest;S;C;Train;Heavy;Right;3;S;If_B_then_S;B;HasNumberOfUnits;Barracks;20;S;C;Idle;S;S_S;S;C;Build;Barracks;Down;9;S;C;Attack;Farthest
+20215.589	0.0	0.42592594027519226	3333	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Up;1;S;C;Train;Worker;Right;5;S;For_S;S;C;Attack;Farthest
+33833.657	0.0	0.4444444477558136	5577	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;15;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;C;MoveAway;S;C;Attack;LessHealthy;S;S_S;S;S_S;S;C;MoveAway;S;C;Build;Barracks;Right;3;S;C;Train;Heavy;Right;10
+42532.292	0.0	0.45271867513656616	7012	S;If_B_then_S;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;9;S;Empty;S;S_S;S;S_S;S;C;Harvest;8;S;C;Train;Worker;EnemyDir;8;S;C;Build;Barracks;Left;100;S;S_S;S;Empty;S;Empty
+117496.044	0.0	0.45692145824432373	19360	S;For_S;S;If_B_then_S_else_S;S;C;Build;Barracks;Left;2;B;CanAttack;S;S_S;S;S_S;S;C;Train;Barracks;Down;25;S;C;Train;Worker;Down;7;S;For_S;S;C;Harvest;100
+172800	0.0	0.45692145824432373	19360	S;For_S;S;If_B_then_S_else_S;S;C;Build;Barracks;Left;2;B;CanAttack;S;S_S;S;S_S;S;C;Train;Barracks;Down;25;S;C;Train;Worker;Down;7;S;For_S;S;C;Harvest;100

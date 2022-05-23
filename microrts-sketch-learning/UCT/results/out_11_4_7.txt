@@ -1,0 +1,2 @@
+11.326	0.0	0.021634062140391253	1	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;0;S;For_S;S;Empty;S;If_B_then_S;B;is_Type;Worker;S;S_S;S;Empty;S;Empty
+172800	0.0	0.021634062140391253	1	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;0;S;For_S;S;Empty;S;If_B_then_S;B;is_Type;Worker;S;S_S;S;Empty;S;Empty

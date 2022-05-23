@@ -1,0 +1,2 @@
+12.189	0.0	0.021634062140391253	1	S;For_S;S;For_S;S;If_B_then_S;B;CanHarvest;S;C;Attack;Closest
+172800	0.0	0.021634062140391253	1	S;For_S;S;For_S;S;If_B_then_S;B;CanHarvest;S;C;Attack;Closest

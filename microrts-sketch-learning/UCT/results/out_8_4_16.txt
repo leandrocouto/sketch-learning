@@ -1,0 +1,5 @@
+12.895	0.0	0.17914053466693736	1	S;For_S;S;S_S;S;C;MoveAway;S;If_B_then_S_else_S;B;is_Type;Ranged;S;For_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;If_B_then_S;B;CanAttack;S;C;Build;Barracks;Down;50;S;S_S;S;C;Build;Worker;Down;3;S;C;Train;Light;Up;6;S;S_S;S;Empty;S;Empty
+30.804	0.0	0.21667313399442265	2	S;For_S;S;C;Attack;Weakest
+90.488	0.0	0.2180820155032448	7	S;For_S;S;C;Attack;Closest
+271.678	0.0	0.22777366191426876	16	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Build;Ranged;Down;2;S;For_S;S;C;Harvest;5;S;C;Attack;MostHealthy;S;Empty
+172800	0.0	0.22777366191426876	16	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Build;Ranged;Down;2;S;For_S;S;C;Harvest;5;S;C;Attack;MostHealthy;S;Empty

@@ -1,0 +1,4 @@
+6.033	0.0	0.9937062425738047	1	S;For_S;S;S_S;S;C;Idle;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Idle;S;S_S;S;C;Harvest;9;S;C;Attack;Random
+54.524	0.0	0.9943268439813544	9	S;S_S;S;For_S;S;C;Harvest;50;S;For_S;S;C;Attack;Strongest
+175.961	0.0	0.9975514121195503	29	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Enemy;Closest;S;C;Harvest;8;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	29	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Enemy;Closest;S;C;Harvest;8;S;C;Attack;Closest

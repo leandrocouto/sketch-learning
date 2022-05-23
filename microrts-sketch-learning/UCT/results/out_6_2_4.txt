@@ -1,0 +1,2 @@
+6.171	0.0	0.0	1	S;For_S;S;If_B_then_S;B;IsBuilder;S;C;MoveToUnit;Ally;Random
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;IsBuilder;S;C;MoveToUnit;Ally;Random

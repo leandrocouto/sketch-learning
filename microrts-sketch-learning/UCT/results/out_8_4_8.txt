@@ -1,0 +1,7 @@
+11.383	0.0	0.17914053466693736	1	S;For_S;S;C;MoveAway
+44.091	0.0	0.20902428356763603	5	S;For_S;S;C;Attack;Farthest
+56.525	0.0	0.21151959950306667	6	S;For_S;S;C;MoveToUnit;Enemy;Random
+179.651	0.0	0.21735539075231786	11	S;S_S;S;For_S;S;If_B_then_S;B;Idle;S;C;Harvest;100;S;For_S;S;S_S;S;C;Build;Light;Left;20;S;C;Attack;LessHealthy
+6441.287	0.0	0.2180820155032448	71	S;S_S;S;For_S;S;S_S;S;Empty;S;C;Attack;Closest;S;Empty
+10402.261	0.0	0.21810812568855628	112	S;For_S;S;S_S;S;Empty;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;If_B_then_S;B;is_Type;Heavy;S;C;Attack;Weakest;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Idle;S;S_S;S;C;Idle;S;C;Attack;Closest
+172800	0.0	0.21810812568855628	112	S;For_S;S;S_S;S;Empty;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;If_B_then_S;B;is_Type;Heavy;S;C;Attack;Weakest;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Idle;S;S_S;S;C;Idle;S;C;Attack;Closest

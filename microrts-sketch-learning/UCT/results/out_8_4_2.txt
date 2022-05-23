@@ -1,0 +1,4 @@
+8.061	0.0	0.20902428356763603	1	S;For_S;S;S_S;S;S_S;S;C;Attack;Farthest;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;B;IsBuilder;S;For_S;S;Empty;S;C;Harvest;3
+60.633	0.0	0.21667313399442265	6	S;For_S;S;C;Attack;Weakest
+1099.195	0.0	0.2180820155032448	50	S;For_S;S;C;Attack;Closest
+172800	0.0	0.2180820155032448	50	S;For_S;S;C;Attack;Closest

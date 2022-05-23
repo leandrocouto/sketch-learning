@@ -1,0 +1,2 @@
+0.813	0.0	0.0	S;S_S;S;S_S;S;C;Harvest;100;S;C;MoveAway;S;Empty	
+172800	0.0	0.0	S;S_S;S;S_S;S;C;Harvest;100;S;C;MoveAway;S;Empty	

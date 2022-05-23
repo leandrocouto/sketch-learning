@@ -1,0 +1,2 @@
+6.104	0.0	0.0	1	S;For_S;S;For_S;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;Harvest;6;S;If_B_then_S;B;OpponentHasNumberOfUnits;Barracks;4;S;S_S;S;Empty;S;Empty
+172800	0.0	0.0	1	S;For_S;S;For_S;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;Harvest;6;S;If_B_then_S;B;OpponentHasNumberOfUnits;Barracks;4;S;S_S;S;Empty;S;Empty

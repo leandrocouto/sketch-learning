@@ -1,0 +1,4 @@
+6.036	0.0	0.044863731656184486	1	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;B;IsBuilder;S;C;Build;Ranged;Left;50;S;For_S;S;Empty
+36.211	0.0	0.8716681641209948	6	S;Empty
+610.334	0.0	0.877915377192107	53	S;For_S;S;C;Idle
+172800	0.0	0.877915377192107	53	S;For_S;S;C;Idle

@@ -1,0 +1,5 @@
+6.081	0.0	0.04187192118226601	1	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Worker;15;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;15;S;If_B_then_S;B;CanHarvest;S;C;Train;Barracks;EnemyDir;8;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;C;Idle;S;C;Harvest;50;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;MoveToUnit;Ally;Random
+36.658	0.0	0.13448275862068965	6	S;Empty
+1863.834	0.0	0.13997536945812808	236	S;For_S;S;C;Idle
+1919.744	0.0	0.1573041285479709	245	S;For_S;S;C;MoveAway
+172800	0.0	0.1573041285479709	245	S;For_S;S;C;MoveAway

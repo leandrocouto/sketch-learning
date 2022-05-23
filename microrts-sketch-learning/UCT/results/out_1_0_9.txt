@@ -1,0 +1,5 @@
+6.057	0.0	0.5124666431484672	1	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Ally;Closest;S;S_S;S;C;Train;Base;Down;10;S;C;Idle;S;If_B_then_S_else_S;B;CanAttack;S;C;Idle;S;S_S;S;C;Train;Worker;Up;7;S;C;MoveAway
+42.204	0.0	0.7057271360647713	7	S;For_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Worker;Left;3
+78.292	0.0	0.7177914663665765	13	S;For_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;9;S;C;MoveToUnit;Enemy;MostHealthy;S;S_S;S;C;Build;Heavy;EnemyDir;4;S;C;Train;Worker;Up;25
+102.461	1.0	0.7864401947080562	17	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;3;S;For_S;S;C;Train;Worker;Up;10;S;C;Attack;Weakest
+172800	1.0	0.7864401947080562	17	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;3;S;For_S;S;C;Train;Worker;Up;10;S;C;Attack;Weakest

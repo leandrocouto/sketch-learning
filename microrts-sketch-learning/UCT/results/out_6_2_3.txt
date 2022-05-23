@@ -1,0 +1,2 @@
+6.098	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;For_S;S;Empty;S;C;Build;Base;Left;3;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;9;S;C;MoveToUnit;Enemy;Closest
+172800	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;For_S;S;Empty;S;C;Build;Base;Left;3;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;9;S;C;MoveToUnit;Enemy;Closest

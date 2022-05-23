@@ -1,0 +1,8 @@
+16.335	0.0	0.8345730736180179	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;50;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Heavy;Up;2;S;For_S;S;C;MoveToUnit;Ally;Closest
+37.498	0.0	0.8821816607584403	4	S;For_S;S;C;Attack;Closest
+95.055	0.0	0.8962376720241896	12	S;S_S;S;For_S;S;C;Harvest;2;S;For_S;S;C;Attack;Closest
+14420.9	0.0	0.9378998210833438	28	S;For_S;S;S_S;S;If_B_then_S;B;Idle;S;C;Attack;Closest;S;S_S;S;C;Harvest;15;S;C;Attack;Weakest
+27883.87	0.0	0.9380667660817493	534	S;For_S;S;S_S;S;C;Harvest;50;S;C;MoveToUnit;Enemy;MostHealthy
+28826.894	0.0	0.9389262977277979	603	S;If_B_then_S_else_S;S;S_S;S;For_S;S;C;Harvest;15;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;If_B_then_S;B;Idle;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Train;Light;Left;5;B;HaveQtdUnitsAttacking;25
+37714.731	0.0	0.9392629980644981	1060	S;If_B_then_S_else_S;B;HasNumberOfUnits;Heavy;3;S;S_S;S;Empty;S;Empty;S;For_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest
+172800	0.0	0.9392629980644981	1060	S;If_B_then_S_else_S;B;HasNumberOfUnits;Heavy;3;S;S_S;S;Empty;S;Empty;S;For_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest

@@ -1,0 +1,6 @@
+6.112	0.0	0.9795348498104406	1	S;For_S;S;S_S;S;C;Train;Base;Down;50;S;C;Attack;Strongest
+24.968	0.0	0.9830344123651208	4	S;For_S;S;S_S;S;C;Idle;S;C;Harvest;9
+453.837	0.0	0.9905730533683289	74	S;S_S;S;S_S;S;Empty;S;S_S;S;For_S;S;C;Harvest;25;S;For_S;S;C;Attack;Weakest;S;For_S;S;If_B_then_S;B;CanHarvest;S;C;MoveAway
+625.675	0.0	0.9945756780402449	102	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;5;S;C;Idle;S;For_S;S;C;Train;Heavy;EnemyDir;0;S;C;Attack;Farthest;S;Empty
+729.686	0.0	0.9955526392534265	119	S;For_S;S;S_S;S;For_S;S;Empty;S;S_S;S;S_S;S;C;Train;Ranged;Right;6;S;C;Harvest;10;S;S_S;S;C;Attack;Strongest;S;C;Idle
+172800	0.0	0.9955526392534265	119	S;For_S;S;S_S;S;For_S;S;Empty;S;S_S;S;S_S;S;C;Train;Ranged;Right;6;S;C;Harvest;10;S;S_S;S;C;Attack;Strongest;S;C;Idle

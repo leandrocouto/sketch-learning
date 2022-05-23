@@ -1,0 +1,2 @@
+2.451	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;C;Idle;S;For_S;S;C;MoveToUnit;Ally;Weakest	
+172800	0.0	0.0	S;S_S;S;S_S;S;C;Idle;S;C;Idle;S;For_S;S;C;MoveToUnit;Ally;Weakest	

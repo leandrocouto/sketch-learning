@@ -1,0 +1,2 @@
+6.192	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;25;S;For_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Build;Light;Up;9;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Ally;MostHealthy
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;25;S;For_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Build;Light;Up;9;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Ally;MostHealthy

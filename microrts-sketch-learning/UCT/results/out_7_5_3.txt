@@ -1,0 +1,5 @@
+6.075	0.0	0.5158730149269104	1	S;For_S;S;C;Harvest;10
+175.865	0.0	0.5714285969734192	29	S;S_S;S;For_S;S;Empty;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;7;S;For_S;S;For_S;S;C;MoveToUnit;Enemy;Farthest;S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;For_S;S;C;Harvest;8;S;For_S;S;C;Build;Barracks;Down;10
+545.58	0.0	0.5972222089767456	90	S;S_S;S;For_S;S;C;Train;Ranged;Left;9;S;For_S;S;C;Build;Barracks;Left;4
+563.802	0.0	0.6111111044883728	93	S;S_S;S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Up;6;S;C;Build;Barracks;Right;3;S;Empty
+172800	0.0	0.6111111044883728	93	S;S_S;S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Up;6;S;C;Build;Barracks;Right;3;S;Empty

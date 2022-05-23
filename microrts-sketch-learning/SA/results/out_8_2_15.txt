@@ -1,0 +1,2 @@
+0.964	0.0	0.0	S;S_S;S;C;Idle;S;Empty	
+172800	0.0	0.0	S;S_S;S;C;Idle;S;Empty	

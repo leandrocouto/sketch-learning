@@ -1,0 +1,7 @@
+6.17	0.0	0.2222222238779068	1	S;For_S;S;S_S;S;For_S;S;Empty;S;Empty
+49.141	0.0	0.25641027092933655	8	S;For_S;S;C;Train;Worker;Up;3
+61.291	0.0	0.2649572789669037	10	S;For_S;S;C;Train;Worker;Down;100
+146.693	0.0	0.43589743971824646	24	S;S_S;S;For_S;S;C;Harvest;20;S;For_S;S;C;Train;Worker;Left;5
+35138.778	0.0	0.4365079402923584	5750	S;For_S;S;S_S;S;C;Harvest;15;S;C;Train;Worker;Right;6
+113496.581	0.0	0.4483143389225006	18565	S;For_S;S;S_S;S;For_S;S;C;Build;Barracks;Right;9;S;If_B_then_S;S;S_S;S;C;Harvest;6;S;C;Train;Worker;Right;7;B;is_Type;Heavy
+172800	0.0	0.4483143389225006	18565	S;For_S;S;S_S;S;For_S;S;C;Build;Barracks;Right;9;S;If_B_then_S;S;S_S;S;C;Harvest;6;S;C;Train;Worker;Right;7;B;is_Type;Heavy

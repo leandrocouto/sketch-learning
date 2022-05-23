@@ -1,0 +1,6 @@
+6.242	0.0	0.9657976582510056	1	S;For_S;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Attack;Random;S;If_B_then_S;B;HasNumberOfUnits;Light;0;S;C;MoveAway;S;For_S;S;S_S;S;C;Attack;LessHealthy;S;C;MoveToUnit;Enemy;LessHealthy
+18.307	0.0	0.972667398463227	3	S;S_S;S;For_S;S;C;Attack;Strongest;S;If_B_then_S;B;HaveQtdUnitsAttacking;100;S;S_S;S;Empty;S;Empty
+36.708	0.0	0.974963410171972	6	S;For_S;S;S_S;S;If_B_then_S_else_S;B;Idle;S;C;MoveAway;S;S_S;S;Empty;S;Empty;S;C;MoveToUnit;Enemy;Closest
+42.884	0.0	0.9813574826198317	7	S;For_S;S;S_S;S;C;Attack;Closest;S;S_S;S;Empty;S;Empty
+962.653	0.0	0.9975850713501646	152	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;If_B_then_S_else_S;B;CanAttack;S;For_S;S;C;Harvest;15;S;For_S;S;C;Harvest;8;S;Empty
+172800	0.0	0.9975850713501646	152	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;If_B_then_S_else_S;B;CanAttack;S;For_S;S;C;Harvest;15;S;For_S;S;C;Harvest;8;S;Empty

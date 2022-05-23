@@ -1,0 +1,4 @@
+6.138	0.0	0.9597946120841243	1	S;For_S;S;S_S;S;Empty;S;For_S;S;For_S;S;C;MoveToUnit;Enemy;Farthest
+12.145	0.0	0.9962931701484139	2	S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Strongest
+1579.542	1.0	0.991935710768798	261	S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Harvest;100;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;B;OpponentHasNumberOfUnits;Base;5;S;Empty
+172800	1.0	0.991935710768798	261	S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Harvest;100;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;B;OpponentHasNumberOfUnits;Base;5;S;Empty

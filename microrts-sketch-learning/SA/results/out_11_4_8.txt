@@ -1,0 +1,4 @@
+19.408	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;MoveToUnit;Ally;Closest;S;Empty	
+86400	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;MoveToUnit;Ally;Closest;S;Empty	
+86411.692	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;Farthest	
+172800	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;Farthest	

@@ -1,0 +1,2 @@
+6.034	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Idle;S;S_S;S;C;Harvest;25;S;C;Train;Barracks;Right;20
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Idle;S;S_S;S;C;Harvest;25;S;C;Train;Barracks;Right;20

@@ -1,0 +1,7 @@
+6.025	0.0	0.9520705745115194	1	S;For_S;S;If_B_then_S;B;CanAttack;S;S_S;S;S_S;S;C;Build;Ranged;Left;4;S;C;MoveToUnit;Ally;Strongest;S;S_S;S;C;Train;Light;Left;3;S;C;Harvest;100
+24.29	0.0	0.9747739865850102	4	S;For_S;S;C;Attack;Farthest
+36.564	0.0	0.9790317876932048	6	S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;1;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;MoveAway;S;For_S;S;Empty;S;For_S;S;C;Harvest;5
+42.575	0.0	0.9795348498104406	7	S;For_S;S;S_S;S;For_S;S;Empty;S;C;Attack;Strongest
+109.994	0.0	0.9830344123651208	18	S;S_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Idle;S;C;Harvest;1;S;Empty
+232.146	0.0	0.9955526392534265	38	S;For_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;For_S;S;For_S;S;C;Harvest;8;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty
+172800	0.0	0.9955526392534265	38	S;For_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;For_S;S;For_S;S;C;Harvest;8;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty

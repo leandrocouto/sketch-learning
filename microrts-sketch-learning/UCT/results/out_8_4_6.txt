@@ -1,0 +1,5 @@
+13.144	0.0	0.21006807463655253	1	S;For_S;S;S_S;S;C;Train;Base;Down;7;S;C;MoveToUnit;Enemy;Strongest
+41.893	0.0	0.2102957183043124	3	S;S_S;S;Empty;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;C;MoveAway
+147.912	0.0	0.21494425066020897	13	S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;S_S;S;For_S;S;S_S;S;Empty;S;Empty;S;S_S;S;For_S;S;Empty;S;For_S;S;Empty;S;For_S;S;C;MoveToUnit;Enemy;Closest
+469.953	0.0	0.2180820155032448	26	S;For_S;S;C;Attack;Closest
+172800	0.0	0.2180820155032448	26	S;For_S;S;C;Attack;Closest

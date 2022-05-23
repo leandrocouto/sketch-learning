@@ -1,0 +1,3 @@
+0.682	0.0	0.0	S;S_S;S;S_S;S;C;MoveAway;S;C;Idle;S;Empty	
+869.305	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Attack;Strongest;S;S_S;S;C;Build;Light;Up;20;S;C;Train;Ranged;Right;3;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Worker;Left;9;S;C;Train;Ranged;Right;100;S;Empty	
+86400	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Attack;Strongest;S;S_S;S;C;Build;Light;Up;20;S;C;Train;Ranged;Right;3;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Worker;Left;9;S;C;Train;Ranged;Right;100;S;Empty	

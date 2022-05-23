@@ -1,0 +1,12 @@
+6.092	0.0	0.38750881313035207	1	S;For_S;S;S_S;S;S_S;S;Empty;S;Empty;S;C;MoveAway
+24.337	0.0	0.41810333640511327	4	S;S_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;25;S;For_S;S;Empty;S;C;Build;Barracks;Right;50;S;If_B_then_S;B;is_Type;Worker;S;C;MoveToUnit;Ally;LessHealthy;S;Empty
+121.724	0.0	0.41987025239149817	20	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;3;S;C;Idle
+133.824	0.0	0.4283549941410027	22	S;For_S;S;S_S;S;C;Build;Light;Down;4;S;C;Build;Barracks;Left;2
+206.348	0.0	0.45672361259269506	34	S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;7;B;is_Type;Light;S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;For_S;S;Empty;S;S_S;S;If_B_then_S_else_S;B;CanHarvest;S;If_B_then_S;B;OpponentHasNumberOfUnits;Worker;100;S;C;MoveToUnit;Ally;Strongest;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;C;Idle;S;Empty
+382.123	0.0	0.4582125240312588	63	S;For_S;S;C;Build;Barracks;Left;1
+709.24	0.0	0.45981898135492844	117	S;S_S;S;For_S;S;S_S;S;C;MoveToUnit;Ally;Random;S;For_S;S;Empty;S;S_S;S;For_S;S;For_S;S;Empty;S;For_S;S;For_S;S;C;Build;Barracks;Right;3
+1515.458	0.0	0.658037504928163	250	S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;Build;Barracks;Left;25;S;For_S;S;C;Train;Ranged;Right;20
+14896.229	0.0	0.6950252012309306	2458	S;S_S;S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Idle;S;S_S;S;C;Build;Barracks;Up;50;S;C;Train;Ranged;Down;7;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;MoveAway;S;S_S;S;C;Idle;S;C;Idle;S;Empty;B;HasLessNumberOfUnits;Heavy;25;S;For_S;S;C;MoveAway
+32670.763	0.0	0.7152698417155872	5386	S;For_S;S;S_S;S;C;Train;Ranged;Right;9;S;S_S;S;S_S;S;C;Build;Heavy;Left;2;S;C;MoveAway;S;S_S;S;C;Build;Barracks;Right;3;S;C;Train;Base;Down;15
+41453.981	0.0	0.8240298842801802	6830	S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;4;S;C;Idle;S;S_S;S;C;Build;Barracks;Up;5;S;C;Harvest;2;S;C;MoveToUnit;Enemy;LessHealthy
+172800	0.0	0.8240298842801802	6830	S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;4;S;C;Idle;S;S_S;S;C;Build;Barracks;Up;5;S;C;Harvest;2;S;C;MoveToUnit;Enemy;LessHealthy

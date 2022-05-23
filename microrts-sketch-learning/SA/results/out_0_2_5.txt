@@ -1,0 +1,3 @@
+0.678	0.0	0.0	S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Farthest;S;C;Idle	
+2456.449	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;EnemyDir;3;S;For_S;S;For_S;S;C;Train;Ranged;Right;20;S;S_S;S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;1;S;C;Train;Heavy;Right;6;S;C;Attack;Strongest;S;C;Train;Ranged;EnemyDir;50;S;C;Train;Barracks;Left;50;S;S_S;S;C;MoveAway;S;C;Attack;LessHealthy	
+86400	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;EnemyDir;3;S;For_S;S;For_S;S;C;Train;Ranged;Right;20;S;S_S;S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;1;S;C;Train;Heavy;Right;6;S;C;Attack;Strongest;S;C;Train;Ranged;EnemyDir;50;S;C;Train;Barracks;Left;50;S;S_S;S;C;MoveAway;S;C;Attack;LessHealthy	

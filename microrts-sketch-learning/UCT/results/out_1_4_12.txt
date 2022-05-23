@@ -1,0 +1,4 @@
+6.009	0.0	0.06256742179072276	1	S;For_S;S;If_B_then_S;B;HasNumberOfUnits;Base;10;S;For_S;S;For_S;S;Empty
+36.117	0.0	0.9188781014023726	6	S;Empty
+584.749	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+172800	1.0	0.06256742179072276	14957	S;S_S;S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Barracks;15;B;Idle;S;For_S;S;S_S;S;C;Train;Ranged;Up;8;S;C;Attack;Random;S;Empty

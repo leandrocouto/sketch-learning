@@ -1,0 +1,4 @@
+1.682	0.0	0.0	S;S_S;S;Empty;S;S_S;S;C;Train;Ranged;EnemyDir;15;S;C;Attack;Closest	
+3206.75	0.5	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;If_B_then_S;B;is_Type;Barracks;S;C;Train;Ranged;Right;10;S;C;Idle;S;C;MoveAway;S;For_S;S;C;Train;Worker;Left;6	
+3266.389	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;If_B_then_S;B;is_Type;Barracks;S;C;Train;Ranged;Right;10;S;C;Idle;S;C;Attack;Closest;S;C;MoveAway;S;For_S;S;C;Train;Worker;Left;6	
+86400	1.0	0.0	S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;If_B_then_S;B;is_Type;Barracks;S;C;Train;Ranged;Right;10;S;C;Idle;S;C;Attack;Closest;S;C;MoveAway;S;For_S;S;C;Train;Worker;Left;6	

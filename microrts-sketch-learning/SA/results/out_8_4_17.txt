@@ -1,0 +1,4 @@
+61.296	0.0	0.0779816513761468	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;10;S;For_S;S;C;Build;Heavy;EnemyDir;6;S;Empty	
+86400	0.0	0.0779816513761468	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;10;S;For_S;S;C;Build;Heavy;EnemyDir;6;S;Empty	
+86444.504	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;Build;Heavy;Up;9;S;Empty	
+172800	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;Build;Heavy;Up;9;S;Empty	

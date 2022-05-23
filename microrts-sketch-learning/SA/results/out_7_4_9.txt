@@ -1,0 +1,6 @@
+3.194	0.0	0.9813574826198317	S;S_S;S;For_S;S;For_S;S;C;Attack;Closest;S;Empty	
+25.01	0.0	0.9975850713501646	S;S_S;S;For_S;S;For_S;S;S_S;S;S_S;S;For_S;S;For_S;S;C;Harvest;5;S;C;Attack;Closest;S;S_S;S;C;Idle;S;C;Idle;S;Empty	
+86400	0.0	0.9975850713501646	S;S_S;S;For_S;S;For_S;S;S_S;S;S_S;S;For_S;S;For_S;S;C;Harvest;5;S;C;Attack;Closest;S;S_S;S;C;Idle;S;C;Idle;S;Empty	
+86404.967	0.0	0.9975850713501646	S;S_S;S;Empty;S;For_S;S;C;Attack;LessHealthy	
+86410.661	0.0	0.9975850713501646	S;S_S;S;Empty;S;For_S;S;For_S;S;S_S;S;For_S;S;C;Harvest;15;S;For_S;S;For_S;S;C;Attack;Closest	
+172800	0.0	0.9975850713501646	S;S_S;S;Empty;S;For_S;S;For_S;S;S_S;S;For_S;S;C;Harvest;15;S;For_S;S;For_S;S;C;Attack;Closest	

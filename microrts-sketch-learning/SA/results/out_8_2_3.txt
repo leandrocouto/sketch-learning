@@ -1,0 +1,2 @@
+1.036	0.0	0.0	S;S_S;S;C;MoveAway;S;C;Build;Ranged;Left;0	
+172800	0.0	0.0	S;S_S;S;C;MoveAway;S;C;Build;Ranged;Left;0	

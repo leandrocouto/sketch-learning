@@ -1,0 +1,12 @@
+6.004	0.0	0.15721002772615256	1	S;For_S;S;For_S;S;C;MoveAway
+36.231	0.0	0.18029561417746615	6	S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;Empty;S;C;Train;Worker;EnemyDir;8;S;S_S;S;Empty;S;Empty
+42.436	0.0	0.1932934887500217	7	S;For_S;S;S_S;S;If_B_then_S;B;CanHarvest;S;For_S;S;Empty;S;S_S;S;S_S;S;Empty;S;S_S;S;C;Attack;Random;S;If_B_then_S;B;CanAttack;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;7;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Train;Worker;Up;7
+454.841	0.0	0.19862228859490322	75	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;For_S;S;Empty;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;1;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Build;Barracks;Down;25;S;For_S;S;C;MoveToUnit;Ally;Random;S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Random;S;C;Train;Worker;Up;8
+890.26	0.0	0.20502794832835342	146	S;S_S;S;S_S;S;For_S;S;For_S;S;For_S;S;C;Build;Barracks;Right;3;S;Empty;S;For_S;S;C;Train;Heavy;Right;3
+1685.351	0.0	0.21047306067222593	277	S;For_S;S;S_S;S;C;Train;Worker;Up;4;S;For_S;S;S_S;S;C;MoveAway;S;C;Attack;MostHealthy
+4963.087	0.0	0.2469024217841051	817	S;For_S;S;S_S;S;For_S;S;C;Build;Barracks;EnemyDir;2;S;For_S;S;C;Train;Heavy;EnemyDir;3
+5587.727	0.0	0.25198483029352803	920	S;If_B_then_S;S;For_S;S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Left;100;S;For_S;S;C;Build;Barracks;EnemyDir;10;S;C;Harvest;1
+8867.395	0.0	0.2607213533733423	1461	S;For_S;S;S_S;S;If_B_then_S_else_S;B;is_Type;Base;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Idle;S;S_S;S;S_S;S;C;Build;Heavy;Left;10;S;C;Idle;S;C;Train;Heavy;Right;8;S;S_S;S;C;Build;Barracks;Up;3;S;C;Idle
+48232.192	0.0	0.28855799410682115	7884	S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Up;100;S;S_S;S;For_S;S;C;MoveAway;S;C;Build;Barracks;Right;3
+76736.018	0.0	0.33049273388402495	12558	S;For_S;S;S_S;S;For_S;S;S_S;S;C;MoveToUnit;Ally;Closest;S;S_S;S;S_S;S;C;Build;Barracks;Left;7;S;C;Train;Base;Right;1;S;C;Train;Heavy;Up;7;S;If_B_then_S_else_S;S;For_S;S;C;Attack;MostHealthy;S;If_B_then_S;B;HaveQtdUnitsAttacking;5;S;C;Train;Heavy;Left;50;B;HasUnitInOpponentRange
+172800	0.0	0.33049273388402495	12558	S;For_S;S;S_S;S;For_S;S;S_S;S;C;MoveToUnit;Ally;Closest;S;S_S;S;S_S;S;C;Build;Barracks;Left;7;S;C;Train;Base;Right;1;S;C;Train;Heavy;Up;7;S;If_B_then_S_else_S;S;For_S;S;C;Attack;MostHealthy;S;If_B_then_S;B;HaveQtdUnitsAttacking;5;S;C;Train;Heavy;Left;50;B;HasUnitInOpponentRange

@@ -1,0 +1,2 @@
+1.713	0.0	0.0	S;For_S;S;If_B_then_S;B;HasLessNumberOfUnits;Worker;7;S;C;Attack;Closest	
+172800	0.0	0.0	S;For_S;S;If_B_then_S;B;HasLessNumberOfUnits;Worker;7;S;C;Attack;Closest	

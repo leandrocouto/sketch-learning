@@ -1,0 +1,2 @@
+21.953	0.0	0.021634062140391253	1	S;For_S;S;For_S;S;S_S;S;Empty;S;C;Build;Light;Right;1
+172800	0.0	0.021634062140391253	1	S;For_S;S;For_S;S;S_S;S;Empty;S;C;Build;Light;Right;1

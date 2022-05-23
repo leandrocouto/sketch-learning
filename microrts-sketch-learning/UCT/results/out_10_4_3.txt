@@ -1,0 +1,4 @@
+6.161	0.0	0.9905730533683289	1	S;For_S;S;S_S;S;For_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Harvest;7;S;C;MoveToUnit;Enemy;MostHealthy
+31.107	0.0	0.9918780985710118	5	S;For_S;S;S_S;S;C;Attack;Random;S;For_S;S;C;Harvest;25
+135.203	0.0	0.9955526392534265	22	S;S_S;S;For_S;S;C;Harvest;25;S;For_S;S;C;Attack;Strongest
+172800	0.0	0.9955526392534265	22	S;S_S;S;For_S;S;C;Harvest;25;S;For_S;S;C;Attack;Strongest

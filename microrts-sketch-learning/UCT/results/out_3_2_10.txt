@@ -1,0 +1,2 @@
+6.003	0.0	0.0	1	S;For_S;S;S_S;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;6;S;For_S;S;C;Idle;S;C;MoveAway
+172800	0.0	0.0	1	S;For_S;S;S_S;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;6;S;For_S;S;C;Idle;S;C;MoveAway

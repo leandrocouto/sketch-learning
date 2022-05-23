@@ -1,0 +1,4 @@
+6.391	0.0	0.9795348498104406	1	S;For_S;S;C;Attack;Closest
+49.889	0.0	0.9905730533683289	8	S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;C;Harvest;6;S;C;Train;Base;Left;8;S;C;Attack;MostHealthy
+658.194	0.0	0.9955526392534265	107	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Harvest;25;S;If_B_then_S;B;OpponentHasNumberOfUnits;Light;15;S;C;Train;Base;Right;25;S;For_S;S;C;Harvest;2;S;S_S;S;Empty;S;Empty
+172800	0.0	0.9955526392534265	107	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Harvest;25;S;If_B_then_S;B;OpponentHasNumberOfUnits;Light;15;S;C;Train;Base;Right;25;S;For_S;S;C;Harvest;2;S;S_S;S;Empty;S;Empty

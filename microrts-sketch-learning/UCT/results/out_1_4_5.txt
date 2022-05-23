@@ -1,0 +1,6 @@
+6.029	0.0	0.9798726876274884	1	S;For_S;S;S_S;S;C;Harvest;10;S;C;Attack;MostHealthy
+12.056	0.0	0.9962931701484139	2	S;For_S;S;S_S;S;C;Attack;Strongest;S;For_S;S;C;Harvest;100
+3281.25	0.5	0.9306815783920658	536	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;100;B;OpponentHasNumberOfUnits;Light;1;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Worker;EnemyDir;7;S;If_B_then_S;B;CanHarvest;S;C;Idle;S;For_S;S;S_S;S;C;Idle;S;C;Train;Light;Right;5
+43520.886	1.0	0.9340894703523951	7226	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;10;B;OpponentHasNumberOfUnits;10;100;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Right;8;S;If_B_then_S;B;CanHarvest;S;C;Build;Worker;Up;10;S;S_S;S;For_S;S;C;Train;Ranged;EnemyDir;9;S;For_S;S;C;Attack;Closest
+112108.09	1.0	0.9927973552788915	18630	S;For_S;S;S_S;S;S_S;S;C;Idle;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Idle;S;For_S;S;C;Harvest;9;S;S_S;S;C;Train;Ranged;Left;5;S;C;Attack;Weakest
+172800	1.0	0.9927973552788915	18630	S;For_S;S;S_S;S;S_S;S;C;Idle;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Idle;S;For_S;S;C;Harvest;9;S;S_S;S;C;Train;Ranged;Left;5;S;C;Attack;Weakest

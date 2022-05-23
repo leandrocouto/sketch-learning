@@ -1,0 +1,4 @@
+10.711	0.0	0.954036194132163	1	S;For_S;S;For_S;S;For_S;S;C;Attack;Farthest
+16.741	0.0	0.9796389726716009	2	S;For_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Attack;LessHealthy;S;S_S;S;C;MoveToUnit;Ally;Closest;S;C;MoveAway
+41.188	0.0	0.9975514121195503	6	S;For_S;S;S_S;S;C;Harvest;2;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	6	S;For_S;S;S_S;S;C;Harvest;2;S;C;Attack;Closest

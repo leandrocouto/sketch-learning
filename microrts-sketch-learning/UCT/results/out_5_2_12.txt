@@ -1,0 +1,2 @@
+6.028	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Harvest;20;S;S_S;S;C;Build;Base;Up;9;S;C;Attack;Weakest;S;S_S;S;C;Train;Heavy;Up;3;S;For_S;S;C;Train;Barracks;Left;6
+172800	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Harvest;20;S;S_S;S;C;Build;Base;Up;9;S;C;Attack;Weakest;S;S_S;S;C;Train;Heavy;Up;3;S;For_S;S;C;Train;Barracks;Left;6

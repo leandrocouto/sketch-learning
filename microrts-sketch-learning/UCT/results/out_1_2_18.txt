@@ -1,0 +1,4 @@
+6.018	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;For_S;S;S_S;S;Empty;S;Empty;S;If_B_then_S;B;IsBuilder;S;S_S;S;Empty;S;Empty
+1222.242	0.5	0.0	203	S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;0;S;S_S;S;C;Harvest;25;S;C;Attack;MostHealthy;S;S_S;S;For_S;S;S_S;S;C;Attack;LessHealthy;S;C;Train;Light;Up;25;S;For_S;S;Empty
+164201.78	1.0	0.0	27304	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;100;S;S_S;S;C;Attack;Weakest;S;C;Build;Worker;Down;0
+172800	1.0	0.0	27304	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;100;S;S_S;S;C;Attack;Weakest;S;C;Build;Worker;Down;0

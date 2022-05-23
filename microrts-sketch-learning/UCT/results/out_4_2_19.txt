@@ -1,0 +1,2 @@
+6.009	0.0	0.0	1	S;For_S;S;If_B_then_S;B;is_Type;Base;S;S_S;S;C;MoveToUnit;Ally;Closest;S;C;Harvest;2
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;is_Type;Base;S;S_S;S;C;MoveToUnit;Ally;Closest;S;C;Harvest;2

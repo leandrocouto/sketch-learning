@@ -1,0 +1,5 @@
+6.035	0.0	0.2222222238779068	1	S;For_S;S;S_S;S;Empty;S;S_S;S;C;MoveToUnit;Enemy;Strongest;S;C;MoveAway
+66.876	0.0	0.2777777910232544	11	S;For_S;S;C;Train;Worker;Left;50
+225.224	0.0	0.4037036895751953	37	S;For_S;S;S_S;S;S_S;S;C;Harvest;50;S;C;Attack;Farthest;S;S_S;S;C;Train;Barracks;Right;5;S;C;Train;Worker;Left;2
+26735.286	0.0	0.42489710450172424	4379	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;10;S;C;Train;Worker;Right;9;S;C;Build;Barracks;Right;7
+172800	0.0	0.42489710450172424	4379	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;10;S;C;Train;Worker;Right;9;S;C;Build;Barracks;Right;7

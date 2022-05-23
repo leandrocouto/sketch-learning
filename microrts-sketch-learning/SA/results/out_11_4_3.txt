@@ -1,0 +1,4 @@
+390.213	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;Weakest	
+86400	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;Weakest	
+86410.611	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;LessHealthy	
+172800	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Attack;LessHealthy	

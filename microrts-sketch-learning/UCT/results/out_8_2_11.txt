@@ -1,0 +1,2 @@
+6.101	0.0	0.0	1	S;For_S;S;C;Train;Barracks;Up;8
+172800	0.0	0.0	1	S;For_S;S;C;Train;Barracks;Up;8

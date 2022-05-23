@@ -1,0 +1,2 @@
+6.038	0.0	0.0	1	S;For_S;S;C;Build;Heavy;Down;100
+172800	1.0	0.0	26550	S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;C;MoveAway;S;C;Idle;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Left;5;S;C;Attack;Weakest;S;Empty

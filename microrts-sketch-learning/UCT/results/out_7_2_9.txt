@@ -1,0 +1,2 @@
+6.248	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;10;S;C;Attack;LessHealthy;S;C;Build;Worker;Up;20
+172800	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;10;S;C;Attack;LessHealthy;S;C;Build;Worker;Up;20

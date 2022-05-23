@@ -1,0 +1,5 @@
+6.049	0.0	0.9717091673521607	1	S;For_S;S;S_S;S;C;Harvest;15;S;C;MoveToUnit;Enemy;MostHealthy
+12.076	0.0	0.9796389726716009	2	S;For_S;S;S_S;S;C;Attack;Closest;S;C;MoveAway
+18.146	0.0	0.9843012521707337	3	S;For_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Base;4;S;For_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;S_S;S;S_S;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty;S;For_S;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Harvest;5;S;C;Attack;Random
+187.871	0.0	0.9975514121195503	31	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	31	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest

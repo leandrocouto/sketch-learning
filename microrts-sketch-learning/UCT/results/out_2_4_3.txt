@@ -1,0 +1,3 @@
+6.124	0.0	0.0	1	S;C;MoveAway
+10743.848	1.0	0.0	1618	S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;9;S;C;Attack;Weakest;S;For_S;S;If_B_then_S;B;IsBuilder;S;S_S;S;C;Train;Barracks;Down;100;S;C;Harvest;10;S;For_S;S;S_S;S;For_S;S;C;Harvest;0;S;For_S;S;C;Idle
+172800	1.0	0.0	1618	S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;9;S;C;Attack;Weakest;S;For_S;S;If_B_then_S;B;IsBuilder;S;S_S;S;C;Train;Barracks;Down;100;S;C;Harvest;10;S;For_S;S;S_S;S;For_S;S;C;Harvest;0;S;For_S;S;C;Idle

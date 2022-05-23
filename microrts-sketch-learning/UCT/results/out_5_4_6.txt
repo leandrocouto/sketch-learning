@@ -1,0 +1,2 @@
+6.375	0.0	0.04187192118226601	1	S;For_S;S;S_S;S;C;MoveAway;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Idle
+172800	0.0	0.04187192118226601	1	S;For_S;S;S_S;S;C;MoveAway;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Idle

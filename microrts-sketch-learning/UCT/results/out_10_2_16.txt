@@ -1,0 +1,2 @@
+6.163	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;20;S;C;Harvest;2;S;If_B_then_S;B;IsBuilder;S;C;Attack;Weakest
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;20;S;C;Harvest;2;S;If_B_then_S;B;IsBuilder;S;C;Attack;Weakest

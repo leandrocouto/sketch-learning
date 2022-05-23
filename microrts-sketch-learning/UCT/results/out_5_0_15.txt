@@ -1,0 +1,13 @@
+6.056	0.0	0.3249785531879	1	S;For_S;S;Empty
+12.096	0.0	0.3466811985848632	2	S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;S_S;S;For_S;S;C;Build;Barracks;EnemyDir;1;S;Empty
+24.132	0.0	0.36479900513213004	4	S;For_S;S;S_S;S;C;Build;Barracks;Up;2;S;C;Harvest;20
+42.231	0.0	0.3694807873284036	7	S;S_S;S;For_S;S;Empty;S;For_S;S;S_S;S;For_S;S;C;Train;Worker;Left;2;S;S_S;S;S_S;S;Empty;S;C;Harvest;15;S;C;Attack;LessHealthy
+120.555	0.0	0.38596897573379507	20	S;For_S;S;S_S;S;C;Harvest;1;S;C;Train;Worker;Right;4
+1741.129	0.0	0.45373411480280523	289	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;8;S;S_S;S;C;Train;Heavy;Down;7;S;C;Harvest;100;S;For_S;S;Empty;S;Empty
+3364.19	0.0	0.4669870239930573	557	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;10;S;S_S;S;For_S;S;For_S;S;C;Train;Heavy;Up;7;S;C;Harvest;2
+5081.536	0.0	0.49728332832639055	842	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Farthest;S;C;Idle;S;For_S;S;C;Build;Barracks;Left;50;S;For_S;S;S_S;S;C;Train;Heavy;Right;5;S;C;Harvest;20
+5611.592	0.0	0.5284098739887564	930	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;25;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;LessHealthy;S;C;Train;Heavy;EnemyDir;10
+34123.863	0.0	0.5313160058857478	5651	S;For_S;S;S_S;S;S_S;S;Empty;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;C;MoveToUnit;Ally;Random;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;20;S;C;Train;Light;Left;15;S;C;MoveToUnit;Ally;Farthest;S;C;Train;Barracks;Right;6;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Idle;S;S_S;S;C;Train;Heavy;Left;5;S;C;Idle;S;For_S;S;S_S;S;C;Build;Barracks;Down;2;S;C;Harvest;6
+34172.089	0.0	0.6257094112685724	5659	S;For_S;S;S_S;S;S_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;EnemyDir;6;S;C;Build;Barracks;Left;25;S;S_S;S;C;Harvest;2;S;C;Attack;Closest
+166085.078	0.0	0.6637471856770405	27550	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;4;S;C;Idle;S;S_S;S;S_S;S;C;Train;Heavy;Up;50;S;C;MoveToUnit;Ally;Farthest;S;For_S;S;C;Harvest;9
+172800	0.0	0.6637471856770405	27550	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;4;S;C;Idle;S;S_S;S;S_S;S;C;Train;Heavy;Up;50;S;C;MoveToUnit;Ally;Farthest;S;For_S;S;C;Harvest;9

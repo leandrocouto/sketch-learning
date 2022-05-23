@@ -1,0 +1,2 @@
+6.034	0.0	0.0	1	S;For_S;S;C;Build;Heavy;Right;25
+172800	0.0	0.0	1	S;For_S;S;C;Build;Heavy;Right;25

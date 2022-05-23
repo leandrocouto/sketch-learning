@@ -1,0 +1,4 @@
+6.543	0.0	0.9790317876932048	1	S;For_S;S;C;Harvest;20
+43.638	0.0	0.9945756780402449	7	S;For_S;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Harvest;15;S;C;Attack;Farthest;S;S_S;S;C;Build;Worker;EnemyDir;2;S;For_S;S;C;Build;Light;EnemyDir;10
+787.345	0.0	0.9955526392534265	128	S;If_B_then_S;S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;For_S;S;C;Attack;Closest;S;If_B_then_S;B;Idle;S;C;Attack;MostHealthy
+172800	0.0	0.9955526392534265	128	S;If_B_then_S;S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;For_S;S;C;Attack;Closest;S;If_B_then_S;B;Idle;S;C;Attack;MostHealthy

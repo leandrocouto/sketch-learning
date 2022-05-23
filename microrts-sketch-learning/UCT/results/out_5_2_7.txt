@@ -1,0 +1,2 @@
+6.031	0.0	0.0	1	S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;2;S;C;Harvest;2;S;If_B_then_S;B;IsBuilder;S;S_S;S;C;Train;Barracks;EnemyDir;2;S;C;Train;Ranged;Left;20
+172800	0.0	0.0	1	S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;2;S;C;Harvest;2;S;If_B_then_S;B;IsBuilder;S;S_S;S;C;Train;Barracks;EnemyDir;2;S;C;Train;Ranged;Left;20

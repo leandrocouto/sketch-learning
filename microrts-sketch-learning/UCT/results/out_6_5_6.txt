@@ -1,0 +1,12 @@
+6.037	0.0	0.17777778208255768	1	S;For_S;S;C;Harvest;6
+12.105	0.0	0.18518517911434174	2	S;For_S;S;S_S;S;C;Train;Base;Right;0;S;C;Train;Worker;EnemyDir;10
+72.808	0.0	0.19629628956317902	12	S;For_S;S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;For_S;S;Empty;S;S_S;S;C;Harvest;6;S;C;Build;Barracks;Left;15
+188.278	0.0	0.2222222238779068	31	S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;Train;Worker;Down;25;S;C;Harvest;3
+394.607	0.0	0.25925925374031067	65	S;S_S;S;For_S;S;C;Train;Worker;Right;2;S;S_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Build;Barracks;Right;5;S;C;MoveToUnit;Enemy;LessHealthy;S;S_S;S;Empty;S;Empty
+575.016	0.0	0.3232323229312897	94	S;S_S;S;For_S;S;For_S;S;C;Train;Worker;EnemyDir;6;S;For_S;S;S_S;S;C;Idle;S;C;Harvest;6
+51402.403	0.0	0.3296296298503876	8430	S;For_S;S;S_S;S;C;Train;Worker;Right;5;S;C;Harvest;4
+51608.642	0.0	0.32974910736083984	8463	S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Left;6;S;C;Attack;Farthest;S;S_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;If_B_then_S_else_S;B;CanAttack;S;C;Train;Heavy;Up;7;S;S_S;S;C;Build;Base;EnemyDir;3;S;C;MoveToUnit;Ally;Random;S;For_S;S;S_S;S;C;Harvest;25;S;C;Train;Base;Right;5;S;C;MoveToUnit;Enemy;Random;B;HasUnitThatKillsInOneAttack
+76397.642	0.0	0.3333333432674408	12521	S;If_B_then_S;S;S_S;S;For_S;S;For_S;S;S_S;S;C;Harvest;5;S;C;Harvest;4;S;For_S;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Train;Worker;Down;6;B;HasNumberOfUnits;Worker;Light
+122499.716	0.0	0.33597883582115173	20106	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;3;S;S_S;S;Empty;S;S_S;S;C;Build;Barracks;Down;5;S;C;Train;Barracks;EnemyDir;2;S;C;Harvest;20
+158584.983	0.0	0.3819444477558136	26045	S;For_S;S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;100;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Harvest;10;S;C;Build;Barracks;EnemyDir;50;S;C;Train;Worker;Left;6;S;For_S;S;C;Idle
+172800	0.0	0.3819444477558136	26045	S;For_S;S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;100;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Harvest;10;S;C;Build;Barracks;EnemyDir;50;S;C;Train;Worker;Left;6;S;For_S;S;C;Idle

@@ -1,0 +1,6 @@
+6.011	0.0	0.16953955726812517	1	S;For_S;S;For_S;S;If_B_then_S_else_S;B;is_Type;Light;S;If_B_then_S;B;is_Type;Heavy;S;C;Train;Heavy;Right;50;S;C;Train;Heavy;Right;8
+18.061	0.0	0.2762780120700067	3	S;For_S;S;S_S;S;S_S;S;C;Build;Base;Left;3;S;S_S;S;C;Attack;Closest;S;C;Train;Ranged;EnemyDir;6;S;C;Train;Heavy;Up;50
+192.551	0.0	0.28144273428927885	32	S;S_S;S;For_S;S;C;Train;Heavy;Down;5;S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;MoveToUnit;Ally;MostHealthy;S;C;Attack;Random
+1101.753	0.0	0.30346055680619516	183	S;For_S;S;S_S;S;C;Attack;Farthest;S;C;Train;Worker;Left;3
+1951.928	1.0	0.6027455914301273	322	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;15;S;S_S;S;C;Harvest;2;S;C;Build;Base;Right;25;S;If_B_then_S;B;Idle;S;C;Idle;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Build;Light;Down;4;S;S_S;S;C;MoveAway;S;C;Train;Worker;Up;5
+172800	1.0	0.6027455914301273	322	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;15;S;S_S;S;C;Harvest;2;S;C;Build;Base;Right;25;S;If_B_then_S;B;Idle;S;C;Idle;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Build;Light;Down;4;S;S_S;S;C;MoveAway;S;C;Train;Worker;Up;5

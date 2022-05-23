@@ -1,0 +1,4 @@
+13.34	0.0	0.0779816513761468	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;5;S;C;Idle;S;For_S;S;For_S;S;C;Train;Worker;Down;50	
+86400	0.0	0.0779816513761468	S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;5;S;C;Idle;S;For_S;S;For_S;S;C;Train;Worker;Down;50	
+86420.167	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveAway	
+172800	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveAway	

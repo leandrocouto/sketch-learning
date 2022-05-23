@@ -1,0 +1,2 @@
+6.009	0.0	0.0	1	S;For_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;If_B_then_S;B;HasNumberOfUnits;Worker;15;S;C;Train;Light;Up;50
+172800	0.0	0.0	1	S;For_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;If_B_then_S;B;HasNumberOfUnits;Worker;15;S;C;Train;Light;Up;50

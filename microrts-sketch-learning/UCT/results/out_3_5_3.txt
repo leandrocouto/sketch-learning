@@ -1,0 +1,13 @@
+6.06	0.0	0.2777777910232544	1	S;For_S;S;If_B_then_S_else_S;B;is_Type;Ranged;S;C;MoveAway;S;S_S;S;Empty;S;S_S;S;C;Harvest;1;S;For_S;S;S_S;S;Empty;S;Empty
+12.072	0.0	0.30158731341362	2	S;For_S;S;C;Train;Worker;Up;9
+42.227	0.0	0.35555556416511536	7	S;For_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;Up;9
+48.315	0.0	0.3940476179122925	8	S;For_S;S;S_S;S;C;Harvest;7;S;For_S;S;S_S;S;C;Train;Ranged;Up;4;S;C;Train;Worker;Right;5
+168.826	0.0	0.4365079402923584	28	S;S_S;S;For_S;S;C;Build;Barracks;Up;25;S;For_S;S;S_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;Idle;S;C;Train;Worker;EnemyDir;4;S;C;Harvest;8
+801.911	0.0	0.4416666626930237	133	S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Harvest;9;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Worker;0;S;C;Train;Worker;Right;2;S;C;Train;Worker;Left;6
+4257.277	0.0	0.47261905670166016	691	S;If_B_then_S_else_S;S;For_S;S;C;Harvest;50;B;HaveQtdUnitsAttacking;4;S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;S_S;S;C;Train;Worker;Left;7;S;C;Build;Barracks;Left;5
+5597.64	0.0	0.4753968119621277	913	S;For_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;20;S;S_S;S;C;Build;Barracks;Left;8;S;C;Harvest;10;S;C;Train;Worker;EnemyDir;7
+18302.993	0.0	0.5182539820671082	3016	S;For_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;50;S;C;Train;Worker;Right;8;S;S_S;S;C;Build;Barracks;Left;10;S;C;Idle;S;Empty
+19914.514	0.0	0.5333333611488342	3279	S;For_S;S;S_S;S;C;Harvest;7;S;S_S;S;For_S;S;C;Train;Worker;Down;8;S;C;Build;Barracks;EnemyDir;4
+21651.082	0.0	0.5369047522544861	3564	S;For_S;S;S_S;S;If_B_then_S_else_S;B;is_Type;Heavy;B;HasUnitWithinDistanceFromOpponent;2;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Train;Worker;Down;25;S;C;Harvest;20;S;S_S;S;Empty;S;S_S;S;S_S;S;C;Build;Barracks;Right;50;S;C;Train;Worker;Right;7;S;If_B_then_S;B;Idle;S;C;Idle
+33355.579	0.0	0.5396825671195984	5480	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;C;MoveAway;S;S_S;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;C;Harvest;0;S;C;MoveAway;S;S_S;S;C;Train;Worker;Up;6;S;C;MoveAway;S;C;Build;Barracks;Down;8
+172800	0.0	0.5396825671195984	5480	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Harvest;6;S;C;MoveAway;S;S_S;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;C;Harvest;0;S;C;MoveAway;S;S_S;S;C;Train;Worker;Up;6;S;C;MoveAway;S;C;Build;Barracks;Down;8

@@ -1,0 +1,2 @@
+2.029	0.0	0.04187192118226601	S;S_S;S;Empty;S;For_S;S;C;Build;Base;Up;9	
+86400	0.0	0.04187192118226601	S;S_S;S;Empty;S;For_S;S;C;Build;Base;Up;9	

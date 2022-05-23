@@ -1,0 +1,4 @@
+38.4	0.0	0.0779816513761468	S;S_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveAway;S;Empty	
+86400	0.0	0.0779816513761468	S;S_S;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveAway;S;Empty	
+86442.202	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;Build;Worker;Down;8;S;Empty	
+172800	0.0	0.0779816513761468	S;S_S;S;For_S;S;C;Build;Worker;Down;8;S;Empty	

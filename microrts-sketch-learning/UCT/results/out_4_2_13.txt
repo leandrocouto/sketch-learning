@@ -1,0 +1,2 @@
+6.041	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Light;EnemyDir;0
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Light;EnemyDir;0

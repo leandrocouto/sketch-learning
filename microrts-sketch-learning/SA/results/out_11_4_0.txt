@@ -1,0 +1,4 @@
+15.314	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Build;Light;Right;6;S;Empty	
+86400	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Build;Light;Right;6;S;Empty	
+86408.928	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Train;Heavy;Down;1;S;For_S;S;C;MoveAway	
+172800	0.0	0.021634062140391253	S;S_S;S;For_S;S;C;Train;Heavy;Down;1;S;For_S;S;C;MoveAway	

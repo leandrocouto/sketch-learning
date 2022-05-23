@@ -1,0 +1,7 @@
+6.112	0.0	0.972667398463227	1	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Attack;Random;S;C;Attack;Strongest
+24.648	0.0	0.9801683132089278	4	S;For_S;S;S_S;S;C;Idle;S;C;Attack;Closest
+55.453	0.0	0.9813574826198317	9	S;For_S;S;S_S;S;C;Attack;Closest;S;If_B_then_S;B;HasNumberOfUnits;Barracks;8;S;C;Harvest;10
+406.048	0.0	0.98889498719356	66	S;For_S;S;S_S;S;For_S;S;C;Harvest;7;S;S_S;S;C;Attack;Strongest;S;C;Harvest;1
+637.545	0.0	0.9942462495426269	104	S;For_S;S;If_B_then_S_else_S;S;S_S;S;C;Idle;S;C;Build;Heavy;Left;3;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;3;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;C;Harvest;5;S;C;Attack;Random
+1196.935	0.0	0.9975850713501646	195	S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Closest
+172800	0.0	0.9975850713501646	195	S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Closest

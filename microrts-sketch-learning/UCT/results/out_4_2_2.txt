@@ -1,0 +1,2 @@
+6.009	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;C;Attack;Random;S;S_S;S;Empty;S;Empty
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;C;Attack;Random;S;S_S;S;Empty;S;Empty

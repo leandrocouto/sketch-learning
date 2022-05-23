@@ -1,0 +1,2 @@
+6.165	0.0	0.0	1	S;For_S;S;C;MoveToUnit;Ally;Farthest
+172800	0.0	0.0	1	S;For_S;S;C;MoveToUnit;Ally;Farthest

@@ -1,0 +1,5 @@
+6.062	0.0	0.0032876712328767125	1	S;For_S;S;S_S;S;If_B_then_S;B;is_Type;Light;S;C;Harvest;1;S;S_S;S;C;Build;Barracks;EnemyDir;50;S;C;Harvest;10
+38.142	0.0	0.8528581905157252	6	S;Empty
+576.522	0.0	0.8691713020617132	53	S;For_S;S;C;Idle
+108702.009	1.0	0.0032876712328767125	15335	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;Empty;S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Base;10;S;C;Attack;Weakest;S;For_S;S;C;Train;Ranged;Left;25
+172800	1.0	0.0032876712328767125	15335	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;Empty;S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Base;10;S;C;Attack;Weakest;S;For_S;S;C;Train;Ranged;Left;25

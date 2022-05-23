@@ -1,0 +1,2 @@
+6.02	0.0	0.0	1	S;C;MoveAway
+172800	0.0	0.0	1	S;C;MoveAway

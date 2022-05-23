@@ -1,0 +1,5 @@
+6.025	0.0	0.2535007976034056	1	S;For_S;S;For_S;S;S_S;S;For_S;S;For_S;S;C;Attack;Weakest;S;S_S;S;C;Train;Heavy;EnemyDir;25;S;C;Harvest;20
+18.067	0.0	0.2752127879519082	3	S;S_S;S;For_S;S;For_S;S;S_S;S;C;Attack;Closest;S;C;Train;Heavy;Left;15;S;Empty
+108.398	1.0	0.18134077397452764	18	S;For_S;S;S_S;S;S_S;S;C;Attack;Strongest;S;C;Train;Ranged;Left;7;S;S_S;S;C;Train;Worker;Down;6;S;C;Idle
+9594.398	1.0	0.19927993940594962	1595	S;For_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;50;B;Idle;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;EnemyDir;8;S;C;Harvest;6;S;S_S;S;C;Train;Worker;Down;1;S;C;Attack;Closest
+172800	1.0	0.19927993940594962	1595	S;For_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;50;B;Idle;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;EnemyDir;8;S;C;Harvest;6;S;S_S;S;C;Train;Worker;Down;1;S;C;Attack;Closest

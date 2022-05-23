@@ -1,0 +1,5 @@
+8.843	0.0	0.019086294416243654	1	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;5;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;100;S;S_S;S;Empty;S;Empty;S;For_S;S;C;Idle
+41.04	0.0	0.8071716219482719	6	S;Empty
+1804.996	0.0	0.8092291515591008	53	S;For_S;S;C;Idle
+1834.308	0.0	0.8311829828378066	56	S;For_S;S;C;MoveAway
+172800	0.0	0.8311829828378066	56	S;For_S;S;C;MoveAway

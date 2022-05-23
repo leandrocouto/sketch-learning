@@ -1,0 +1,3 @@
+6.029	0.0	0.0	1	S;For_S;S;C;MoveAway
+22459.111	1.0	0.0	3729	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;25;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest
+172800	1.0	0.0	3729	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;25;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest

@@ -1,0 +1,3 @@
+0.796	0.0	0.0	S;C;MoveAway	
+1087.674	1.0	0.0	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;25;S;C;Idle;S;S_S;S;C;Harvest;6;S;C;Train;Worker;Down;2	
+86400	1.0	0.0	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;25;S;C;Idle;S;S_S;S;C;Harvest;6;S;C;Train;Worker;Down;2	

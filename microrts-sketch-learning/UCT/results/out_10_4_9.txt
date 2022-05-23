@@ -1,0 +1,4 @@
+6.513	0.0	0.9795348498104406	1	S;For_S;S;S_S;S;Empty;S;For_S;S;C;Attack;Strongest
+104.297	0.0	0.9830344123651208	17	S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;Empty;S;Empty;S;For_S;S;C;Harvest;6
+483.605	0.0	0.9955526392534265	79	S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;C;Attack;Closest;S;For_S;S;C;Idle;S;Empty
+172800	0.0	0.9955526392534265	79	S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;C;Attack;Closest;S;For_S;S;C;Idle;S;Empty

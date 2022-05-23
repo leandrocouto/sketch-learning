@@ -1,0 +1,10 @@
+6.009	0.0	0.3888888955116272	1	S;For_S;S;C;Train;Ranged;Up;15
+12.035	0.0	0.48181816935539246	2	S;For_S;S;S_S;S;For_S;S;C;Train;Worker;Down;5;S;S_S;S;C;Train;Ranged;Left;1;S;C;Harvest;2
+318.906	0.0	0.5077441334724426	53	S;For_S;S;S_S;S;S_S;S;C;Harvest;20;S;C;Train;Worker;Left;5;S;For_S;S;S_S;S;For_S;S;C;Harvest;9;S;For_S;S;C;Train;Ranged;EnemyDir;10
+830.4	0.0	0.5107744336128235	138	S;If_B_then_S_else_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;6;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;MoveAway;S;For_S;S;S_S;S;For_S;S;Empty;S;For_S;S;For_S;S;C;Train;Ranged;Down;50;B;HasNumberOfUnits;Ranged;50;S;For_S;S;S_S;S;C;Train;Worker;Down;3;S;C;Harvest;50
+2976.65	0.0	0.5431216955184937	494	S;S_S;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;EnemyDir;15;S;S_S;S;C;Harvest;7;S;C;Attack;Weakest;S;For_S;S;C;Train;Worker;Left;50;S;S_S;S;Empty;S;Empty
+3061.344	0.5	0.5323793292045593	508	S;For_S;S;If_B_then_S_else_S;S;If_B_then_S_else_S;B;Idle;S;C;Attack;MostHealthy;S;C;Train;Worker;Down;4;B;Idle;S;S_S;S;C;Harvest;100;S;C;Train;Ranged;Right;8
+5804.461	1.0	0.3914141356945038	964	S;For_S;S;If_B_then_S_else_S;S;S_S;S;For_S;S;Empty;S;S_S;S;C;Train;Worker;Right;100;S;C;Train;Ranged;Right;100;B;OpponentHasNumberOfUnits;Light;25;S;C;Attack;Closest
+83406.339	1.0	0.4171717166900635	13868	S;For_S;S;If_B_then_S_else_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;B;HasNumberOfWorkersHarvesting;4;S;Empty;S;C;Train;Ranged;EnemyDir;5;B;OpponentHasNumberOfUnits;Heavy;Worker;S;S_S;S;If_B_then_S;B;Idle;S;For_S;S;C;Idle;S;S_S;S;For_S;S;C;Harvest;6;S;S_S;S;C;Train;Worker;Right;1;S;C;MoveToUnit;Enemy;Farthest
+94050.211	1.0	0.5481855869293213	15638	S;For_S;S;If_B_then_S_else_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;3;S;C;Attack;Closest;S;S_S;S;C;Train;Worker;EnemyDir;2;S;C;Train;Heavy;Up;10;S;If_B_then_S;S;Empty;S;Empty;B;OpponentHasNumberOfUnits;Barracks;Barracks;S;C;Build;Heavy;Down;Up
+172800	1.0	0.5481855869293213	15638	S;For_S;S;If_B_then_S_else_S;S;S_S;S;S_S;S;S_S;S;C;Harvest;3;S;C;Attack;Closest;S;S_S;S;C;Train;Worker;EnemyDir;2;S;C;Train;Heavy;Up;10;S;If_B_then_S;S;Empty;S;Empty;B;OpponentHasNumberOfUnits;Barracks;Barracks;S;C;Build;Heavy;Down;Up

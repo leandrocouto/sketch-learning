@@ -1,0 +1,9 @@
+6.093	0.0	0.38692372588235185	1	S;For_S;S;C;MoveAway
+36.689	0.0	0.48139929668996323	6	S;Empty
+161.427	0.0	0.6490691485226903	25	S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;C;Train;Heavy;Right;100
+25310.924	0.0	0.656133367015838	4169	S;If_B_then_S;S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;Empty;S;C;Build;Light;Left;7;S;C;Build;Barracks;Left;20;S;S_S;S;For_S;S;C;Train;Heavy;Up;20;S;If_B_then_S_else_S;B;HasNumberOfUnits;Ranged;50;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Harvest;25;S;S_S;S;Empty;S;Empty;B;HasUnitWithinDistanceFromOpponent;2
+43952.826	0.0	0.6637634369843225	7237	S;S_S;S;S_S;S;For_S;S;Empty;S;For_S;S;S_S;S;If_B_then_S_else_S;B;CanAttack;S;C;Idle;S;S_S;S;C;Train;Heavy;Up;9;S;C;Build;Barracks;Down;9;S;S_S;S;For_S;S;C;Train;Barracks;Right;15;S;For_S;S;C;MoveAway;S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Build;Worker;Down;20;S;If_B_then_S;B;Idle;S;C;Harvest;100
+52412.95	0.0	0.7126071125328028	8631	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Build;Barracks;Down;1;S;C;MoveAway;S;Empty;S;For_S;S;C;Train;Heavy;Right;10
+116678.04	0.0	0.7128673731315553	19226	S;If_B_then_S;S;S_S;S;For_S;S;If_B_then_S;B;CanAttack;S;C;Harvest;1;S;For_S;S;S_S;S;For_S;S;C;Build;Barracks;Left;1;S;S_S;S;C;Train;Heavy;Right;7;S;C;MoveToUnit;Ally;LessHealthy;B;CanHarvest
+145976.689	0.0	0.7318275247830393	24058	S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;8;S;Empty;S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;Build;Barracks;Right;20;S;S_S;S;C;Attack;Farthest;S;C;Train;Heavy;EnemyDir;3;S;For_S;S;Empty;B;CanHarvest
+172800	0.0	0.7318275247830393	24058	S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;8;S;Empty;S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;Build;Barracks;Right;20;S;S_S;S;C;Attack;Farthest;S;C;Train;Heavy;EnemyDir;3;S;For_S;S;Empty;B;CanHarvest

@@ -1,0 +1,11 @@
+6.06	0.0	0.38750881313035207	1	S;For_S;S;S_S;S;S_S;S;C;MoveAway;S;C;MoveAway;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;20;S;C;Idle
+12.109	0.0	0.40282892853888064	2	S;For_S;S;S_S;S;C;Harvest;8;S;For_S;S;S_S;S;C;MoveAway;S;C;MoveAway
+18.186	0.0	0.4176943506830941	3	S;For_S;S;S_S;S;C;Build;Barracks;Right;15;S;C;Train;Heavy;Left;8
+24.236	0.0	0.41810333640511327	4	S;For_S;S;C;Build;Barracks;Right;4
+48.649	0.0	0.42774301039865237	8	S;S_S;S;For_S;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;S_S;S;C;Attack;Weakest;S;C;Train;Base;EnemyDir;10;S;C;Build;Barracks;Up;2;S;Empty
+78.975	0.0	0.4969251555070338	13	S;For_S;S;S_S;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;C;MoveToUnit;Ally;Farthest;S;S_S;S;C;Train;Light;Left;6;S;C;Build;Barracks;Down;100
+2837.185	0.0	0.5196312471562143	468	S;For_S;S;S_S;S;C;Train;Heavy;Down;5;S;C;Build;Barracks;Down;1
+7423.353	0.0	0.6157078412834001	1223	S;S_S;S;S_S;S;For_S;S;For_S;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;S_S;S;C;Build;Barracks;Left;1;S;C;Train;Light;Left;10;S;For_S;S;Empty
+13327.768	0.0	0.6505875425128184	2188	S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;C;Train;Barracks;Right;10;S;C;Build;Barracks;Right;1;S;For_S;S;C;Train;Ranged;EnemyDir;100;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;0;S;For_S;S;C;Train;Light;Left;7;S;S_S;S;C;Build;Worker;Down;10;S;C;Attack;Weakest
+13969.704	0.0	0.7785850174794534	2294	S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;0;S;For_S;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;Empty;S;S_S;S;For_S;S;C;Train;Base;Down;9;S;For_S;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Train;Ranged;Up;25;S;C;Build;Barracks;Right;25;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty;S;If_B_then_S;S;Empty;S;If_B_then_S;B;HasNumberOfUnits;Barracks;5;S;Empty
+172800	0.0	0.7785850174794534	2294	S;If_B_then_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;0;S;For_S;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;Empty;S;S_S;S;For_S;S;C;Train;Base;Down;9;S;For_S;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Train;Ranged;Up;25;S;C;Build;Barracks;Right;25;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty;S;If_B_then_S;S;Empty;S;If_B_then_S;B;HasNumberOfUnits;Barracks;5;S;Empty

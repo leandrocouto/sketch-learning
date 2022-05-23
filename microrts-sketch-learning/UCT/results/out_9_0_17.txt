@@ -1,0 +1,11 @@
+6.047	0.0	0.25807861335215604	1	S;For_S;S;C;MoveAway
+36.303	0.0	0.2974547111813827	6	S;For_S;S;For_S;S;C;Train;Worker;Up;7
+432.827	0.0	0.3032886730888923	71	S;For_S;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;For_S;S;C;Train;Worker;EnemyDir;2;S;C;MoveToUnit;Enemy;LessHealthy
+603.978	0.0	0.31036444362578136	99	S;For_S;S;If_B_then_S_else_S;S;C;Harvest;25;S;S_S;S;C;Build;Barracks;Up;1;S;C;Idle;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;EnemyDir;50
+652.931	0.0	0.31804516779011555	107	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;B;OpponentHasUnitInPlayerRange;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;0;S;If_B_then_S;B;CanAttack;S;C;MoveAway;S;S_S;S;C;Train;Worker;EnemyDir;2;S;C;Build;Barracks;Left;9
+3066.831	0.0	0.32660518716710685	503	S;S_S;S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;S_S;S;C;MoveToUnit;Ally;Weakest;S;C;Attack;Weakest;S;C;MoveToUnit;Enemy;MostHealthy;S;For_S;S;C;Train;Worker;Down;2
+8017.619	0.0	0.33130328809760035	1314	S;For_S;S;S_S;S;C;Harvest;1;S;S_S;S;S_S;S;C;Train;Worker;Down;4;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;Train;Ranged;Right;4;S;C;Build;Heavy;Left;4
+19990.447	0.0	0.3319219735534608	3268	S;For_S;S;If_B_then_S_else_S;S;S_S;S;For_S;S;S_S;S;C;MoveAway;S;C;Harvest;4;S;If_B_then_S_else_S;B;Idle;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Idle;S;S_S;S;C;Train;Worker;Left;50;S;C;MoveAway;B;IsBuilder;B;OpponentHasUnitInPlayerRange
+25400.925	0.0	0.35290506501181845	4147	S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;For_S;S;C;Harvest;50;S;C;Train;Worker;Down;100
+131204.14	0.0	0.38253839350586444	21459	S;If_B_then_S_else_S;S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;C;Build;Barracks;Left;1;S;C;Harvest;10;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;C;Harvest;10;S;C;Train;Light;Down;100;S;For_S;S;C;Train;Worker;Left;8
+172800	0.0	0.38253839350586444	21459	S;If_B_then_S_else_S;S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;C;Build;Barracks;Left;1;S;C;Harvest;10;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;C;Harvest;10;S;C;Train;Light;Down;100;S;For_S;S;C;Train;Worker;Left;8

@@ -1,0 +1,7 @@
+6.139	0.0	0.9790317876932048	1	S;For_S;S;C;Harvest;7
+12.327	0.0	0.9795348498104406	2	S;For_S;S;S_S;S;C;Build;Base;Left;7;S;For_S;S;C;Attack;Closest
+62.287	0.0	0.9905730533683289	10	S;S_S;S;For_S;S;C;Harvest;3;S;For_S;S;C;Attack;Farthest
+99.038	0.0	0.9945756780402449	16	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;MostHealthy;S;For_S;S;C;Harvest;10
+307.081	0.0	0.9955526392534265	50	S;For_S;S;S_S;S;S_S;S;C;Harvest;1;S;C;Harvest;4;S;S_S;S;C;Attack;Strongest;S;C;Attack;MostHealthy
+11854.694	0.0	0.995771361913094	1932	S;For_S;S;S_S;S;C;Build;Barracks;Down;8;S;S_S;S;C;Harvest;6;S;C;Attack;Strongest
+172800	0.0	0.995771361913094	1932	S;For_S;S;S_S;S;C;Build;Barracks;Down;8;S;S_S;S;C;Harvest;6;S;C;Attack;Strongest

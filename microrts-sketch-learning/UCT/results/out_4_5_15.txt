@@ -1,0 +1,12 @@
+6.019	0.0	0.31481480598449707	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Harvest;20;S;C;Idle;S;S_S;S;C;Train;Worker;Right;10;S;C;Train;Light;Down;2
+12.032	0.0	0.3333333432674408	2	S;For_S;S;If_B_then_S_else_S;B;CanAttack;S;S_S;S;C;Attack;Closest;S;C;MoveAway;S;S_S;S;C;Build;Barracks;Up;20;S;C;MoveAway
+42.177	0.0	0.3615984320640564	7	S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;C;Train;Worker;Down;3;S;C;Train;Ranged;Left;15;S;C;Harvest;7
+78.242	0.0	0.39181286096572876	13	S;For_S;S;S_S;S;C;Harvest;2;S;C;Build;Barracks;EnemyDir;1
+84.261	0.0	0.42592594027519226	14	S;S_S;S;For_S;S;C;Train;Worker;Right;6;S;For_S;S;C;Harvest;9
+295.219	0.0	0.43888887763023376	49	S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Base;20;S;C;Harvest;10;S;S_S;S;For_S;S;C;Train;Worker;Left;5;S;For_S;S;C;Harvest;15
+325.398	0.0	0.4649122953414917	54	S;S_S;S;For_S;S;C;Build;Barracks;Down;50;S;For_S;S;If_B_then_S_else_S;B;Idle;S;If_B_then_S;B;HasNumberOfUnits;Ranged;4;S;C;Harvest;6;S;S_S;S;C;Harvest;1;S;C;Train;Ranged;EnemyDir;10
+12598.903	0.0	0.4712475538253784	2090	S;If_B_then_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Barracks;7;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Train;Heavy;Up;4;S;C;Build;Barracks;Right;15;S;S_S;S;C;Harvest;50;S;C;Attack;Strongest;B;CanHarvest
+13094.652	0.0	0.4785574972629547	2172	S;For_S;S;S_S;S;C;Train;Worker;EnemyDir;6;S;S_S;S;S_S;S;S_S;S;C;Build;Worker;Up;3;S;C;Build;Barracks;Up;5;S;For_S;S;C;Harvest;50;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;5;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Build;Worker;Down;50;S;C;MoveAway
+22306.719	0.0	0.5068225860595703	3698	S;S_S;S;Empty;S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Up;5;S;C;Train;Ranged;Down;2;S;C;Harvest;4;S;C;Build;Barracks;Right;5
+29973.166	0.0	0.550000011920929	4958	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;6;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;20;S;If_B_then_S_else_S;B;is_Type;Light;S;S_S;S;C;Attack;Weakest;S;C;Build;Barracks;Up;8;S;C;Attack;Closest;S;C;Build;Barracks;Down;50;S;C;Train;Worker;Left;5
+172800	0.0	0.550000011920929	4958	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;6;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;20;S;If_B_then_S_else_S;B;is_Type;Light;S;S_S;S;C;Attack;Weakest;S;C;Build;Barracks;Up;8;S;C;Attack;Closest;S;C;Build;Barracks;Down;50;S;C;Train;Worker;Left;5

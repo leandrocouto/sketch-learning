@@ -1,0 +1,2 @@
+6.03	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;C;Build;Base;Left;50;S;C;Train;Base;Left;25;S;Empty
+172800	0.0	0.0	1	S;For_S;S;S_S;S;S_S;S;C;Build;Base;Left;50;S;C;Train;Base;Left;25;S;Empty

@@ -1,0 +1,12 @@
+6.013	0.0	0.3249785531879	1	S;For_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;100;S;For_S;S;S_S;S;Empty;S;Empty
+18.112	0.0	0.36397756672827025	3	S;For_S;S;S_S;S;C;Build;Barracks;Right;4;S;C;Harvest;100
+66.313	0.0	0.3687872097505131	11	S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Down;2;S;C;Idle;S;For_S;S;C;Harvest;9
+903.534	0.0	0.3902901646276227	150	S;For_S;S;S_S;S;C;Build;Barracks;Down;1;S;C;Harvest;7
+1441.056	0.0	0.40564355331943985	239	S;For_S;S;S_S;S;S_S;S;C;Harvest;8;S;C;Harvest;50;S;S_S;S;S_S;S;Empty;S;Empty;S;For_S;S;S_S;S;For_S;S;If_B_then_S;B;Idle;S;C;Attack;Farthest;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;2;S;C;MoveToUnit;Ally;Random;S;For_S;S;C;Harvest;1
+1972.134	0.0	0.4400398564318141	327	S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;C;Harvest;9;S;C;Train;Worker;Down;6;S;For_S;S;C;Build;Barracks;Down;1
+2498.372	0.0	0.4468203756402479	414	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Build;Barracks;Up;3;S;C;Harvest;0;S;S_S;S;C;Harvest;10;S;C;Train;Heavy;Down;5
+6082.635	0.0	0.45922881042734265	1008	S;For_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;Empty;S;C;Train;Heavy;EnemyDir;5;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;15;S;C;Idle;S;C;Harvest;1
+6342.404	0.0	0.5252753674969305	1051	S;For_S;S;For_S;S;S_S;S;S_S;S;For_S;S;For_S;S;C;Build;Barracks;Up;15;S;C;Harvest;7;S;S_S;S;C;Train;Heavy;Up;50;S;C;MoveToUnit;Ally;Random
+9348.57	0.0	0.6478064612603317	1548	S;For_S;S;For_S;S;If_B_then_S;S;S_S;S;C;Build;Barracks;Up;100;S;S_S;S;S_S;S;S_S;S;C;Harvest;8;S;C;Train;Heavy;Down;50;S;S_S;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty;S;C;Idle;S;C;MoveToUnit;Enemy;Closest;B;Idle
+21279.543	0.0	0.6670417665393408	3507	S;For_S;S;For_S;S;If_B_then_S;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;C;Build;Barracks;Right;8;S;S_S;S;C;Harvest;1;S;C;Train;Heavy;EnemyDir;6;S;C;Attack;Strongest;B;HasLessNumberOfUnits;Light;5
+172800	0.0	0.6670417665393408	3507	S;For_S;S;For_S;S;If_B_then_S;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;S_S;S;C;Build;Barracks;Right;8;S;S_S;S;C;Harvest;1;S;C;Train;Heavy;EnemyDir;6;S;C;Attack;Strongest;B;HasLessNumberOfUnits;Light;5

@@ -1,0 +1,5 @@
+1.96	0.0	0.9796389726716009	S;S_S;S;Empty;S;For_S;S;C;Attack;Closest	
+16.456	0.0	0.9975514121195503	S;S_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;100;S;C;Attack;Closest	
+36097.157	0.0	0.9983191664381684	S;S_S;S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;C;Harvest;9;S;C;Attack;Closest;S;Empty	
+52623.327	1.0	0.9834393565487608	S;S_S;S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Build;Barracks;Right;9;S;S_S;S;C;Build;Heavy;Right;50;S;C;Build;Base;Down;50;S;C;Attack;Closest;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Worker;Down;25;S;For_S;S;C;Harvest;3;S;Empty	
+86400	1.0	0.9834393565487608	S;S_S;S;For_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;8;S;C;Build;Barracks;Right;9;S;S_S;S;C;Build;Heavy;Right;50;S;C;Build;Base;Down;50;S;C;Attack;Closest;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Train;Worker;Down;25;S;For_S;S;C;Harvest;3;S;Empty	

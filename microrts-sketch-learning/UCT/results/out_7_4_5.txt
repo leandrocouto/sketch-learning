@@ -1,0 +1,3 @@
+6.101	0.0	0.972667398463227	1	S;For_S;S;C;Attack;Strongest
+12.108	0.0	0.9975850713501646	2	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;2;S;C;Attack;LessHealthy;S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Closest
+172800	0.0	0.9975850713501646	2	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;2;S;C;Attack;LessHealthy;S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Closest

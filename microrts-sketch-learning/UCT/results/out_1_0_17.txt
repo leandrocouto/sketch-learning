@@ -1,0 +1,3 @@
+6.027	0.0	0.5205957020536579	1	S;For_S;S;S_S;S;C;Attack;Random;S;C;Train;Heavy;Down;7
+192.607	1.0	0.32481527376663066	32	S;For_S;S;S_S;S;C;Attack;Closest;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Light;20;S;C;Idle;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Train;Ranged;Down;5;S;C;Train;Worker;Down;10
+172800	1.0	0.32481527376663066	32	S;For_S;S;S_S;S;C;Attack;Closest;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Light;20;S;C;Idle;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Train;Ranged;Down;5;S;C;Train;Worker;Down;10

@@ -1,0 +1,5 @@
+6.052	0.0	0.06256742179072276	1	S;For_S;S;C;MoveToUnit;Enemy;Strongest
+36.727	0.0	0.9188781014023726	6	S;Empty
+613.434	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+85442.132	1.0	0.06256742179072276	7184	S;For_S;S;If_B_then_S_else_S;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;C;Harvest;3;S;S_S;S;C;Train;Ranged;Left;4;S;C;Attack;Random
+172800	1.0	0.06256742179072276	7184	S;For_S;S;If_B_then_S_else_S;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;C;Harvest;3;S;S_S;S;C;Train;Ranged;Left;4;S;C;Attack;Random

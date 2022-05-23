@@ -1,0 +1,3 @@
+6.027	0.0	0.0	1	S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Build;Heavy;Left;8
+9072.181	1.0	0.0	1503	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;C;Train;Ranged;Left;100
+172800	1.0	0.0	1503	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;C;Train;Ranged;Left;100

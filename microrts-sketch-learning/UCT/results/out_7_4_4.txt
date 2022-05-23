@@ -1,0 +1,5 @@
+6.391	0.0	0.9522960117087443	1	S;For_S;S;S_S;S;For_S;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;C;Build;Ranged;Right;8;S;If_B_then_S;B;IsBuilder;S;C;Idle
+24.726	0.0	0.972667398463227	4	S;S_S;S;For_S;S;S_S;S;Empty;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;9;S;For_S;S;C;Build;Ranged;Up;50;S;For_S;S;C;Attack;Strongest;S;If_B_then_S;B;IsBuilder;S;C;MoveAway;S;S_S;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty
+49.376	0.0	0.9920051225759238	8	S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;9;S;C;MoveToUnit;Enemy;Weakest
+1005.291	0.0	0.9975850713501646	162	S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;C;Attack;Closest;S;C;MoveToUnit;Ally;Weakest
+172800	0.0	0.9975850713501646	162	S;For_S;S;S_S;S;C;Harvest;100;S;S_S;S;C;Attack;Closest;S;C;MoveToUnit;Ally;Weakest

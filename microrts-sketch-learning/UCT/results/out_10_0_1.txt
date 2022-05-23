@@ -1,0 +1,11 @@
+6.116	0.0	0.5143606815475744	1	S;For_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;50;S;S_S;S;Empty;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Attack;Random
+42.713	0.0	0.5749594755291574	7	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Idle;S;S_S;S;C;Harvest;3;S;C;Train;Worker;EnemyDir;15
+54.83	0.0	0.5838642818832898	9	S;For_S;S;S_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;10;S;If_B_then_S;B;is_Type;Barracks;S;C;MoveToUnit;Ally;Farthest;S;S_S;S;For_S;S;C;Build;Ranged;Down;3;S;S_S;S;C;Train;Worker;Left;50;S;C;MoveAway
+122.121	0.0	0.5913288331365397	20	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Down;10;S;C;Build;Ranged;Down;5;S;Empty
+298.975	0.0	0.6392966504174129	49	S;For_S;S;C;Train;Worker;Left;1
+1170.074	0.0	0.6498323939203121	192	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;6;S;C;Train;Heavy;Right;6;S;S_S;S;C;Attack;Farthest;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;Harvest;8;S;S_S;S;C;Train;Worker;Up;1;S;C;Train;Light;Up;50
+1418.026	0.0	0.6662606538957938	232	S;If_B_then_S_else_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;Empty;S;Empty;S;C;Attack;Strongest;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Random;B;HasUnitThatKillsInOneAttack;S;For_S;S;C;Train;Worker;Right;1
+2331.437	0.0	0.7003352357718847	381	S;If_B_then_S_else_S;S;For_S;S;C;Train;Worker;Down;1;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;50;S;C;Idle;S;For_S;S;C;Attack;Farthest
+89647.254	0.0	0.7085805978898039	14652	S;For_S;S;S_S;S;S_S;S;C;Attack;Farthest;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;6;S;C;Attack;Strongest;S;For_S;S;C;Train;Worker;Right;1
+170518.325	0.0	0.761644492151438	27868	S;For_S;S;S_S;S;If_B_then_S_else_S;S;S_S;S;C;Train;Worker;Right;1;S;For_S;S;C;Build;Barracks;Left;5;S;C;Harvest;20;B;HasUnitInOpponentRange;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;MoveAway;S;For_S;S;C;Harvest;50
+172800	0.0	0.761644492151438	27868	S;For_S;S;S_S;S;If_B_then_S_else_S;S;S_S;S;C;Train;Worker;Right;1;S;For_S;S;C;Build;Barracks;Left;5;S;C;Harvest;20;B;HasUnitInOpponentRange;S;S_S;S;If_B_then_S;B;CanHarvest;S;C;MoveAway;S;For_S;S;C;Harvest;50

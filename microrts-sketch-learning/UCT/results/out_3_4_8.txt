@@ -1,0 +1,8 @@
+6.019	0.0	0.9277823335092059	1	S;For_S;S;C;Harvest;15
+12.03	0.0	0.9300461612135624	2	S;For_S;S;S_S;S;C;Idle;S;C;Harvest;6
+54.585	0.0	0.9366596529592126	8	S;S_S;S;For_S;S;C;Harvest;50;S;For_S;S;C;Attack;Closest
+60.621	0.0	0.937589657853975	9	S;For_S;S;S_S;S;For_S;S;C;Harvest;10;S;S_S;S;C;Attack;Random;S;C;Harvest;1
+10259.277	0.0	0.9380261075194999	1198	S;For_S;S;S_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;Empty;S;Empty;S;S_S;S;C;Harvest;50;S;C;Attack;Random
+32132.458	0.0	0.9396576950541711	3442	S;If_B_then_S;S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Attack;Random;S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;Idle;B;HasUnitThatKillsInOneAttack;B;OpponentHasNumberOfUnits;Base;10;S;C;MoveToUnit;Ally;Random
+169725.174	0.0	0.940085986782022	14565	S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Random
+172800	0.0	0.940085986782022	14565	S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Random

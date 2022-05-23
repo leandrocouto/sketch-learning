@@ -1,0 +1,2 @@
+2.39	0.0	0.04187192118226601	S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Ranged;25;S;C;Train;Worker;EnemyDir;15;S;Empty	
+86400	0.0	0.04187192118226601	S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Ranged;25;S;C;Train;Worker;EnemyDir;15;S;Empty	

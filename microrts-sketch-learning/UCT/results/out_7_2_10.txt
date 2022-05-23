@@ -1,0 +1,2 @@
+6.018	0.0	0.0	1	S;S_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;If_B_then_S_else_S;B;CanHarvest;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;Empty;S;Empty;S;C;Attack;LessHealthy
+172800	0.0	0.0	1	S;S_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;If_B_then_S_else_S;B;CanHarvest;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;Empty;S;Empty;S;C;Attack;LessHealthy

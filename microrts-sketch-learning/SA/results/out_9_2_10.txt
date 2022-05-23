@@ -1,0 +1,2 @@
+2.603	0.0	0.0	S;S_S;S;Empty;S;C;Attack;Farthest	
+172800	0.0	0.0	S;S_S;S;Empty;S;C;Attack;Farthest	

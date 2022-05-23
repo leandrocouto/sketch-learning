@@ -1,0 +1,6 @@
+6.557	0.0	0.8994414643478313	1	S;For_S;S;C;Harvest;10
+13.173	0.0	0.9064764566824516	2	S;For_S;S;C;Harvest;100
+44.71	0.0	0.937644755715919	6	S;For_S;S;S_S;S;C;Harvest;25;S;C;MoveToUnit;Enemy;Strongest
+36511.406	0.0	0.9377527646441525	909	S;For_S;S;S_S;S;For_S;S;S_S;S;C;Build;Worker;Up;2;S;C;Harvest;25;S;S_S;S;For_S;S;C;Harvest;0;S;For_S;S;C;Attack;Strongest
+61701.948	0.0	0.9380667660817493	1663	S;For_S;S;S_S;S;Empty;S;S_S;S;C;Harvest;50;S;C;MoveToUnit;Enemy;Farthest
+172800	0.0	0.9380667660817493	1663	S;For_S;S;S_S;S;Empty;S;S_S;S;C;Harvest;50;S;C;MoveToUnit;Enemy;Farthest

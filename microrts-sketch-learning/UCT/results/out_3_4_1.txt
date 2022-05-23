@@ -1,0 +1,8 @@
+6.056	0.0	0.9103717582792477	1	S;For_S;S;If_B_then_S_else_S;B;is_Type;Base;S;C;Attack;Strongest;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Attack;Farthest;S;S_S;S;C;MoveAway;S;C;Harvest;100
+32.957	0.0	0.9277823335092059	4	S;For_S;S;For_S;S;For_S;S;C;Harvest;20
+63.259	0.0	0.9300461612135624	9	S;For_S;S;If_B_then_S_else_S;B;Idle;S;If_B_then_S;B;IsBuilder;S;S_S;S;C;Harvest;5;S;C;Idle;S;C;Harvest;20
+99.645	0.0	0.9366596529592126	15	S;For_S;S;S_S;S;C;Harvest;7;S;C;Attack;Strongest
+722.584	0.0	0.9376508423865253	94	S;S_S;S;S_S;S;Empty;S;For_S;S;C;Harvest;7;S;For_S;S;C;Attack;Random
+12948.327	0.0	0.938556373468268	951	S;S_S;S;Empty;S;S_S;S;Empty;S;For_S;S;S_S;S;For_S;S;C;Harvest;50;S;If_B_then_S_else_S;B;is_Type;Ranged;S;C;Build;Base;Up;15;S;C;Attack;Random
+16281.218	0.0	0.9388541381933453	1395	S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;C;Attack;Random;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;8;S;C;MoveToUnit;Enemy;Random
+172800	0.0	0.9388541381933453	1395	S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;C;Attack;Random;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;8;S;C;MoveToUnit;Enemy;Random

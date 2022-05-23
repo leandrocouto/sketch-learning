@@ -1,0 +1,7 @@
+6.011	0.0	0.3289414392463092	1	S;For_S;S;For_S;S;C;Train;Heavy;Down;3
+30.074	0.0	0.47961403487314436	5	S;For_S;S;S_S;S;C;Train;Heavy;Left;10;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Harvest;4;S;Empty
+42.156	0.0	0.7250524434293139	7	S;S_S;S;For_S;S;C;Harvest;2;S;For_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Worker;Up;100
+427.93	1.0	0.30102224734708155	71	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Ranged;Left;2;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;MoveToUnit;Enemy;LessHealthy
+9407.646	1.0	0.32607245573709753	1564	S;For_S;S;If_B_then_S_else_S;S;S_S;S;C;Attack;Closest;S;C;Attack;Farthest;S;Empty;S;S_S;S;C;Train;Worker;Down;4;S;S_S;S;For_S;S;C;Train;Ranged;Up;10;S;If_B_then_S_else_S;B;HasNumberOfUnits;Ranged;3;S;C;MoveToUnit;Enemy;Random;S;S_S;S;C;Harvest;9;S;C;Attack;LessHealthy
+94320.065	1.0	0.6639984481293579	15686	S;For_S;S;If_B_then_S_else_S;S;S_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;20;S;For_S;S;C;MoveAway;S;For_S;S;C;Harvest;2;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;5;S;S_S;S;C;Build;Light;Up;50;S;C;Train;Worker;Right;25;B;is_Type;Worker;B;HaveQtdUnitsAttacking;7
+172800	1.0	0.6639984481293579	15686	S;For_S;S;If_B_then_S_else_S;S;S_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;20;S;For_S;S;C;MoveAway;S;For_S;S;C;Harvest;2;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;5;S;S_S;S;C;Build;Light;Up;50;S;C;Train;Worker;Right;25;B;is_Type;Worker;B;HaveQtdUnitsAttacking;7

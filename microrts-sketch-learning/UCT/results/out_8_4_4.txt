@@ -1,0 +1,7 @@
+21.948	0.0	0.15667544977611403	1	S;For_S;S;For_S;S;For_S;S;C;Harvest;5
+193.535	0.0	0.17914053466693736	5	S;S_S;S;For_S;S;For_S;S;C;MoveAway;S;For_S;S;C;Build;Heavy;Up;20
+201.151	0.0	0.21265956395453825	6	S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Ranged;7;S;S_S;S;For_S;S;Empty;S;C;Idle;S;For_S;S;C;Attack;Strongest
+227.009	0.0	0.21667313399442265	10	S;S_S;S;For_S;S;C;Attack;Weakest;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;7;S;If_B_then_S;B;HasUnitInOpponentRange;S;For_S;S;Empty;S;For_S;S;For_S;S;Empty
+5449.389	0.0	0.2180820155032448	12	S;For_S;S;S_S;S;C;Attack;Closest;S;C;Idle
+13837.199	0.0	0.22856758609698172	52	S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Heavy;20;S;Empty;S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Random
+172800	0.0	0.22856758609698172	52	S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Heavy;20;S;Empty;S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Random

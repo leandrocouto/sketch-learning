@@ -1,0 +1,3 @@
+2.331	0.0	0.0	S;S_S;S;Empty;S;For_S;S;C;Train;Base;Left;8	
+25906.203	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Build;Light;EnemyDir;5;S;C;Attack;LessHealthy;S;For_S;S;C;Idle;S;C;Train;Ranged;Left;100;S;For_S;S;For_S;S;C;Attack;Weakest;S;For_S;S;C;Build;Ranged;EnemyDir;25	
+86400	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Build;Light;EnemyDir;5;S;C;Attack;LessHealthy;S;For_S;S;C;Idle;S;C;Train;Ranged;Left;100;S;For_S;S;For_S;S;C;Attack;Weakest;S;For_S;S;C;Build;Ranged;EnemyDir;25	

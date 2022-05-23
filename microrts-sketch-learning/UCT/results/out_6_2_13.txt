@@ -1,0 +1,2 @@
+6.065	0.0	0.0	1	S;For_S;S;C;MoveToUnit;Enemy;LessHealthy
+172800	0.0	0.0	1	S;For_S;S;C;MoveToUnit;Enemy;LessHealthy

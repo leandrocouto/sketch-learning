@@ -1,0 +1,2 @@
+1.502	0.0	0.0	S;S_S;S;If_B_then_S_else_S;B;is_Type;Light;S;C;Harvest;2;S;C;Build;Worker;Right;9;S;Empty	
+172800	0.0	0.0	S;S_S;S;If_B_then_S_else_S;B;is_Type;Light;S;C;Harvest;2;S;C;Build;Worker;Right;9;S;Empty	

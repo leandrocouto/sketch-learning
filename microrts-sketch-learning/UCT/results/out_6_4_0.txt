@@ -1,0 +1,8 @@
+6.061	0.0	0.8712742469011359	1	S;For_S;S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;For_S;S;C;Harvest;6;S;S_S;S;C;MoveAway;S;C;Idle
+36.58	0.0	0.8751298927658452	6	S;For_S;S;C;MoveToUnit;Enemy;Random
+42.692	0.0	0.8969522203208005	7	S;For_S;S;For_S;S;S_S;S;C;Harvest;100;S;C;MoveToUnit;Enemy;Farthest
+113.447	0.0	0.9002926487745221	18	S;S_S;S;For_S;S;S_S;S;C;Idle;S;C;Harvest;10;S;For_S;S;C;Attack;Farthest
+146.912	0.0	0.9057662629414898	23	S;S_S;S;For_S;S;S_S;S;S_S;S;Empty;S;C;Harvest;6;S;C;Attack;Weakest;S;For_S;S;S_S;S;If_B_then_S;B;IsBuilder;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;B;is_Type;Barracks;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty
+2218.914	0.0	0.9076510473413798	286	S;For_S;S;S_S;S;S_S;S;C;Harvest;50;S;C;Idle;S;C;Attack;LessHealthy
+9546.367	0.0	0.9085951561027091	776	S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Closest
+172800	0.0	0.9085951561027091	776	S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Closest

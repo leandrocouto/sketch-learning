@@ -1,0 +1,5 @@
+6.58	0.0	0.06256742179072276	1	S;For_S;S;C;MoveToUnit;Enemy;Closest
+36.774	0.0	0.9188781014023726	6	S;Empty
+779.585	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+50060.161	1.0	0.06256742179072276	3807	S;S_S;S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Harvest;1;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Random;S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Train;Barracks;Right;15;S;S_S;S;C;Train;Ranged;Down;6;S;C;MoveToUnit;Ally;LessHealthy
+172800	1.0	0.06256742179072276	3807	S;S_S;S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Harvest;1;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Attack;Random;S;For_S;S;S_S;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Train;Barracks;Right;15;S;S_S;S;C;Train;Ranged;Down;6;S;C;MoveToUnit;Ally;LessHealthy

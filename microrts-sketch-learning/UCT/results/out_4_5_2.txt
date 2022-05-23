@@ -1,0 +1,5 @@
+6.031	0.0	0.5555555820465088	1	S;For_S;S;C;Build;Barracks;EnemyDir;50
+42.156	0.0	0.6111111044883728	7	S;For_S;S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;6;S;For_S;S;C;Harvest;25
+1678.856	0.0	0.7250000238418579	279	S;For_S;S;S_S;S;S_S;S;C;Idle;S;S_S;S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Attack;Strongest;S;C;Build;Light;Left;10;S;For_S;S;C;Train;Ranged;Up;25;S;C;Build;Barracks;Right;100;S;S_S;S;C;Harvest;25;S;C;Attack;Random
+13441.598	0.0	0.7555555701255798	2232	S;For_S;S;S_S;S;C;Attack;Closest;S;For_S;S;S_S;S;If_B_then_S_else_S;B;IsBuilder;S;C;Train;Base;Left;5;S;For_S;S;C;Train;Ranged;Down;4;S;S_S;S;C;Build;Barracks;Left;100;S;S_S;S;C;Harvest;7;S;C;Harvest;9
+172800	0.0	0.7555555701255798	2232	S;For_S;S;S_S;S;C;Attack;Closest;S;For_S;S;S_S;S;If_B_then_S_else_S;B;IsBuilder;S;C;Train;Base;Left;5;S;For_S;S;C;Train;Ranged;Down;4;S;S_S;S;C;Build;Barracks;Left;100;S;S_S;S;C;Harvest;7;S;C;Harvest;9

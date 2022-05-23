@@ -1,0 +1,6 @@
+6.046	0.0	0.9350896450786691	1	S;For_S;S;S_S;S;If_B_then_S_else_S;B;CanHarvest;S;S_S;S;For_S;S;Empty;S;C;Harvest;25;S;If_B_then_S_else_S;B;HasNumberOfUnits;Barracks;9;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;S_S;S;For_S;S;S_S;S;Empty;S;Empty;S;C;Idle
+12.083	0.0	0.9615898280278075	2	S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;6;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;MoveToUnit;Ally;Farthest;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Harvest;50;S;C;Attack;Random
+24.235	0.0	0.9813574826198317	4	S;For_S;S;C;Attack;Closest
+274.864	0.0	0.98889498719356	45	S;For_S;S;S_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;7;S;C;Attack;Strongest
+805.787	0.0	0.9975850713501646	126	S;If_B_then_S;S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;Attack;Closest;S;For_S;S;Empty
+172800	0.0	0.9975850713501646	126	S;If_B_then_S;S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;Attack;Closest;S;For_S;S;Empty

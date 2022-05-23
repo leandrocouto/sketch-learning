@@ -1,0 +1,4 @@
+6.016	0.0	0.40833333134651184	1	S;For_S;S;S_S;S;For_S;S;C;Harvest;7;S;S_S;S;C;MoveToUnit;Ally;Farthest;S;C;Train;Worker;Left;4
+12762.802	0.0	0.41111111640930176	2093	S;For_S;S;S_S;S;C;Harvest;20;S;C;Train;Worker;EnemyDir;3
+73941.231	0.0	0.43611112236976624	12122	S;If_B_then_S_else_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Build;Barracks;EnemyDir;20;S;S_S;S;C;MoveAway;S;C;Train;Worker;Right;4;B;CanHarvest;S;Empty
+172800	0.0	0.43611112236976624	12122	S;If_B_then_S_else_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Build;Barracks;EnemyDir;20;S;S_S;S;C;MoveAway;S;C;Train;Worker;Right;4;B;CanHarvest;S;Empty

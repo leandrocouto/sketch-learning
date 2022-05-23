@@ -1,0 +1,11 @@
+6.156	0.0	0.25956842492197824	1	S;For_S;S;Empty
+104.014	0.0	0.3010016250318226	17	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;100;S;Empty;S;C;Train;Worker;EnemyDir;8
+123.276	0.0	0.30324780664998596	20	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Idle;S;For_S;S;C;MoveAway;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Heavy;9;S;S_S;S;C;Harvest;3;S;C;MoveAway;S;S_S;S;C;Train;Worker;Up;4;S;C;MoveToUnit;Ally;Farthest
+129.312	0.0	0.33408545640293374	21	S;For_S;S;C;Train;Worker;Left;2
+10916.794	0.0	0.3445384186318378	1789	S;For_S;S;S_S;S;C;Train;Worker;EnemyDir;2;S;S_S;S;S_S;S;S_S;S;C;MoveAway;S;C;MoveAway;S;If_B_then_S;B;is_Type;Light;S;C;Build;Light;Left;10;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;S_S;S;C;MoveAway;S;C;Attack;Strongest;S;S_S;S;C;MoveAway;S;C;MoveToUnit;Enemy;LessHealthy
+24897.874	0.0	0.34477378676906467	4082	S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;For_S;S;C;Train;Ranged;Left;15;S;S_S;S;C;Train;Worker;Up;100;S;C;Harvest;20
+40963.148	0.0	0.3472365015287088	6703	S;For_S;S;S_S;S;For_S;S;For_S;S;S_S;S;C;Train;Worker;Left;50;S;C;Train;Barracks;Up;15;S;S_S;S;C;Harvest;20;S;C;Idle
+46438.79	0.0	0.3507859162777127	7602	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;EnemyDir;7;S;C;Harvest;7;S;For_S;S;C;Idle
+58990.743	0.0	0.3515978452800552	9661	S;If_B_then_S;S;S_S;S;S_S;S;For_S;S;S_S;S;S_S;S;C;Build;Base;Down;8;S;C;MoveAway;S;C;Train;Worker;Right;3;S;For_S;S;For_S;S;C;MoveToUnit;Enemy;Farthest;S;If_B_then_S_else_S;B;HasNumberOfUnits;Light;15;S;Empty;S;Empty;B;HasUnitWithinDistanceFromOpponent;3
+103105.279	0.0	0.3564454155189345	16892	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Barracks;2;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;MoveAway;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Harvest;50;S;For_S;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;15;S;S_S;S;C;Train;Heavy;Down;10;S;C;Idle;S;S_S;S;C;Idle;S;S_S;S;C;Train;Worker;Up;25;S;C;Harvest;20
+172800	0.0	0.3564454155189345	16892	S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Barracks;2;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;C;MoveAway;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Harvest;50;S;For_S;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;15;S;S_S;S;C;Train;Heavy;Down;10;S;C;Idle;S;S_S;S;C;Idle;S;S_S;S;C;Train;Worker;Up;25;S;C;Harvest;20

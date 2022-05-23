@@ -1,0 +1,7 @@
+6.012	0.0	0.3289414392463092	1	S;For_S;S;C;Train;Heavy;Down;8
+24.067	0.0	0.41891654189033756	4	S;S_S;S;For_S;S;If_B_then_S_else_S;B;IsBuilder;S;If_B_then_S;B;HasLessNumberOfUnits;Base;8;S;C;Harvest;4;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Train;Heavy;EnemyDir;5;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;10;S;S_S;S;C;Idle;S;C;MoveAway;S;S_S;S;C;Harvest;7;S;C;Attack;LessHealthy;S;C;Train;Worker;Right;25;S;Empty
+36.113	0.0	0.5359557950226911	6	S;For_S;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Train;Heavy;Left;15
+405.255	0.0	0.5554828670775068	67	S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;Down;6;S;C;Attack;Strongest;S;For_S;S;C;Train;Worker;Right;1
+555.734	0.5	0.5688372372874412	92	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Left;20;S;C;Train;Ranged;Down;6;S;S_S;S;C;Attack;LessHealthy;S;C;Attack;LessHealthy
+96705.267	1.0	0.29622442304188834	16085	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;MoveToUnit;Ally;MostHealthy;S;C;Train;Ranged;Left;5
+172800	1.0	0.32481527376663066	30258	S;S_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;15;S;Empty;S;For_S;S;If_B_then_S_else_S;S;C;Train;Worker;Down;15;B;HasUnitThatKillsInOneAttack;B;CanAttack;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Down;9;S;C;Attack;Strongest;S;For_S;S;If_B_then_S;B;HasNumberOfUnits;Light;6;S;C;Build;Base;Left;15

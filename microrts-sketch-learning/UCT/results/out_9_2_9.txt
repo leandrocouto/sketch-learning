@@ -1,0 +1,2 @@
+6.063	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Ranged;6;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;C;MoveToUnit;Enemy;Closest
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Ranged;6;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;C;MoveToUnit;Enemy;Closest

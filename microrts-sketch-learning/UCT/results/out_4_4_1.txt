@@ -1,0 +1,4 @@
+6.012	0.0	0.9767982816927141	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;If_B_then_S;B;OpponentHasNumberOfUnits;Worker;2;S;C;Build;Heavy;Left;50;S;For_S;S;S_S;S;C;Attack;Strongest;S;C;Build;Light;EnemyDir;10
+42.568	0.0	0.9943268439813544	7	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;15;S;C;Build;Worker;Right;3;S;S_S;S;S_S;S;C;Harvest;20;S;For_S;S;S_S;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty;S;C;Attack;Strongest
+291.518	0.0	0.9975514121195503	48	S;S_S;S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;Empty;S;C;Harvest;4;S;For_S;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	48	S;S_S;S;For_S;S;If_B_then_S_else_S;B;HasUnitThatKillsInOneAttack;S;For_S;S;Empty;S;C;Harvest;4;S;For_S;S;C;Attack;Closest

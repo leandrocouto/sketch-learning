@@ -1,0 +1,3 @@
+1.372	0.0	0.0	S;C;Idle	
+18272.494	1.0	0.0	S;For_S;S;S_S;S;C;Train;Ranged;Left;9;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Barracks;Up;5	
+86400	1.0	0.0	S;For_S;S;S_S;S;C;Train;Ranged;Left;9;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Barracks;Up;5	

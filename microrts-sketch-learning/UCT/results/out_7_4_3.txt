@@ -1,0 +1,4 @@
+6.05	0.0	0.9813574826198317	1	S;For_S;S;For_S;S;C;Attack;Closest
+135.951	0.0	0.9963959019392608	19	S;S_S;S;For_S;S;S_S;S;For_S;S;C;Harvest;3;S;For_S;S;C;Idle;S;For_S;S;C;Attack;Closest
+662.917	0.0	0.9975850713501646	105	S;S_S;S;Empty;S;For_S;S;If_B_then_S_else_S;B;is_Type;Light;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;Empty;S;S_S;S;C;Attack;Closest;S;For_S;S;C;Harvest;100
+172800	0.0	0.9975850713501646	105	S;S_S;S;Empty;S;For_S;S;If_B_then_S_else_S;B;is_Type;Light;S;C;MoveToUnit;Ally;LessHealthy;S;S_S;S;Empty;S;S_S;S;C;Attack;Closest;S;For_S;S;C;Harvest;100

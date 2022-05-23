@@ -1,0 +1,6 @@
+6.227	0.0	0.8349309110919598	1	S;For_S;S;C;MoveToUnit;Ally;LessHealthy
+34.418	0.0	0.881998349133181	2	S;For_S;S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Worker;4;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Build;Heavy;Up;10;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveAway
+46.608	0.0	0.9064764566824516	4	S;For_S;S;C;Harvest;50
+969.828	0.0	0.9153484876893112	28	S;S_S;S;For_S;S;C;Harvest;3;S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Random
+2145.529	0.0	0.9392629980644981	56	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest
+172800	0.0	0.9392629980644981	56	S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest

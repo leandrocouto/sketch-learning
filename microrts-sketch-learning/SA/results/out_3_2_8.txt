@@ -1,0 +1,2 @@
+0.635	0.0	0.0	S;S_S;S;C;Train;Barracks;Up;3;S;Empty	
+86400	0.0	0.0	S;S_S;S;C;Train;Barracks;Up;3;S;Empty	

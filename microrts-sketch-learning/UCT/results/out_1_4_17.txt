@@ -1,0 +1,5 @@
+6.024	0.0	0.06256742179072276	1	S;For_S;S;S_S;S;C;MoveToUnit;Ally;LessHealthy;S;C;Harvest;3
+41.451	0.0	0.9188781014023726	6	S;Empty
+588.148	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+151574.836	1.0	0.06256742179072276	12398	S;If_B_then_S;S;If_B_then_S_else_S;S;For_S;S;C;Train;Ranged;Up;50;S;If_B_then_S;B;HasNumberOfUnits;Base;50;S;C;Idle;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Up;5;S;C;Attack;Closest;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Enemy;Closest;B;OpponentHasUnitThatKillsUnitInOneAttack
+172800	1.0	0.06256742179072276	12398	S;If_B_then_S;S;If_B_then_S_else_S;S;For_S;S;C;Train;Ranged;Up;50;S;If_B_then_S;B;HasNumberOfUnits;Base;50;S;C;Idle;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Up;5;S;C;Attack;Closest;S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;MoveToUnit;Enemy;Closest;B;OpponentHasUnitThatKillsUnitInOneAttack

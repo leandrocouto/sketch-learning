@@ -1,0 +1,6 @@
+220.856	0.0	0.0	1	S;For_S;S;For_S;S;For_S;S;For_S;S;S_S;S;For_S;S;For_S;S;C;Train;Base;Up;100;S;For_S;S;For_S;S;C;Idle
+251.553	0.0	0.009770114942528735	6	S;Empty
+1958.515	0.0	0.01700716110198868	255	S;For_S;S;C;Idle
+2032.791	0.0	0.02167510490786353	267	S;For_S;S;C;MoveAway
+85867.679	1.0	0.0	11363	S;S_S;S;S_S;S;Empty;S;For_S;S;C;Idle;S;S_S;S;For_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;2;S;Empty
+172800	1.0	0.0	11363	S;S_S;S;S_S;S;Empty;S;For_S;S;C;Idle;S;S_S;S;For_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Ranged;Left;2;S;Empty

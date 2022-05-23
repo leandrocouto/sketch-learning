@@ -1,0 +1,3 @@
+6.025	0.0	0.0	1	S;For_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;1;S;For_S;S;C;MoveAway
+9430.034	1.0	0.0	1565	S;S_S;S;For_S;S;C;Train;Ranged;Left;2;S;For_S;S;S_S;S;C;Idle;S;C;Attack;Weakest
+172800	1.0	0.0	1565	S;S_S;S;For_S;S;C;Train;Ranged;Left;2;S;For_S;S;S_S;S;C;Idle;S;C;Attack;Weakest

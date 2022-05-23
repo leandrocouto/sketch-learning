@@ -1,0 +1,7 @@
+2.077	0.0	0.9808019872249818	S;S_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Weakest	
+5.066	0.0	0.9933995741660749	S;S_S;S;Empty;S;For_S;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;20;S;C;Attack;Weakest	
+14.614	0.0	0.9959664064348234	S;S_S;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Harvest;15;S;C;Harvest;10;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;4;S;C;Attack;Closest;S;For_S;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;20;S;C;Attack;Weakest	
+177.956	0.0	0.9967707594038324	S;S_S;S;S_S;S;S_S;S;For_S;S;S_S;S;C;Build;Light;Down;50;S;C;Build;Base;Left;50;S;S_S;S;Empty;S;For_S;S;S_S;S;S_S;S;C;Harvest;15;S;C;Harvest;10;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;4;S;C;Attack;Closest;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;For_S;S;S_S;S;C;Idle;S;S_S;S;C;Harvest;20;S;C;Attack;Weakest	
+465.929	0.0	0.9973503666903243	S;For_S;S;S_S;S;C;Harvest;1;S;C;Attack;Closest	
+2107.344	1.0	0.9973503666903243	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;Left;50;S;C;Train;Base;Down;15;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;10;S;C;Train;Ranged;Up;8;S;C;Build;Light;Right;6	
+86400	1.0	0.9973503666903243	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;Left;50;S;C;Train;Base;Down;15;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest;S;If_B_then_S;B;HasLessNumberOfUnits;Ranged;10;S;C;Train;Ranged;Up;8;S;C;Build;Light;Right;6	

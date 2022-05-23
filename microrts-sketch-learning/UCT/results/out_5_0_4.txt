@@ -1,0 +1,13 @@
+6.007	0.0	0.3249785531879	1	S;For_S;S;Empty
+18.03	0.0	0.3466811985848632	3	S;For_S;S;C;Build;Barracks;Right;100
+30.093	0.0	0.3485088230632081	5	S;For_S;S;S_S;S;For_S;S;C;MoveToUnit;Ally;MostHealthy;S;S_S;S;C;Build;Barracks;Right;50;S;C;MoveToUnit;Enemy;MostHealthy
+36.122	0.0	0.3494947318121578	6	S;S_S;S;Empty;S;For_S;S;C;Build;Barracks;Up;8
+151.172	0.0	0.411074125036003	25	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Down;15;S;C;Harvest;7;S;C;Attack;Farthest
+2945.207	0.0	0.42488357798915843	489	S;S_S;S;For_S;S;Empty;S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Left;3;S;C;Harvest;15;S;For_S;S;C;Train;Heavy;EnemyDir;25
+4155.458	0.0	0.4584174571748674	690	S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Down;3;S;For_S;S;S_S;S;C;Build;Barracks;Down;20;S;S_S;S;C;Harvest;50;S;C;Train;Ranged;EnemyDir;50;S;Empty
+5275.691	0.0	0.46291276030444206	876	S;S_S;S;For_S;S;S_S;S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;EnemyDir;25;S;C;Build;Barracks;Right;3;S;S_S;S;C;Harvest;25;S;C;Train;Ranged;Up;9;S;For_S;S;Empty
+5757.478	0.0	0.5084536773694202	956	S;S_S;S;For_S;S;C;Build;Base;Down;9;S;S_S;S;For_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;MoveAway;S;If_B_then_S;B;HasNumberOfUnits;Base;1;S;C;Build;Heavy;Left;5;S;S_S;S;S_S;S;C;Train;Heavy;EnemyDir;100;S;C;Build;Ranged;Left;50;S;S_S;S;C;Build;Barracks;Up;7;S;C;Train;Worker;Up;2;S;For_S;S;C;Harvest;15
+12689.75	0.0	0.6288687729412907	2103	S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Base;7;S;Empty;S;Empty;S;S_S;S;For_S;S;For_S;S;C;Build;Barracks;EnemyDir;10;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Up;100;S;C;Harvest;5;S;S_S;S;For_S;S;C;Attack;Closest;S;S_S;S;C;Build;Light;Down;15;S;C;MoveAway
+74677.98	0.0	0.6539009630474653	12387	S;S_S;S;S_S;S;If_B_then_S;B;OpponentHasNumberOfUnits;Ranged;3;S;Empty;S;S_S;S;Empty;S;Empty;S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;Right;10;S;S_S;S;S_S;S;C;Train;Base;Down;6;S;C;Build;Barracks;EnemyDir;25;S;S_S;S;C;Harvest;5;S;C;MoveToUnit;Ally;Farthest;S;S_S;S;For_S;S;Empty;S;Empty
+112262.354	0.0	0.6941179204961456	18619	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;4;S;C;Harvest;4;S;For_S;S;If_B_then_S_else_S;B;is_Type;Barracks;S;S_S;S;C;Build;Base;Right;100;S;C;Train;Ranged;Right;100;S;S_S;S;C;Train;Heavy;EnemyDir;25;S;C;Attack;Closest
+172800	0.0	0.6941179204961456	18619	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;EnemyDir;4;S;C;Harvest;4;S;For_S;S;If_B_then_S_else_S;B;is_Type;Barracks;S;S_S;S;C;Build;Base;Right;100;S;C;Train;Ranged;Right;100;S;S_S;S;C;Train;Heavy;EnemyDir;25;S;C;Attack;Closest

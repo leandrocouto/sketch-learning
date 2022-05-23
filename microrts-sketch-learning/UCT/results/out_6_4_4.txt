@@ -1,0 +1,5 @@
+6.122	0.0	0.8676532011124155	1	S;For_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Harvest;20;S;C;Idle
+12.466	0.0	0.882510781430721	2	S;For_S;S;S_S;S;C;Harvest;9;S;If_B_then_S;B;IsBuilder;S;C;Train;Base;Up;10
+67.138	0.0	0.9085402261384137	11	S;S_S;S;For_S;S;C;Harvest;6;S;S_S;S;For_S;S;C;Attack;Closest;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;50;S;C;Train;Heavy;Down;9
+300.542	0.0	0.9085951561027091	36	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;MoveAway
+172800	0.0	0.9085951561027091	36	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;15;S;C;Attack;Closest;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;MoveAway

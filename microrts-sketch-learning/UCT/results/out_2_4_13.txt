@@ -1,0 +1,6 @@
+6.09	0.0	0.0	1	S;For_S;S;S_S;S;C;Attack;Weakest;S;C;Idle
+36.354	0.0	0.009770114942528735	6	S;Empty
+2104.778	0.0	0.01700716110198868	255	S;For_S;S;C;Idle
+2180.744	0.0	0.02167510490786353	267	S;For_S;S;C;MoveAway
+17108.019	1.0	0.0	2281	S;S_S;S;S_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Worker;5;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;6;S;C;MoveToUnit;Enemy;Weakest;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;9;S;For_S;S;C;Idle;S;S_S;S;C;MoveAway;S;C;Build;Ranged;EnemyDir;100;S;Empty
+172800	1.0	0.0	2281	S;S_S;S;S_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Worker;5;S;S_S;S;Empty;S;Empty;S;For_S;S;Empty;S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;6;S;C;MoveToUnit;Enemy;Weakest;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;9;S;For_S;S;C;Idle;S;S_S;S;C;MoveAway;S;C;Build;Ranged;EnemyDir;100;S;Empty

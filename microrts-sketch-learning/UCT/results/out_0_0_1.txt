@@ -1,0 +1,11 @@
+6.021	0.0	0.2917800500456776	1	S;For_S;S;S_S;S;C;Train;Light;Up;1;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;S_S;S;Empty;S;Empty
+30.117	0.0	0.41780895860422224	5	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Train;Worker;Left;50;S;C;MoveToUnit;Enemy;Farthest
+54.193	0.0	0.4238350372051909	9	S;S_S;S;S_S;S;Empty;S;Empty;S;For_S;S;S_S;S;C;Train;Worker;EnemyDir;25;S;C;Attack;Strongest
+78.282	0.0	0.43122449323889755	13	S;For_S;S;S_S;S;C;Train;Ranged;Left;7;S;C;Attack;Farthest
+90.333	0.0	0.4648242669978312	15	S;For_S;S;If_B_then_S_else_S;B;IsBuilder;S;C;MoveToUnit;Ally;Weakest;S;S_S;S;C;Train;Barracks;EnemyDir;50;S;S_S;S;C;Train;Ranged;Up;10;S;S_S;S;S_S;S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;C;Build;Ranged;Right;4;S;S_S;S;C;Idle;S;C;Idle;S;C;MoveToUnit;Enemy;Farthest;S;C;Attack;Strongest
+114.415	0.0	0.49569161504152276	19	S;S_S;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;4;S;C;Train;Ranged;Left;6;S;If_B_then_S_else_S;B;Idle;S;For_S;S;C;MoveToUnit;Ally;Random;S;S_S;S;C;MoveToUnit;Enemy;Random;S;C;Harvest;2;S;For_S;S;C;Train;Ranged;Down;20
+240.775	0.0	0.5246448839349406	40	S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Down;8;S;C;Harvest;9;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;For_S;S;C;Harvest;1;S;For_S;S;C;Attack;LessHealthy
+270.846	0.0	0.5430272151316915	45	S;For_S;S;S_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest;S;S_S;S;C;Harvest;9;S;C;Train;Ranged;Right;20
+457.322	1.0	0.3120748338954789	76	S;For_S;S;S_S;S;C;Train;Ranged;Left;25;S;S_S;S;S_S;S;C;Attack;Weakest;S;C;Train;Heavy;Down;1;S;For_S;S;C;Idle
+6079.003	1.0	0.43171769075450445	1011	S;For_S;S;If_B_then_S_else_S;B;IsBuilder;B;HasUnitWithinDistanceFromOpponent;10;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Up;9;S;C;Train;Base;Up;9;S;If_B_then_S_else_S;B;CanAttack;S;If_B_then_S;B;CanHarvest;S;C;Train;Light;EnemyDir;20;S;S_S;S;C;Train;Worker;EnemyDir;20;S;C;Attack;Closest
+172800	1.0	0.43171769075450445	1011	S;For_S;S;If_B_then_S_else_S;B;IsBuilder;B;HasUnitWithinDistanceFromOpponent;10;S;S_S;S;For_S;S;S_S;S;C;Train;Ranged;Up;9;S;C;Train;Base;Up;9;S;If_B_then_S_else_S;B;CanAttack;S;If_B_then_S;B;CanHarvest;S;C;Train;Light;EnemyDir;20;S;S_S;S;C;Train;Worker;EnemyDir;20;S;C;Attack;Closest

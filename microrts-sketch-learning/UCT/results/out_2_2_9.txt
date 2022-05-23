@@ -1,0 +1,3 @@
+6.015	0.0	0.0	1	S;S_S;S;S_S;S;S_S;S;C;MoveToUnit;Ally;MostHealthy;S;C;Attack;Weakest;S;If_B_then_S;B;is_Type;Base;S;C;Train;Ranged;EnemyDir;6;S;C;MoveAway
+34842.9	1.0	0.0	5782	S;If_B_then_S;S;If_B_then_S_else_S;S;For_S;S;C;Idle;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;10;B;HasUnitWithinDistanceFromOpponent;0
+172800	1.0	0.0	5782	S;If_B_then_S;S;If_B_then_S_else_S;S;For_S;S;C;Idle;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;10;B;HasUnitWithinDistanceFromOpponent;0

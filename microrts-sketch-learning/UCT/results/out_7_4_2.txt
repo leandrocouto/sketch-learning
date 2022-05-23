@@ -1,0 +1,6 @@
+6.228	0.0	0.9350896450786691	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Train;Heavy;Left;25;S;C;Build;Worker;Down;3
+19.035	0.0	0.9529454811562377	3	S;For_S;S;C;Attack;MostHealthy
+25.094	0.0	0.9813574826198317	4	S;S_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Base;50;S;S_S;S;C;Idle;S;C;Harvest;2;S;For_S;S;C;Attack;Closest;S;If_B_then_S;B;OpponentHasNumberOfUnits;Base;9;S;S_S;S;Empty;S;Empty
+173.421	0.0	0.9913739480424439	28	S;For_S;S;S_S;S;C;Harvest;25;S;S_S;S;C;Idle;S;C;Attack;Farthest
+296.477	0.0	0.9975850713501646	48	S;For_S;S;S_S;S;For_S;S;C;Harvest;20;S;C;Attack;Closest
+172800	0.0	0.9975850713501646	48	S;For_S;S;S_S;S;For_S;S;C;Harvest;20;S;C;Attack;Closest

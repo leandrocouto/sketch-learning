@@ -1,0 +1,2 @@
+0.46	0.0	0.0	S;S_S;S;C;Build;Ranged;Right;2;S;Empty	
+86400	0.0	0.0	S;S_S;S;C;Build;Ranged;Right;2;S;Empty	

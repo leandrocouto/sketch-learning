@@ -1,0 +1,4 @@
+6.077	0.0	0.9571556530481672	1	S;For_S;S;S_S;S;S_S;S;S_S;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;B;CanAttack;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty;S;C;Attack;Weakest
+12.114	0.0	0.9753587423453054	2	S;S_S;S;For_S;S;C;Idle;S;For_S;S;C;Attack;Weakest
+18.175	0.0	0.9975514121195503	3	S;For_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Worker;2;S;S_S;S;C;Harvest;1;S;C;Build;Ranged;EnemyDir;7;S;If_B_then_S_else_S;B;CanAttack;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;10;S;S_S;S;Empty;S;Empty;S;C;Build;Heavy;EnemyDir;4;S;For_S;S;C;Harvest;25;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	3	S;For_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Worker;2;S;S_S;S;C;Harvest;1;S;C;Build;Ranged;EnemyDir;7;S;If_B_then_S_else_S;B;CanAttack;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;10;S;S_S;S;Empty;S;Empty;S;C;Build;Heavy;EnemyDir;4;S;For_S;S;C;Harvest;25;S;C;Attack;Closest

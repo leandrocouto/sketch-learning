@@ -1,0 +1,2 @@
+2.265	0.0	0.0	S;S_S;S;C;Attack;Closest;S;Empty	
+172800	0.0	0.0	S;S_S;S;C;Attack;Closest;S;Empty	

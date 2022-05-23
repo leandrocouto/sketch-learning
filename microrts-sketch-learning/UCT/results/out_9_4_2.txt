@@ -1,0 +1,5 @@
+40.234	0.0	0.8447882177470198	1	S;For_S;S;For_S;S;C;MoveAway
+54.049	0.0	0.9064764566824516	2	S;For_S;S;C;Harvest;20
+1848.278	0.0	0.9066091371522108	57	S;For_S;S;For_S;S;S_S;S;C;Idle;S;C;Harvest;20
+5385.366	0.0	0.9376213001868453	236	S;For_S;S;S_S;S;C;Harvest;15;S;S_S;S;C;Attack;Weakest;S;C;MoveToUnit;Enemy;LessHealthy
+172800	0.0	0.9376213001868453	236	S;For_S;S;S_S;S;C;Harvest;15;S;S_S;S;C;Attack;Weakest;S;C;MoveToUnit;Enemy;LessHealthy

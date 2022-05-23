@@ -1,0 +1,12 @@
+6.131	0.0	0.3636973061294199	1	S;For_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;10;S;S_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;100;S;C;Train;Light;Down;4;S;S_S;S;C;MoveToUnit;Ally;Farthest;S;C;Build;Worker;Up;7;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Harvest;3
+12.272	0.0	0.36377485065816717	2	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Train;Ranged;Down;3;S;C;Train;Ranged;Right;15;S;C;MoveAway
+60.793	0.0	0.39601366502287977	10	S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Barracks;3;S;Empty;S;For_S;S;S_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;25;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty;S;C;Build;Barracks;EnemyDir;15
+79.035	0.0	0.4272993450224214	13	S;If_B_then_S_else_S;S;For_S;S;For_S;S;C;Train;Worker;Left;50;B;HasUnitThatKillsInOneAttack;S;S_S;S;Empty;S;Empty
+163.608	0.0	0.44345405439721464	27	S;S_S;S;For_S;S;S_S;S;If_B_then_S_else_S;B;CanHarvest;S;If_B_then_S;B;is_Type;Ranged;S;C;Idle;S;S_S;S;C;Train;Base;Down;9;S;C;MoveAway;S;For_S;S;For_S;S;C;MoveToUnit;Ally;Closest;S;For_S;S;For_S;S;C;Build;Barracks;Down;100
+946.228	0.0	0.4514320990563924	156	S;S_S;S;For_S;S;For_S;S;C;MoveAway;S;For_S;S;For_S;S;C;Build;Barracks;Left;5
+982.865	0.0	0.46764071334002544	162	S;S_S;S;For_S;S;If_B_then_S;B;CanHarvest;S;C;Attack;Weakest;S;S_S;S;For_S;S;S_S;S;C;Attack;Random;S;C;Train;Worker;Up;8;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty
+1752.814	0.0	0.4825440026610811	289	S;If_B_then_S;S;For_S;S;S_S;S;S_S;S;C;Build;Barracks;Left;5;S;C;MoveToUnit;Ally;Closest;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Ranged;10;S;C;Train;Light;EnemyDir;7;S;C;Train;Heavy;EnemyDir;6;S;If_B_then_S_else_S;B;CanHarvest;S;Empty;S;Empty
+3201.232	0.0	0.6031372769877918	528	S;For_S;S;S_S;S;C;Train;Heavy;Left;8;S;C;Build;Barracks;Down;1
+11757.624	0.0	0.6125806798444731	1937	S;For_S;S;S_S;S;For_S;S;C;Train;Ranged;Down;8;S;For_S;S;S_S;S;C;MoveToUnit;Ally;Farthest;S;C;Build;Barracks;EnemyDir;1
+29562.773	0.0	0.6199977219104766	4866	S;For_S;S;S_S;S;C;Build;Barracks;Left;6;S;For_S;S;S_S;S;For_S;S;For_S;S;C;Train;Heavy;Left;8;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Light;8;S;C;MoveAway;S;For_S;S;C;MoveAway
+172800	0.0	0.6199977219104766	4866	S;For_S;S;S_S;S;C;Build;Barracks;Left;6;S;For_S;S;S_S;S;For_S;S;For_S;S;C;Train;Heavy;Left;8;S;S_S;S;If_B_then_S;B;HasLessNumberOfUnits;Light;8;S;C;MoveAway;S;For_S;S;C;MoveAway

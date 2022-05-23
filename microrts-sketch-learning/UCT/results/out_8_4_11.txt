@@ -1,0 +1,6 @@
+6.193	0.0	0.16221159174960115	1	S;For_S;S;S_S;S;If_B_then_S;B;is_Type;Heavy;S;C;Harvest;3;S;For_S;S;C;Harvest;7
+18.497	0.0	0.20664663244843495	3	S;For_S;S;C;Attack;MostHealthy
+43.891	0.0	0.21667313399442265	5	S;For_S;S;C;Attack;LessHealthy
+109.122	0.0	0.2180820155032448	8	S;For_S;S;If_B_then_S_else_S;B;HasUnitWithinDistanceFromOpponent;4;S;For_S;S;For_S;S;C;Idle;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;MoveToUnit;Enemy;Weakest;S;For_S;S;C;Attack;Closest
+314.51	0.0	0.22961272608286043	32	S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;C;Attack;Closest
+172800	0.0	0.22961272608286043	32	S;S_S;S;For_S;S;C;Harvest;4;S;For_S;S;C;Attack;Closest

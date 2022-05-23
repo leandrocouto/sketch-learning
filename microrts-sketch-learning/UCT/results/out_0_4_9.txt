@@ -1,0 +1,5 @@
+6.358	0.0	0.9017623020602757	1	S;For_S;S;For_S;S;S_S;S;C;Harvest;10;S;C;Attack;Closest
+299.815	0.0	0.9025568988024292	49	S;If_B_then_S;S;For_S;S;S_S;S;C;Harvest;1;S;C;Attack;Closest;S;Empty
+1065.202	0.0	0.9029939270106133	168	S;For_S;S;For_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Attack;Closest;S;C;Idle
+4171.597	1.0	0.8840144162551791	666	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;3;S;C;Harvest;20;S;S_S;S;C;Attack;Weakest;S;S_S;S;For_S;S;If_B_then_S;B;Idle;S;C;Idle;S;If_B_then_S;B;HasNumberOfUnits;Base;25;S;For_S;S;C;Train;Heavy;Down;4
+172800	1.0	0.8840144162551791	666	S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;3;S;C;Harvest;20;S;S_S;S;C;Attack;Weakest;S;S_S;S;For_S;S;If_B_then_S;B;Idle;S;C;Idle;S;If_B_then_S;B;HasNumberOfUnits;Base;25;S;For_S;S;C;Train;Heavy;Down;4

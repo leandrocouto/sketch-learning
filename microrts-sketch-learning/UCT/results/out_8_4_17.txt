@@ -1,0 +1,5 @@
+23.2	0.0	0.20521284212977886	1	S;For_S;S;C;MoveToUnit;Enemy;MostHealthy
+31.796	0.0	0.20902555545782664	2	S;For_S;S;S_S;S;C;Harvest;25;S;C;MoveToUnit;Enemy;Random
+56.598	0.0	0.2180820155032448	4	S;For_S;S;For_S;S;C;Attack;Closest
+6172.043	0.0	0.2322684758856294	34	S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Closest
+172800	0.0	0.2322684758856294	34	S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Closest

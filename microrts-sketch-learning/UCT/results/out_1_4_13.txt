@@ -1,0 +1,5 @@
+6.019	0.0	0.06256742179072276	1	S;For_S;S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;100;S;S_S;S;C;Harvest;100;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Train;Light;EnemyDir;15;S;For_S;S;S_S;S;C;Attack;Farthest;S;C;Train;Base;Up;9
+36.373	0.0	0.9188781014023726	6	S;Empty
+1044.964	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+12088.49	1.0	0.06256742179072276	743	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Attack;Random;S;C;Train;Ranged;Left;7;S;For_S;S;C;Idle;S;For_S;S;C;MoveToUnit;Ally;MostHealthy
+172800	1.0	0.06256742179072276	743	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Attack;Random;S;C;Train;Ranged;Left;7;S;For_S;S;C;Idle;S;For_S;S;C;MoveToUnit;Ally;MostHealthy

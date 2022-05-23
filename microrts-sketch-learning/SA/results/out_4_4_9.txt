@@ -1,0 +1,5 @@
+4.88	0.0	0.9764144045334051	S;S_S;S;For_S;S;C;Attack;Strongest;S;Empty	
+9.729	0.0	0.9796389726716009	S;S_S;S;For_S;S;C;Attack;Closest;S;Empty	
+13.178	0.0	0.9975514121195503	S;S_S;S;S_S;S;For_S;S;S_S;S;C;Build;Heavy;Up;10;S;C;Harvest;25;S;For_S;S;C;Attack;Closest;S;Empty	
+34766.982	0.0	0.9979352892788593	S;S_S;S;Empty;S;For_S;S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Base;1;S;S_S;S;S_S;S;C;Harvest;3;S;For_S;S;C;Harvest;2;S;C;Attack;Closest;S;C;Idle	
+86400	0.0	0.9979352892788593	S;S_S;S;Empty;S;For_S;S;S_S;S;If_B_then_S;B;HasNumberOfUnits;Base;1;S;S_S;S;S_S;S;C;Harvest;3;S;For_S;S;C;Harvest;2;S;C;Attack;Closest;S;C;Idle	

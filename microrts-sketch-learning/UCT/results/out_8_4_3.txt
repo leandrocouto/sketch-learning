@@ -1,0 +1,4 @@
+6.216	0.0	0.2180820155032448	1	S;For_S;S;C;Attack;Closest
+5827.624	0.0	0.22153565226793004	61	S;S_S;S;Empty;S;For_S;S;S_S;S;C;Harvest;6;S;C;MoveToUnit;Enemy;Weakest
+27223.817	0.0	0.2236965512573229	394	S;For_S;S;S_S;S;C;Harvest;6;S;C;Attack;Weakest
+172800	0.0	0.2236965512573229	394	S;For_S;S;S_S;S;C;Harvest;6;S;C;Attack;Weakest

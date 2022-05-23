@@ -1,0 +1,2 @@
+6.063	0.0	0.0	1	S;For_S;S;If_B_then_S;B;is_Type;Barracks;S;C;MoveAway
+172800	0.0	0.0	1	S;For_S;S;If_B_then_S;B;is_Type;Barracks;S;C;MoveAway

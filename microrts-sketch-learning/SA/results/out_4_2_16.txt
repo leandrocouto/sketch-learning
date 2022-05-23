@@ -1,0 +1,2 @@
+0.366	0.0	0.0	S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;2;S;C;MoveToUnit;Ally;MostHealthy;S;C;Harvest;2	
+86400	0.0	0.0	S;If_B_then_S_else_S;B;HasLessNumberOfUnits;Heavy;2;S;C;MoveToUnit;Ally;MostHealthy;S;C;Harvest;2	

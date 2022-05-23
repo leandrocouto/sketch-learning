@@ -1,0 +1,2 @@
+0.843	0.0	0.0	S;S_S;S;Empty;S;For_S;S;C;Train;Ranged;Left;50	
+86400	0.0	0.0	S;S_S;S;Empty;S;For_S;S;C;Train;Ranged;Left;50	

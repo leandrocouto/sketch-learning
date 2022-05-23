@@ -1,0 +1,4 @@
+6.021	0.0	0.12916962384669978	1	S;For_S;S;S_S;S;If_B_then_S;B;Idle;S;If_B_then_S;B;OpponentHasNumberOfUnits;Ranged;0;S;C;Idle;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;15;S;C;MoveAway;S;For_S;S;C;Train;Heavy;Left;4
+36.153	0.0	0.930991246747102	6	S;Empty
+616.833	0.0	0.9448899929027677	53	S;For_S;S;C;Idle
+172800	0.0	0.9448899929027677	53	S;For_S;S;C;Idle

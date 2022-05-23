@@ -1,0 +1,5 @@
+11.602	0.0	0.06256742179072276	1	S;For_S;S;C;MoveToUnit;Ally;Random
+42.997	0.0	0.9188781014023726	6	S;Empty
+640.963	0.0	0.9424050958031539	53	S;For_S;S;C;Idle
+90903.141	1.0	0.06256742179072276	7134	S;For_S;S;If_B_then_S_else_S;S;C;Idle;S;For_S;S;Empty;S;S_S;S;C;Train;Ranged;Left;3;S;C;Attack;Weakest
+172800	1.0	0.06256742179072276	7134	S;For_S;S;If_B_then_S_else_S;S;C;Idle;S;For_S;S;Empty;S;S_S;S;C;Train;Ranged;Left;3;S;C;Attack;Weakest

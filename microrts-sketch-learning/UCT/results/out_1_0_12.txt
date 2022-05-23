@@ -1,0 +1,7 @@
+6.018	0.0	0.3777221915922288	1	S;For_S;S;S_S;S;C;Train;Worker;Right;20;S;For_S;S;C;Attack;Farthest
+18.052	0.0	0.4994593919415412	3	S;For_S;S;S_S;S;For_S;S;C;Attack;Strongest;S;C;Train;Heavy;Down;25
+150.527	0.0	0.503153973772865	25	S;For_S;S;S_S;S;For_S;S;C;Train;Heavy;Down;5;S;S_S;S;C;Attack;Random;S;C;Build;Light;Down;5
+234.87	0.0	0.5530377252605455	39	S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;For_S;S;C;Train;Barracks;Down;15;S;S_S;S;C;Train;Heavy;Down;4;S;S_S;S;C;MoveToUnit;Enemy;Random;S;Empty
+343.345	1.0	0.3206460430318939	57	S;For_S;S;S_S;S;S_S;S;For_S;S;C;Attack;Strongest;S;For_S;S;C;Train;Ranged;Left;15;S;C;Train;Worker;Up;9
+25612.4	1.0	0.37245671722459894	4259	S;S_S;S;S_S;S;For_S;S;For_S;S;C;Train;Worker;Left;2;S;S_S;S;For_S;S;C;Attack;LessHealthy;S;For_S;S;C;Train;Ranged;Down;4;S;Empty
+172800	1.0	0.37245671722459894	4259	S;S_S;S;S_S;S;For_S;S;For_S;S;C;Train;Worker;Left;2;S;S_S;S;For_S;S;C;Attack;LessHealthy;S;For_S;S;C;Train;Ranged;Down;4;S;Empty

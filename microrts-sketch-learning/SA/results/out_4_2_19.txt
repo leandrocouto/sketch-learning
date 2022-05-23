@@ -1,0 +1,2 @@
+0.506	0.0	0.0	S;S_S;S;C;MoveAway;S;Empty	
+86400	0.0	0.0	S;S_S;S;C;MoveAway;S;Empty	

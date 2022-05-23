@@ -1,0 +1,5 @@
+6.04	0.0	0.2911467662163872	1	S;For_S;S;C;Build;Worker;Left;0
+12.089	0.0	0.3982487093885207	2	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Build;Barracks;Up;4;S;S_S;S;S_S;S;C;Harvest;20;S;C;MoveAway;S;C;Train;Ranged;Right;25;S;For_S;S;C;Idle
+927.738	0.0	0.4195839035116317	154	S;For_S;S;S_S;S;C;Build;Barracks;Down;2;S;S_S;S;C;Train;Heavy;Left;8;S;C;Harvest;100
+19054.917	0.0	0.6805636953353282	3164	S;S_S;S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;Right;6;S;S_S;S;C;Idle;S;For_S;S;C;Build;Barracks;Up;4;S;For_S;S;S_S;S;C;Train;Barracks;Right;10;S;For_S;S;S_S;S;C;Harvest;10;S;For_S;S;Empty;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;1;S;C;Idle;S;For_S;S;For_S;S;C;Attack;MostHealthy
+172800	0.0	0.6805636953353282	3164	S;S_S;S;S_S;S;For_S;S;S_S;S;C;Train;Heavy;Right;6;S;S_S;S;C;Idle;S;For_S;S;C;Build;Barracks;Up;4;S;For_S;S;S_S;S;C;Train;Barracks;Right;10;S;For_S;S;S_S;S;C;Harvest;10;S;For_S;S;Empty;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;1;S;C;Idle;S;For_S;S;For_S;S;C;Attack;MostHealthy

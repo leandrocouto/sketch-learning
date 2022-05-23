@@ -1,0 +1,6 @@
+8.489	0.0	0.0	1	S;For_S;S;For_S;S;C;Build;Ranged;Left;50
+38.713	0.0	0.009770114942528735	6	S;Empty
+1698.636	0.0	0.01700716110198868	255	S;For_S;S;C;Idle
+1771.847	0.0	0.02167510490786353	267	S;For_S;S;C;MoveAway
+23542.963	1.0	0.0	1889	S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Closest;S;S_S;S;C;Train;Ranged;Down;100;S;C;Train;Worker;Right;10
+172800	1.0	0.0	1889	S;S_S;S;For_S;S;C;Idle;S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Closest;S;S_S;S;C;Train;Ranged;Down;100;S;C;Train;Worker;Right;10

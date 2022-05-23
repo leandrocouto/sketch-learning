@@ -1,0 +1,5 @@
+6.015	0.0	0.25670498609542847	1	S;For_S;S;For_S;S;C;Harvest;20
+42.6	0.0	0.36781609058380127	7	S;For_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;MoveToUnit;Ally;MostHealthy;S;C;MoveToUnit;Ally;Random;S;S_S;S;C;Harvest;8;S;C;Build;Barracks;Down;100
+438.755	0.0	0.3742690086364746	72	S;For_S;S;S_S;S;S_S;S;C;Build;Barracks;EnemyDir;1;S;C;Train;Ranged;Down;8;S;C;MoveAway
+470.74	0.0	0.4305555522441864	77	S;For_S;S;S_S;S;C;Build;Barracks;Right;1;S;S_S;S;C;Idle;S;S_S;S;C;Train;Heavy;Right;50;S;C;MoveAway
+172800	0.0	0.4305555522441864	77	S;For_S;S;S_S;S;C;Build;Barracks;Right;1;S;S_S;S;C;Idle;S;S_S;S;C;Train;Heavy;Right;50;S;C;MoveAway

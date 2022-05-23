@@ -1,0 +1,4 @@
+163.499	0.0	0.021634062140391253	S;S_S;S;S_S;S;For_S;S;C;Train;Worker;Down;7;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;Empty	
+86400	0.0	0.021634062140391253	S;S_S;S;S_S;S;For_S;S;C;Train;Worker;Down;7;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;Empty	
+86415.819	0.0	0.021634062140391253	S;S_S;S;Empty;S;Empty	
+172800	0.0	0.021634062140391253	S;S_S;S;Empty;S;Empty	

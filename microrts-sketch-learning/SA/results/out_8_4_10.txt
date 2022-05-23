@@ -1,0 +1,4 @@
+38.688	0.0	0.0779816513761468	S;For_S;S;C;Train;Light;Down;2	
+86400	0.0	0.0779816513761468	S;For_S;S;C;Train;Light;Down;2	
+86438.724	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveToUnit;Ally;Strongest	
+172800	0.0	0.0779816513761468	S;S_S;S;Empty;S;For_S;S;C;MoveToUnit;Ally;Strongest	

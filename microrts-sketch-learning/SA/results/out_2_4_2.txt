@@ -1,0 +1,4 @@
+1.517	0.0	0.0	S;S_S;S;For_S;S;S_S;S;C;Harvest;50;S;C;Harvest;4;S;Empty	
+8413.635	0.5	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Train;Worker;Right;3;S;C;Harvest;2;S;C;Harvest;0;S;C;Build;Base;EnemyDir;4;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;EnemyDir;15	
+8495.017	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;Right;3;S;C;Harvest;2;S;C;Harvest;0;S;C;Build;Base;EnemyDir;4;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;EnemyDir;15	
+86400	1.0	0.0	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;S_S;S;C;Attack;Closest;S;C;Train;Worker;Right;3;S;C;Harvest;2;S;C;Harvest;0;S;C;Build;Base;EnemyDir;4;S;For_S;S;S_S;S;C;Idle;S;C;Train;Ranged;EnemyDir;15	

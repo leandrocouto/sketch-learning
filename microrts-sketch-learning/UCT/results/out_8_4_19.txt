@@ -1,0 +1,5 @@
+6.33	0.0	0.21667313399442265	1	S;For_S;S;C;Attack;LessHealthy
+6423.478	0.0	0.2180820155032448	59	S;For_S;S;C;Attack;Closest
+7008.221	0.0	0.21938513971436338	104	S;For_S;S;S_S;S;If_B_then_S_else_S;B;CanHarvest;S;If_B_then_S;B;CanHarvest;S;C;Train;Worker;Down;6;S;C;Harvest;2;S;C;MoveToUnit;Enemy;Random
+10162.19	0.0	0.22337988636845077	203	S;For_S;S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Strongest
+172800	0.0	0.22337988636845077	203	S;For_S;S;For_S;S;S_S;S;C;Harvest;5;S;C;Attack;Strongest

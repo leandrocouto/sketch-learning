@@ -1,0 +1,2 @@
+6.073	0.0	0.0	1	S;For_S;S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;8;S;C;Idle
+172800	0.0	0.0	1	S;For_S;S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;8;S;C;Idle

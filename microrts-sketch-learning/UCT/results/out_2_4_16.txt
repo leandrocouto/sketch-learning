@@ -1,0 +1,6 @@
+6.028	0.0	0.0	1	S;For_S;S;For_S;S;C;Train;Heavy;Right;50
+36.245	0.0	0.009770114942528735	6	S;Empty
+1660.546	0.0	0.01700716110198868	255	S;For_S;S;C;Idle
+1741.963	0.0	0.02167510490786353	267	S;For_S;S;C;MoveAway
+5065.672	1.0	0.0	790	S;For_S;S;S_S;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;2;S;C;Attack;Weakest
+172800	1.0	0.0	790	S;For_S;S;S_S;S;C;Idle;S;S_S;S;C;Train;Ranged;Left;2;S;C;Attack;Weakest

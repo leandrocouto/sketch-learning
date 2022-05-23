@@ -1,0 +1,5 @@
+6.175	0.0	0.3333333432674408	1	S;For_S;S;S_S;S;C;Idle;S;C;Build;Ranged;Right;4
+31.037	0.0	0.35555556416511536	5	S;For_S;S;For_S;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Train;Worker;Right;25
+73.71	0.0	0.3611111044883728	12	S;For_S;S;For_S;S;S_S;S;C;Train;Worker;Left;5;S;C;MoveAway
+133.119	0.0	0.5555555820465088	21	S;For_S;S;S_S;S;For_S;S;C;Train;Worker;Down;1;S;S_S;S;C;Harvest;6;S;For_S;S;Empty
+172800	0.0	0.5555555820465088	21	S;For_S;S;S_S;S;For_S;S;C;Train;Worker;Down;1;S;S_S;S;C;Harvest;6;S;For_S;S;Empty

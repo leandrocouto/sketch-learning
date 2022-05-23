@@ -1,0 +1,11 @@
+6.173	0.0	0.9277823335092059	1	S;For_S;S;C;Harvest;100
+18.257	0.0	0.9288990969057052	3	S;For_S;S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;1;S;S_S;S;C;MoveToUnit;Ally;Weakest;S;C;Build;Heavy;Down;6;S;S_S;S;C;Harvest;6;S;C;MoveToUnit;Ally;Random
+56.782	0.0	0.9338574013684148	8	S;S_S;S;For_S;S;C;Harvest;100;S;For_S;S;C;MoveToUnit;Enemy;Weakest
+68.847	0.0	0.9342081662015588	10	S;For_S;S;S_S;S;S_S;S;C;Harvest;8;S;C;Idle;S;S_S;S;C;Attack;Strongest;S;C;Train;Light;Left;2
+307.269	0.0	0.9366596529592126	37	S;For_S;S;S_S;S;S_S;S;C;Harvest;10;S;C;Attack;Closest;S;C;Train;Barracks;Up;10
+4658.234	0.0	0.9369655756219634	478	S;For_S;S;S_S;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Barracks;4;S;For_S;S;Empty;S;C;Harvest;15;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;C;Attack;Random;S;Empty
+10511.256	0.0	0.9371899189079806	1207	S;If_B_then_S_else_S;B;HaveQtdUnitsAttacking;50;B;IsBuilder;S;For_S;S;S_S;S;C;Harvest;7;S;C;Attack;Random
+14583.788	0.0	0.9378833436102159	1717	S;For_S;S;S_S;S;C;Harvest;50;S;C;Attack;Random
+19362.264	0.0	0.9387399270659184	2266	S;S_S;S;S_S;S;For_S;S;Empty;S;For_S;S;Empty;S;If_B_then_S_else_S;S;S_S;S;Empty;S;Empty;B;HasUnitWithinDistanceFromOpponent;15;S;For_S;S;S_S;S;C;Harvest;8;S;C;Attack;Random
+62528.417	0.0	0.9392294033263198	7080	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;100;S;C;Attack;Random
+172800	0.0	0.9392294033263198	7080	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;Harvest;100;S;C;Attack;Random

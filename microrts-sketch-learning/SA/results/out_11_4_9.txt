@@ -1,0 +1,4 @@
+19.595	0.0	0.021634062140391253	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;50;S;C;Build;Base;Down;25	
+86400	0.0	0.021634062140391253	S;For_S;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;50;S;C;Build;Base;Down;25	
+86419.09	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Train;Light;Left;15	
+172800	0.0	0.021634062140391253	S;S_S;S;Empty;S;For_S;S;C;Train;Light;Left;15	

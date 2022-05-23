@@ -1,0 +1,2 @@
+1.48	0.0	0.0	S;S_S;S;Empty;S;S_S;S;C;Train;Heavy;Right;15;S;S_S;S;C;Idle;S;C;Idle	
+172800	0.0	0.0	S;S_S;S;Empty;S;S_S;S;C;Train;Heavy;Right;15;S;S_S;S;C;Idle;S;C;Idle	

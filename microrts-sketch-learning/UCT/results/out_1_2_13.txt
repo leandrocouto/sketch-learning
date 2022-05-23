@@ -1,0 +1,3 @@
+6.012	0.0	0.0	1	S;S_S;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty;S;If_B_then_S;B;HasNumberOfUnits;Heavy;5;S;If_B_then_S;B;is_Type;Base;S;C;Train;Base;Right;5
+76831.084	1.0	0.0	12712	S;If_B_then_S;S;S_S;S;Empty;S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;S_S;S;C;Build;Heavy;EnemyDir;9;S;C;Train;Ranged;Left;4;S;For_S;S;C;Idle;B;HaveQtdUnitsAttacking;3
+172800	1.0	0.0	12712	S;If_B_then_S;S;S_S;S;Empty;S;For_S;S;S_S;S;Empty;S;S_S;S;S_S;S;S_S;S;C;Idle;S;C;Attack;Weakest;S;S_S;S;C;Build;Heavy;EnemyDir;9;S;C;Train;Ranged;Left;4;S;For_S;S;C;Idle;B;HaveQtdUnitsAttacking;3

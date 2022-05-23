@@ -1,0 +1,7 @@
+7.505	0.0	0.20664663244843495	1	S;For_S;S;C;Attack;MostHealthy
+52.101	0.0	0.214717051548379	4	S;For_S;S;For_S;S;S_S;S;For_S;S;C;MoveToUnit;Enemy;Random;S;C;Attack;Closest
+88.452	0.0	0.21667313399442265	9	S;For_S;S;For_S;S;C;Attack;LessHealthy
+443.762	0.0	0.2180820155032448	35	S;For_S;S;S_S;S;C;Attack;Closest;S;C;MoveAway
+3309.581	0.0	0.2204501050199215	130	S;For_S;S;S_S;S;C;Harvest;9;S;C;Attack;Closest
+9673.348	0.0	0.23101404353811333	373	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Weakest;B;OpponentHasNumberOfUnits;Base;25;B;OpponentHasNumberOfUnits;Heavy;15
+172800	0.0	0.23101404353811333	373	S;If_B_then_S_else_S;S;For_S;S;S_S;S;C;Harvest;3;S;C;Attack;Weakest;B;OpponentHasNumberOfUnits;Base;25;B;OpponentHasNumberOfUnits;Heavy;15

@@ -1,0 +1,5 @@
+6.159	0.0	0.9796389726716009	1	S;For_S;S;C;Attack;Closest
+42.538	0.0	0.9811306096334876	7	S;For_S;S;S_S;S;S_S;S;S_S;S;C;Build;Worker;Down;5;S;C;Harvest;15;S;Empty;S;C;Attack;Random
+72.699	0.0	0.9943268439813544	12	S;For_S;S;S_S;S;C;Attack;Strongest;S;For_S;S;S_S;S;For_S;S;C;Harvest;3;S;If_B_then_S_else_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;For_S;S;Empty;S;S_S;S;Empty;S;Empty
+319.76	0.0	0.9975514121195503	51	S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Closest
+172800	0.0	0.9975514121195503	51	S;For_S;S;S_S;S;C;Harvest;20;S;C;Attack;Closest

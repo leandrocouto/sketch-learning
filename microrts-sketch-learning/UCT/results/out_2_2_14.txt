@@ -1,0 +1,3 @@
+6.015	0.0	0.0	1	S;For_S;S;S_S;S;For_S;S;For_S;S;Empty;S;If_B_then_S;B;HasUnitInOpponentRange;S;C;Build;Worker;Up;0
+47195.152	1.0	0.0	7836	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;Train;Ranged;Left;3;S;C;Harvest;4
+172800	1.0	0.0	7836	S;For_S;S;S_S;S;S_S;S;C;Idle;S;C;MoveToUnit;Enemy;Weakest;S;S_S;S;C;Train;Ranged;Left;3;S;C;Harvest;4

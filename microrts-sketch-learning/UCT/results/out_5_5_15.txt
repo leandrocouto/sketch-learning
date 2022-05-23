@@ -1,0 +1,13 @@
+6.022	0.0	0.26851850748062134	1	S;For_S;S;C;Train;Worker;EnemyDir;8
+18.036	0.0	0.3333333432674408	3	S;For_S;S;C;Build;Barracks;Left;15
+48.15	0.0	0.3777777850627899	8	S;For_S;S;S_S;S;If_B_then_S_else_S;B;IsBuilder;S;If_B_then_S;B;is_Type;Worker;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;6;S;C;Attack;Random;S;C;Harvest;50;S;C;Build;Barracks;Left;2
+459.986	0.0	0.39407408237457275	76	S;S_S;S;For_S;S;For_S;S;For_S;S;C;Harvest;100;S;For_S;S;For_S;S;C;Train;Worker;Up;7
+944.799	0.0	0.4011111259460449	156	S;S_S;S;If_B_then_S;B;HaveQtdUnitsAttacking;6;B;is_Type;Ranged;S;For_S;S;For_S;S;For_S;S;S_S;S;C;Harvest;20;S;C;Train;Worker;Right;9
+1782.059	0.0	0.40444445610046387	295	S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Left;15;S;C;Build;Barracks;Down;25;S;C;Harvest;10;S;For_S;S;For_S;S;C;MoveToUnit;Ally;Closest;B;HasNumberOfWorkersHarvesting;10
+2215.978	0.0	0.41592592000961304	367	S;For_S;S;If_B_then_S_else_S;B;CanHarvest;S;If_B_then_S;B;OpponentHasUnitThatKillsUnitInOneAttack;S;C;Idle;S;S_S;S;S_S;S;C;Harvest;15;S;For_S;S;S_S;S;C;Idle;S;C;Train;Worker;Up;8;S;C;Build;Barracks;Left;6
+3137.327	0.0	0.46851852536201477	520	S;For_S;S;S_S;S;C;Build;Barracks;Up;6;S;For_S;S;S_S;S;C;Harvest;25;S;S_S;S;S_S;S;C;MoveToUnit;Ally;MostHealthy;S;C;MoveAway;S;S_S;S;C;Train;Worker;Down;25;S;C;MoveToUnit;Enemy;Strongest
+5807.539	0.0	0.48463767766952515	960	S;For_S;S;S_S;S;C;Harvest;3;S;S_S;S;If_B_then_S_else_S;B;Idle;S;S_S;S;C;Attack;Random;S;C;MoveAway;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Train;Worker;EnemyDir;9;S;C;Build;Barracks;EnemyDir;7
+37830.083	0.0	0.4911110997200012	6202	S;For_S;S;If_B_then_S_else_S;S;S_S;S;C;Build;Barracks;Left;1;S;S_S;S;S_S;S;C;Harvest;20;S;C;Idle;S;C;Train;Heavy;EnemyDir;20;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;C;Harvest;100;S;C;Idle;S;S_S;S;C;Attack;Strongest;S;For_S;S;C;Train;Ranged;Down;0
+56013.507	0.0	0.49176469445228577	9201	S;S_S;S;For_S;S;S_S;S;C;Build;Barracks;Up;6;S;For_S;S;S_S;S;C;Harvest;3;S;S_S;S;C;Attack;Weakest;S;C;Idle;S;S_S;S;Empty;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Build;Light;Up;3;S;For_S;S;C;Train;Worker;Up;7;S;S_S;S;Empty;S;Empty
+162579.683	1.0	0.34761905670166016	26834	S;For_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Idle;S;S_S;S;C;Train;Worker;Up;15;S;C;Attack;MostHealthy
+172800	1.0	0.34761905670166016	26834	S;For_S;S;S_S;S;S_S;S;C;Harvest;2;S;C;Idle;S;S_S;S;C;Train;Worker;Up;15;S;C;Attack;MostHealthy

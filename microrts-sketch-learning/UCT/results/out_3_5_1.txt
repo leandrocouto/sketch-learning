@@ -1,0 +1,10 @@
+8.165	0.0	0.30158731341362	1	S;For_S;S;S_S;S;For_S;S;For_S;S;C;Train;Worker;Up;9;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty
+14.178	0.0	0.42023810744285583	2	S;For_S;S;S_S;S;C;Train;Worker;Left;6;S;For_S;S;S_S;S;S_S;S;For_S;S;Empty;S;C;Harvest;7;S;If_B_then_S;B;HaveQtdUnitsAttacking;15;S;C;Idle
+322.071	0.0	0.4416666626930237	53	S;For_S;S;S_S;S;C;Harvest;8;S;C;Train;Worker;Right;7
+2242.647	0.0	0.44206348061561584	371	S;S_S;S;For_S;S;S_S;S;S_S;S;S_S;S;C;Build;Barracks;Left;6;S;C;Harvest;4;S;S_S;S;C;MoveToUnit;Enemy;Farthest;S;If_B_then_S_else_S;B;OpponentHasNumberOfUnits;Worker;6;S;If_B_then_S;B;IsBuilder;S;For_S;S;C;MoveToUnit;Enemy;Closest;S;For_S;S;For_S;S;C;Train;Worker;Down;3;S;C;Harvest;25;S;If_B_then_S;B;HasNumberOfWorkersHarvesting;1;S;C;MoveToUnit;Enemy;Closest
+2308.92	0.0	0.4444444477558136	382	S;If_B_then_S;S;S_S;S;For_S;S;S_S;S;C;Train;Worker;Left;6;S;For_S;S;C;Harvest;50;S;Empty;B;HasUnitWithinDistanceFromOpponent;0
+2694.81	0.0	0.4768959581851959	446	S;S_S;S;For_S;S;C;Harvest;50;S;For_S;S;If_B_then_S_else_S;B;HasNumberOfUnits;Heavy;50;S;C;Attack;Closest;S;S_S;S;C;Build;Barracks;Down;10;S;S_S;S;If_B_then_S_else_S;B;is_Type;Light;S;For_S;S;C;Attack;Weakest;S;S_S;S;C;Train;Worker;Up;9;S;C;Train;Heavy;Up;6;S;C;Train;Base;EnemyDir;6
+3376.373	0.0	0.4893534779548645	559	S;S_S;S;S_S;S;Empty;S;Empty;S;If_B_then_S_else_S;S;For_S;S;S_S;S;S_S;S;C;Train;Worker;Up;5;S;S_S;S;For_S;S;S_S;S;C;Harvest;25;S;If_B_then_S;B;HasUnitThatKillsInOneAttack;S;C;Idle;S;Empty;S;C;Build;Barracks;Down;25;S;S_S;S;C;Idle;S;C;Idle;S;For_S;S;C;MoveToUnit;Ally;Strongest
+19366.066	0.0	0.5210317373275757	3194	S;For_S;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Train;Base;Right;9;S;C;Attack;Closest;S;S_S;S;S_S;S;C;Harvest;5;S;C;Harvest;25;S;S_S;S;C;Train;Worker;Right;7;S;C;Build;Barracks;EnemyDir;3
+24242.598	0.0	0.5369047522544861	3995	S;For_S;S;S_S;S;S_S;S;C;Harvest;15;S;C;Train;Worker;Right;7;S;C;Build;Barracks;Down;100
+172800	0.0	0.5369047522544861	3995	S;For_S;S;S_S;S;S_S;S;C;Harvest;15;S;C;Train;Worker;Right;7;S;C;Build;Barracks;Down;100

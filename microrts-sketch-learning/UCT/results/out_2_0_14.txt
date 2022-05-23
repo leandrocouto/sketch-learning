@@ -1,0 +1,12 @@
+6.018	0.0	0.15812761324154515	1	S;For_S;S;If_B_then_S;B;CanHarvest;S;S_S;S;S_S;S;C;Build;Light;Left;7;S;C;Harvest;3;S;C;Idle
+12.056	0.0	0.1974049229891666	2	S;For_S;S;If_B_then_S_else_S;B;CanAttack;S;For_S;S;Empty;S;S_S;S;If_B_then_S_else_S;B;HasNumberOfWorkersHarvesting;25;S;If_B_then_S_else_S;B;HasUnitInOpponentRange;S;C;Harvest;25;S;C;MoveToUnit;Ally;Farthest;S;S_S;S;If_B_then_S;B;OpponentHasUnitInPlayerRange;S;C;Build;Ranged;Left;5;S;For_S;S;C;Train;Worker;Down;4;S;Empty
+36.151	0.0	0.2727328437727666	6	S;S_S;S;For_S;S;Empty;S;For_S;S;S_S;S;For_S;S;S_S;S;C;Attack;Random;S;C;Idle;S;S_S;S;S_S;S;C;MoveToUnit;Ally;Weakest;S;C;Attack;Farthest;S;C;Train;Heavy;EnemyDir;100
+90.285	0.0	0.27668977174041326	15	S;For_S;S;S_S;S;C;Train;Heavy;Down;6;S;C;Attack;Strongest
+96.321	0.0	0.28549497037492627	16	S;For_S;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;Idle;S;S_S;S;C;MoveToUnit;Enemy;LessHealthy;S;C;Train;Heavy;Left;2
+433.515	0.0	0.2910033645881859	72	S;For_S;S;S_S;S;For_S;S;For_S;S;S_S;S;For_S;S;C;Idle;S;C;Attack;Random;S;S_S;S;S_S;S;Empty;S;Empty;S;C;Train;Ranged;Up;100
+1285.849	0.0	0.3011747530861054	210	S;If_B_then_S;S;S_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S_else_S;B;CanAttack;S;If_B_then_S_else_S;B;OpponentHasUnitInPlayerRange;S;For_S;S;C;MoveToUnit;Ally;Strongest;S;For_S;S;C;Idle;S;S_S;S;For_S;S;C;Idle;S;C;Train;Heavy;Right;10;S;S_S;S;Empty;S;Empty;S;S_S;S;C;MoveToUnit;Enemy;Strongest;S;S_S;S;Empty;S;Empty;S;For_S;S;C;Train;Worker;EnemyDir;100;B;HasUnitWithinDistanceFromOpponent;2
+2970.303	0.0	0.30754233067368447	486	S;For_S;S;S_S;S;S_S;S;C;Harvest;100;S;C;Train;Ranged;EnemyDir;15;S;S_S;S;C;Train;Worker;Up;5;S;C;Attack;Strongest
+3806.883	0.0	0.4272991272822527	625	S;S_S;S;For_S;S;S_S;S;S_S;S;C;Train;Ranged;Up;50;S;C;Train;Worker;Right;2;S;For_S;S;C;Idle;S;For_S;S;C;Harvest;9
+4035.576	1.0	0.16076459624793324	663	S;For_S;S;S_S;S;For_S;S;S_S;S;S_S;S;If_B_then_S;B;HasUnitWithinDistanceFromOpponent;0;S;For_S;S;C;MoveToUnit;Ally;Farthest;S;C;Idle;S;S_S;S;S_S;S;S_S;S;Empty;S;Empty;S;S_S;S;Empty;S;Empty;S;If_B_then_S;B;IsBuilder;S;C;Harvest;15;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;6
+4360.315	1.0	0.18134077397452764	717	S;For_S;S;S_S;S;C;Train;Ranged;Right;7;S;S_S;S;C;Train;Worker;Right;10;S;C;Attack;Closest
+172800	1.0	0.18134077397452764	717	S;For_S;S;S_S;S;C;Train;Ranged;Right;7;S;S_S;S;C;Train;Worker;Right;10;S;C;Attack;Closest

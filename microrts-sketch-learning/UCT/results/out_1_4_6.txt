@@ -1,0 +1,4 @@
+6.028	0.0	0.9873179995779701	1	S;For_S;S;If_B_then_S_else_S;B;Idle;S;C;Harvest;100;S;C;Harvest;10
+18.069	0.0	0.9962931701484139	3	S;S_S;S;For_S;S;C;Harvest;3;S;For_S;S;S_S;S;C;Attack;Strongest;S;For_S;S;Empty
+2366.025	1.0	0.9910740662587044	391	S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;Empty;S;S_S;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;25;S;For_S;S;C;Harvest;8;S;Empty
+172800	1.0	0.9910740662587044	391	S;S_S;S;For_S;S;C;Idle;S;S_S;S;For_S;S;Empty;S;S_S;S;For_S;S;S_S;S;S_S;S;C;MoveToUnit;Enemy;Weakest;S;C;Train;Ranged;Left;25;S;For_S;S;C;Harvest;8;S;Empty

@@ -1,0 +1,7 @@
+346.276	0.0	0.17914053466693736	1	S;For_S;S;For_S;S;S_S;S;Empty;S;S_S;S;C;MoveAway;S;For_S;S;For_S;S;S_S;S;Empty;S;Empty
+374.576	0.0	0.21667313399442265	5	S;For_S;S;For_S;S;C;Attack;LessHealthy
+607.597	0.0	0.21810812568855628	11	S;For_S;S;S_S;S;C;Idle;S;C;Attack;Closest
+1135.707	0.0	0.2248817656504055	46	S;For_S;S;S_S;S;S_S;S;C;Harvest;6;S;C;Attack;Closest;S;For_S;S;C;Train;Base;Left;20
+10465.585	0.0	0.22504138381174618	257	S;If_B_then_S_else_S;S;For_S;S;C;Harvest;5;S;For_S;S;C;MoveAway;S;For_S;S;C;MoveToUnit;Enemy;Closest
+143292.382	0.0	0.2283600535138469	1074	S;For_S;S;S_S;S;S_S;S;C;Harvest;4;S;If_B_then_S;B;HaveQtdUnitsAttacking;9;S;C;Idle;S;C;Attack;LessHealthy
+172800	0.0	0.2283600535138469	1074	S;For_S;S;S_S;S;S_S;S;C;Harvest;4;S;If_B_then_S;B;HaveQtdUnitsAttacking;9;S;C;Idle;S;C;Attack;LessHealthy

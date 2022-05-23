@@ -1,0 +1,2 @@
+2.165	0.0	0.0	S;S_S;S;Empty;S;C;Train;Worker;Down;6	
+172800	0.0	0.0	S;S_S;S;Empty;S;C;Train;Worker;Down;6	
