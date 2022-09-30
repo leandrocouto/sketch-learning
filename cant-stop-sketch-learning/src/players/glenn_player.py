@@ -1,5 +1,6 @@
 from players.rule_of_28_player import Rule_of_28_Player
 
+
 class Glenn_Player(Rule_of_28_Player):
     """ 
     Heuristic proposed by the article 'A Generalized Heuristic for 
@@ -19,6 +20,6 @@ class Glenn_Player(Rule_of_28_Player):
         self.threshold = 29
 
         self.player_name = player_name
-        
+
     def get_name(self):
         return self.player_name

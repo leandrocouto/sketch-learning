@@ -2,6 +2,7 @@ from players.player import Player
 import numpy as np
 import copy
 
+
 class Rule_of_28_Player(Player):
 
     def __init__(self):
@@ -44,7 +45,8 @@ class Rule_of_28_Player(Player):
             for i in range(len(scores)):
                 # Iterate over all columns in action
                 for column in actions[i]:
-                    scores[i] += self.advance(actions[i]) * self.move_value[column] - self.marker * self.is_new_neutral(column, state)
+                    scores[i] += self.advance(actions[i]) * self.move_value[
+                        column] - self.marker * self.is_new_neutral(column, state)
             chosen_action = actions[np.argmax(scores)]
             return chosen_action
 
@@ -115,7 +117,7 @@ class Rule_of_28_Player(Player):
         for won_column in clone_state.finished_columns:
             if state.player_turn == won_column[1]:
                 won_columns += 1
-        #This means if the player stop playing now, they will win the game
+        # This means if the player stop playing now, they will win the game
         if won_columns == 3:
             return True
         else:
@@ -152,7 +154,7 @@ class Rule_of_28_Player(Player):
             difficulty_score += self.highs
 
         return difficulty_score
-    
+
     def is_new_neutral(self, action, state):
         # Return a boolean representing if action will place a new neutral. """
         is_new_neutral = True
