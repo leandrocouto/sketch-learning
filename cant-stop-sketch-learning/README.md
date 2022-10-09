@@ -51,14 +51,14 @@ python3 -m pip install -r requirements.txt
 
 `main.py` programmatically instantiates an algorithm with its arguments based on the flags used when running `main.py`. Below, there is a brief explanation of the flags available for the user. Refer to their respective files (`main.py`, `players/`, `evaluation.py`, etc) for detailed information in the docstrings.
 
-- `-search`: Defines which search algorithm will be used (`SimulatedAnnealing, BottomUpSearch, SketchSimulatedAnnealing, SketchUCT`).
+- `-search`: Defines which search algorithm will be used `(SimulatedAnnealing, BottomUpSearch, SketchSimulatedAnnealing, SketchUCT)`.
 - `-e`: Defines the evaluation function to be used in the search algorithm `(EvalDoubleProgramDefeatsStrategy, EvalStateBasedImitationAgent, EvalStateBasedImitationGlennAgent, EvalStateBasedImitationRandomAgent, EvalActionBasedImitationAgent, EvalActionBasedImitationGlennAgent, EvalActionBasedImitationRandomAgent)`.
 - `-e_2`: Defines the evaluation function to be used in the BR-search from the sketch-search  `(EvalDoubleProgramDefeatsStrategy, EvalStateBasedImitationAgent, EvalStateBasedImitationGlennAgent, EvalStateBasedImitationRandomAgent, EvalActionBasedImitationAgent, EvalActionBasedImitationGlennAgent, EvalActionBasedImitationRandomAgent)`.
 - `-time`: Defines the maximum time the search algorithm will run for, in seconds.
 - `-time_2`: Defines the maximum time the BR-search from the sketch-search will run for, in seconds.
 - `-n`: Defines the number of games played for evaluation.
 - `--triage`: Asserts that triage will be used in the evaluation step.
-- `-confidence_triage`: Defines the confidence value used to determine the number of games to be played and evaluated during triage evaluation (`[0,1]`). 
+- `-confidence_triage`: Defines the confidence value used to determine the number of games to be played and evaluated during triage evaluation `([0,1])`. 
 - `-log_file`: Defines the name of the file where logs will be written as text.
 - `-program_file`: Defines the name of the file where programs will be written as text.
 - `--double-programs`: Asserts that the synthesis step should synthesize both types of actions in the Can't Stop game. This is a deprecated option, this flag is always necessary currently for the program to run properly.

@@ -101,7 +101,6 @@ class IteratedBestResponse:
 
             evaluation_function = EvalDoubleProgramDefeatsStrategy(number_evaluations,
                                                                    target_player)
-            print('antes')
             winrate, program = self.search_algorithm.search(operations,
                                                             numeric_constant_values,
                                                             string_constant_values,

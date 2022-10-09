@@ -115,7 +115,7 @@ def main():
     parser.add_argument('--reuse-tree', action='store_true', default=False,
                         dest='reuse_tree',
                         help='UCT reuses its tree and SA starts with previous solution in '
-                             'between iterations of IBR')
+                             'between iterations')
 
     parameters = parser.parse_args()
 
