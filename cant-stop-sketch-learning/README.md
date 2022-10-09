@@ -20,7 +20,7 @@ This paper was submitted and accepted for publication in *AAAI-2022*.
     ├── src/                       # Source files
     │   ├── dsl/                       # Base DSL
     │   ├── learning/                  # Learning-based algorithms
-    │   ├── players/                   # Load and stress tests
+    │   ├── players/                   # Player implementations
     │   ├── search/                    # Search-based algorithms
     │   ├── evaluation.py              # Implementation of all types of evaluations used
     │   ├── game.py                    # Implementation of Can't Stop rules
