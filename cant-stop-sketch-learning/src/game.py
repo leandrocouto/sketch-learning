@@ -255,11 +255,15 @@ class Game:
                 if current_position_zero == len(cell_list) - 1:
                     if (col, self.player_turn) not in self.player_won_column:
                         self.player_won_column.append((col, self.player_turn))
+                        cell_list[current_position_zero].markers.remove(0)
+                        self.neutral_positions.remove((col,current_position_zero))
                 else:
                     cell_list[current_position_zero].markers.remove(0)
                     cell_list[current_position_zero + 1].markers.append(0)
                     self.neutral_positions.remove((col, current_position_zero))
                     self.neutral_positions.append((col, current_position_zero + 1))
+        if self.n_neutral_markers > 3:
+            self.n_neutral_markers = 3
         # Next action should be [y,n]
         self.dice_action = False
         # Then a new dice roll is done (same is done if the player is busted)
